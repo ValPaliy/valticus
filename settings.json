@@ -1,7 +1,0 @@
-{
-    "Host": "https://valticus.cf/",
-    "LinksUseHttps": true,
-    "LinkRoot": "/",
-    "LinkLowercase": true,
-    "UseCache": true
-}
