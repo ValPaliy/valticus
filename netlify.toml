@@ -1,3 +1,4 @@
 [build]
   publish = "./output"
   command = "dotnet run --configuration Release"
+  command = "CI= npm run build"
