@@ -1,4 +1,5 @@
+[build.environment]
+  process.env.CI = "false"
 [build]
   publish = "./output"
-  command = "process.env.CI = false"
   command = "dotnet run --configuration Release"
