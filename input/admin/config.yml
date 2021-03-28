@@ -1,5 +1,6 @@
 backend:
-  name: github
+  name: git@github.com:ValPaliy/valticus.git
+  branch: master
 
 site_url: https://valticus.cf
 
