@@ -4,5 +4,15 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>Copyright © 2021</rights>
-	<updated>2021-03-28T16:57:31Z</updated>
+	<updated>2021-03-28T20:09:28Z</updated>
+	<entry>
+		<id>/posts/why-i-dont-use-netlify-cms-yet</id>
+		<title>Why I Dont Use Netlify Cms Yet</title>
+		<link href="/posts/why-i-dont-use-netlify-cms-yet" />
+		<updated>2021-03-28T23:09:24Z</updated>
+		<content>&lt;p&gt;#Why I don't use Netlify CMS (yet)&lt;/p&gt;
+&lt;p&gt;The answer is simple - &lt;a href="https://www.netlifycms.org/"&gt;Netlify CMS&lt;/a&gt; doesn't fully support &lt;a href="https://statiq.dev/web/"&gt;Statiq Web&lt;/a&gt; yet. You can read more on the subject &lt;a href="https://answers.netlify.com/t/integrating-netlify-cms-into-statiq-website-config-yml-not-found/"&gt;in this thread&lt;/a&gt;.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;#Why I don't use Netlify CMS (yet)&lt;/p&gt;</summary>
+	</entry>
 </feed>
