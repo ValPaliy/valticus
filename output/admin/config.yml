@@ -1,0 +1,39 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "input/images/uploads" # Media files will be stored in the repo under input/assets/Images
+public_folder: "/images/uploads" # public_folder indicates where they can be found in the published site. This path is used in image src attributes and is relative to the file where its called.  https://www.netlifycms.org/docs/add-to-your-site/
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "input/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "Title", widget: "string" }
+      - {
+          label: "Lead",
+          name: "Lead",
+          widget: "string",
+          optional: true,
+          required: false,
+        }
+      - { label: "Published", name: "Published", widget: "datetime" }
+      - {
+          label: "Featured Image",
+          name: "Image",
+          widget: "image",
+          optional: true,
+          required: false,
+          pattern:
+            [
+              '^\S*$',
+              "Please rename your image remove any spaces from the filename",
+            ],
+        }
+      - label: Tags
+        name: Tags
+        widget: list
+      - { label: "Body", name: "body", widget: "markdown" }
