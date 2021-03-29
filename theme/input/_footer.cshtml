@@ -6,19 +6,27 @@
 
 
 
+
+
+
+
                 {
-                        <p class="text-center small text-muted">Originally published at <a
-                                href="@Document.GetString("Canonical")">@Document.GetString("Canonical")</a>.</p>
-                        <br />
+                    <p class="text-center small text-muted">Originally published at <a
+                            href="@Document.GetString("Canonical")">@Document.GetString("Canonical")</a>.</p>
+                    <br />
 
                 }
                 <p class="copyright text-muted m-0">@Document.GetString(WebKeys.Copyright) <a
-                        href="https://valcodes.ml">#valcodes</a></p>
+                        href="https://valcodes.ml">#valcodes</a>. All Rights Reserved.</p>
                 <br />
                 <ul class="list-inline text-center small">
                     @{
 
                         IDocument rssFeed = Outputs["**/*.rss"].FirstOrDefault();
+
+
+
+
 
 
 
@@ -28,20 +36,28 @@
 
 
 
+
+
+
+
                     {
-                            <li class="list-inline-item">
-                                <a href="@Context.GetLink(rssFeed)"><i class="fa fa-rss"></i> RSS Feed</a>
-                            </li>
+                        <li class="list-inline-item">
+                            <a href="@Context.GetLink(rssFeed)"><i class="fa fa-rss"></i> RSS Feed</a>
+                        </li>
 
                     }
                     @if (atomFeed != null)
 
 
 
+
+
+
+
                     {
-                            <li class="list-inline-item">
-                                <a href="@Context.GetLink(atomFeed)"><i class="fa fa-rss"></i> Atom Feed</a>
-                            </li>
+                        <li class="list-inline-item">
+                            <a href="@Context.GetLink(atomFeed)"><i class="fa fa-rss"></i> Atom Feed</a>
+                        </li>
 
                     }
                 </ul>
