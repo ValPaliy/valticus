@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\input"
+    "\\input",
+    "\\theme",
+    "\\theme\\input",
+    "\\theme\\input\\scss"
   ],
-  "SelectedNode": "\\input\\index.md",
+  "SelectedNode": "\\theme\\input\\scss\\_masthead.scss",
   "PreviewInSolutionExplorer": false
 }
