@@ -1,1 +1,1 @@
-I host my portfolio in a [dedicated repository](https://github.com/ValPaliy/portfolio) on [GitHub](https://github.com/).
+I host my portfolio in a [dedicated repository](https://github.com/ValPaliy/portfolio) on [GitHub](https://github.com/). If you would like to get in touch, feel free to <a href="mailto:valticus81@gmail.com">e-mail me</a>.
