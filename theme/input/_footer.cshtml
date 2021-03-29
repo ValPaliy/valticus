@@ -4,13 +4,15 @@
             <div class="col-md-12 text-center">
                 @if (Document.ContainsKey("Canonical"))
 
+
+
                 {
-                    <p class="text-center small text-muted">Originally published at <a
-                            href="@Document.GetString("Canonical")">@Document.GetString("Canonical")</a>.</p>
-                    <br />
+                        <p class="text-center small text-muted">Originally published at <a
+                                href="@Document.GetString("Canonical")">@Document.GetString("Canonical")</a>.</p>
+                        <br />
 
                 }
-                <p class="copyright text-muted m-0">@Document.GetString(WebKeys.Copyright) Part of <a
+                <p class="copyright text-muted m-0">@Document.GetString(WebKeys.Copyright) <a
                         href="https://valcodes.ml">#valcodes</a></p>
                 <br />
                 <ul class="list-inline text-center small">
@@ -18,22 +20,28 @@
 
                         IDocument rssFeed = Outputs["**/*.rss"].FirstOrDefault();
 
+
+
                         IDocument atomFeed = Outputs["**/*.atom"].FirstOrDefault();
                     }
                     @if (rssFeed != null)
 
+
+
                     {
-                        <li class="list-inline-item">
-                            <a href="@Context.GetLink(rssFeed)"><i class="fa fa-rss"></i> RSS Feed</a>
-                        </li>
+                            <li class="list-inline-item">
+                                <a href="@Context.GetLink(rssFeed)"><i class="fa fa-rss"></i> RSS Feed</a>
+                            </li>
 
                     }
                     @if (atomFeed != null)
 
+
+
                     {
-                        <li class="list-inline-item">
-                            <a href="@Context.GetLink(atomFeed)"><i class="fa fa-rss"></i> Atom Feed</a>
-                        </li>
+                            <li class="list-inline-item">
+                                <a href="@Context.GetLink(atomFeed)"><i class="fa fa-rss"></i> Atom Feed</a>
+                            </li>
 
                     }
                 </ul>
