@@ -75,6 +75,6 @@ Or run it and preview the generated site:
 
 <i>dotnet run -- preview</i>
 
-(I actually did run the site with <i>--preview</i> to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
+(I actually did run the site with <i>--preview</i> to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](https://valticus.cf/posts/how-to-deploy-on-netlify), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
 
 I hope you found this article useful. Thank you very much for taking your time to read it!
