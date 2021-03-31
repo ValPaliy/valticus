@@ -1,10 +1,11 @@
 ---
-title:  'How To Deploy On Netlify'
-date: March 31st
-author:
-- Val Paliy
-keywords: [netlify, Statiq, deploy, howto]
-tags: [netlify, static, , deploy, howto]
+title: How To Deploy On Netlify
+date: 2021-03-31
+tags:
+  - netlify
+  - statiq
+  - deploy
+  - howto
 ---
 
 ## How To Deploy On Netlify
