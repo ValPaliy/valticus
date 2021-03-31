@@ -1,3 +1,12 @@
+---
+title:  'How To Deploy On Netlify'
+date: March 31st
+author:
+- Val Paliy
+keywords: [netlify, Statiq, deploy, howto]
+tags: [netlify, static, , deploy, howto]
+---
+
 ## How To Deploy On Netlify
 
 The official guide on how to deploy your website to [Netlify](https://www.netlify.com/), which can be found [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/), explains the required steps:)
