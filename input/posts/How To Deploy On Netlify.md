@@ -24,12 +24,12 @@ The steps for bootstraping a Static website are as follows:
 - Step 2: Create a .NET Core Console Application
   Create a new console application using the dotnet command-line interface:
 
-<u>dotnet new console --name MySite</u>
+<i>dotnet new console --name MySite</i>
 
 - Step 3: Install Statiq.Web
   In same folder as your newly created project (i.e. MySite).
 
-<u>dotnet add package Statiq.Web --version x.y.z</u>
+<i>dotnet add package Statiq.Web --version x.y.z</i>
 
 Use [whatever is the most recent version](https://www.nuget.org/packages/Statiq.Web) of Statiq.Web. The --version flag is needed while the package is pre-release.
 
@@ -67,14 +67,14 @@ Hello from my first Statiq page.
 
   Let the magic happen:
 
-<u>dotnet run</u>
+<i>dotnet run</i>
 
 This will by default create an output folder in your project folder if it doesn't exists and generate static web site content based on what's in your input folder.
 
 Or run it and preview the generated site:
 
-<u>dotnet run -- preview</u>
+<i>dotnet run -- preview</i>
 
-(I actually did run the site with <u>--preview</u> to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
+(I actually did run the site with <i>--preview</i> to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
 
 I hope you found this article useful. Thank you very much for taking your time to read it!
