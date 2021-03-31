@@ -10,6 +10,30 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 {
                     <p class="text-center small text-muted">Originally published at <a
                             href="@Document.GetString("Canonical")">@Document.GetString("Canonical")</a>.</p>
@@ -30,9 +54,57 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                         IDocument atomFeed = Outputs["**/*.atom"].FirstOrDefault();
                     }
                     @if (rssFeed != null)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,6 +126,30 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     {
                         <li class="list-inline-item">
                             <a href="@Context.GetLink(atomFeed)"><i class="fa fa-rss"></i> Atom Feed</a>
@@ -61,6 +157,8 @@
 
                     }
                 </ul>
+                <br />
+                <a href="https://www.netlify.com/"><img src="/img/netlify-color-bg.svg"></a>
             </div>
         </div>
     </div>

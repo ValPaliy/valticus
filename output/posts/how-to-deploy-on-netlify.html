@@ -6,9 +6,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Valticus - Why I Don&#x27;t Use Netlify CMS (Yet)</title>
+  <title>Valticus - How To Deploy On Netlify</title>
 
-  <link rel="canonical" href="/posts/why-i-dont-use-netlify-cms-yet">
+  <link rel="canonical" href="/posts/how-to-deploy-on-netlify">
 
       <link type="application/rss+xml" rel="alternate" href="/feed.rss" />
       <link type="application/atom+xml" rel="alternate" href="/feed.atom" />
@@ -17,9 +17,9 @@
   <meta name="msapplication-tooltip" content="Valticus" />
   <meta name="msapplication-starturl" content="/" />
 
-  <meta property="og:title" content="Valticus - Why I Don&#x27;t Use Netlify CMS (Yet)" />
+  <meta property="og:title" content="Valticus - How To Deploy On Netlify" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/posts/why-i-dont-use-netlify-cms-yet" />
+  <meta property="og:url" content="/posts/how-to-deploy-on-netlify" />
   
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -82,9 +82,9 @@
       <div class="col-md-12">
         <div class="post-heading">
           <h1>
-            Why I Don&#x27;t Use Netlify CMS (Yet)
+            How To Deploy On Netlify
           </h1>
-              <div class="meta">Published on Monday, March 29, 2021</div>
+              <div class="meta">Published on Wednesday, March 31, 2021</div>
         </div>
       </div>
     </div>
@@ -95,8 +95,73 @@
   <div class="container"> 
     <div class="row">
       <div id="content" class="col-md-12">  
-        <h2 id="why-i-dont-use-netlify-cms-yet">Why I Don't Use Netlify CMS (Yet)</h2>
-<p>The answer is simple - <a href="https://www.netlifycms.org/">Netlify CMS</a> doesn't fully support <a href="https://statiq.dev/web/">Statiq Web</a> yet. You can read more on the subject <a href="https://answers.netlify.com/t/integrating-netlify-cms-into-statiq-website-config-yml-not-found/">in this thread</a>.</p>
+        <h2 id="how-to-deploy-on-netlify">How To Deploy On Netlify</h2>
+<p>The official guide on how to deploy your website to <a href="https://www.netlify.com/">Netlify</a>, which can be found [here]https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/, explains the required steps:</p>
+<ul>
+<li>Step 1: Add Your New Site. Creating a new site on Netlify is simple.</li>
+<li>Step 2: Link to Your GitHub (or supported version-control tool of choice)</li>
+<li>Step 3: Authorize <a href="https://www.netlify.com/">Netlify</a>.</li>
+<li>Step 4: Select Your Repo.</li>
+<li>Step 5: Configure Your Settings.</li>
+<li>Step 6: Build Your Site.</li>
+<li>Step 7: All Done.</li>
+</ul>
+<p>And it's really as simple as that. The very blog you are exploring at the moment is deployed on <a href="https://www.netlify.com/">Netlify</a> too, and the score is pretty great, as you can see on <a href="https://testmysite.io/6064bce9a7065f5be16d3cdf/valticus.cf">Test My Site</a>:</p>
+<img src="/img/testmysite-results-valticus.png" alt="TestMySite results for valticus" title="TestMySite results for valticus">
+<p>After I had set everything up on <a href="https://www.netlify.com/">Netlify</a>, all I had to do is generate a basic <a href="https://statiq.dev/web/">Statiq</a> site and push it to the repository from which the this site is deployed via <a href="https://www.netlify.com/">Netlify</a>.</p>
+<p>The steps for bootstraping a Static website are as follows:</p>
+<ul>
+<li><p>Step 1: Install .NET Core
+Statiq Web consists of .NET Core libraries and installing the .NET Core SDK is the only prerequisite.</p>
+</li>
+<li><p>Step 2: Create a .NET Core Console Application
+Create a new console application using the dotnet command-line interface:</p>
+</li>
+</ul>
+<p><u>dotnet new console --name MySite</u></p>
+<ul>
+<li>Step 3: Install Statiq.Web
+In same folder as your newly created project (i.e. MySite).</li>
+</ul>
+<p><u>dotnet add package Statiq.Web --version x.y.z</u></p>
+<p>Use <a href="https://www.nuget.org/packages/Statiq.Web">whatever is the most recent version</a> of Statiq.Web. The --version flag is needed while the package is pre-release.</p>
+<ul>
+<li>Step 4: Create a Bootstrapper
+Creating a bootstrapper for Statiq Web initializes everything you’ll need to generate your web site. While you can certainly extend Statiq Web with new pipelines or custom modules, you shouldn’t need to for most sites. Add the following code in your Program.cs file:</li>
+</ul>
+<p>using System.Threading.Tasks;
+using Statiq.App;
+using Statiq.Web;</p>
+<p>namespace MySite
+{
+public class Program
+{
+public static async Task<int> Main(string[] args) =&gt;
+await Bootstrapper
+.Factory
+.CreateWeb(args)
+.RunAsync();
+}
+}</p>
+<ul>
+<li>Step 5: Add Some Content
+Start adding content by creating Markdown files in your input folder, by default input folder is located in your project root.</li>
+</ul>
+<p>To get something served you can add the following code as index.md file in your input folder.</p>
+<h2 id="title-my-first-statiq-page">Title: My First Statiq page</h2>
+<h1 id="hello-world">Hello World!</h1>
+<p>Hello from my first Statiq page.</p>
+<ul>
+<li><p>Step 6: Run it!</p>
+<p>Let the magic happen:</p>
+</li>
+</ul>
+<p><u>dotnet run</u></p>
+<p>This will by default create an output folder in your project folder if it doesn't exists and generate static web site content based on what's in your input folder.</p>
+<p>Or run it and preview the generated site:</p>
+<p><u>dotnet run -- preview</u></p>
+<p>(I actually did run the site with <u>--preview</u> to make sure everything works before I pushed the files to the dedicated repo.) And <a href="">as I've stated previously</a>, <a href="https://www.netlifycms.org/">Netlify CMS</a> doesn't go well with <a href="https://statiq.dev/web/">Statiq</a> yet, but I am sure it will change for the better soon enough.</p>
+<p>I hope you found this article useful. Thank you very much for taking your time to read it!</p>
 
 
       </div>
