@@ -14,7 +14,7 @@ Tags:
 
 ## How To Deploy On Netlify
 
-The official guide on how to deploy your website to [Netlify](https://www.netlify.com/), which can be found [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/), explains the required steps:)
+The official guide on how to deploy your website to [Netlify](https://www.netlify.com/), which can be found [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/), explains the required steps):
 
 - Step 1: Add Your New Site. Creating a new site on Netlify is simple.
 - Step 2: Link to Your GitHub (or supported version-control tool of choice)
