@@ -1,5 +1,6 @@
 ---
 Title: How To Deploy On Netlify
+Description: Learn how to create and deploy you website to Netlify.
 Published: 2021-03-31
 Author:
   - Val Paliy

@@ -8,6 +8,7 @@ ArchivePageSize: 10
 ArchiveOrderKey: Published
 ArchiveOrderDescending: true
 Title: Tags
+ShowInNavbar: false
 ArchiveTitle: => GetString("GroupKey")
 ---
 @if (Document.ContainsKey(Keys.GroupKey))
@@ -29,7 +30,7 @@ ArchiveTitle: => GetString("GroupKey")
     </div>
 }
 else
-{ 
+{
     @foreach (IDocument tag in Document.GetChildren().OrderByDescending(x => x.GetChildren().Count()))
     {
         string postCount = tag.GetChildren().Count().ToString();

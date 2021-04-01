@@ -1,3 +1,18 @@
+---
+Title: About me
+Description: My resume.
+Published: 2021-03-28
+IsPost: false
+ShowInNavbar: true
+Author:
+  - Val Paliy
+Keywords: [val paliy, resume, about me, info]
+Tags:
+  - val paliy
+  - resume
+  - about me
+  - info
+---
 # Val Paliy
 
 Curator of Svelte Ukraine at [#valcodes](https://valcodes.ml/).
