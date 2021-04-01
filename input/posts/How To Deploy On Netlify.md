@@ -1,6 +1,5 @@
 ---
 Title: How To Deploy On Netlify
-Date: 2021-03-31
 Published: 2021-03-31
 Author:
   - Val Paliy

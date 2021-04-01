@@ -1,6 +1,5 @@
 ---
 Title: Why I Don't Use Netlify CMS (Yet)
-Date: 2021-03-28
 Published: 2021-03-28
 Author:
   - Val Paliy
