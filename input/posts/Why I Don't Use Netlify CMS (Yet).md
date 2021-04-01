@@ -1,10 +1,13 @@
 ---
 title: Why I Don't Use Netlify CMS (Yet)
 date: 2021-03-28
+author:
+  - Val Paliy
+keywords: [netlify, statiq, netlify cms]
 tags:
   - netlify
   - statiq
-  - netligy cms
+  - netlify cms
 ---
 
 ## Why I Don't Use Netlify CMS (Yet)
