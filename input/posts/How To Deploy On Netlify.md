@@ -37,18 +37,18 @@ The steps for bootstraping a Static website are as follows:
 - Step 2: Create a .NET Core Console Application
   Create a new console application using the dotnet command-line interface:
 
-<i>dotnet new console --name MySite</i>
+`dotnet new console --name MySite`
 
 - Step 3: Install Statiq.Web
   In same folder as your newly created project (i.e. MySite).
 
-<i>dotnet add package Statiq.Web --version x.y.z</i>
+`dotnet add package Statiq.Web --version x.y.z`
 
 Use [whatever is the most recent version](https://www.nuget.org/packages/Statiq.Web) of Statiq.Web. The --version flag is needed while the package is pre-release.
 
 - Step 4: Create a Bootstrapper
   Creating a bootstrapper for Statiq Web initializes everything you’ll need to generate your web site. While you can certainly extend Statiq Web with new pipelines or custom modules, you shouldn’t need to for most sites. Add the following code in your Program.cs file:
-
+```
 using System.Threading.Tasks;
 using Statiq.App;
 using Statiq.Web;
@@ -64,30 +64,30 @@ await Bootstrapper
 .RunAsync();
 }
 }
-
+```
 - Step 5: Add Some Content
   Start adding content by creating Markdown files in your input folder, by default input folder is located in your project root.
 
 To get something served you can add the following code as index.md file in your input folder.
-
+```
 ## Title: My First Statiq page
 
 # Hello World!
 
 Hello from my first Statiq page.
-
+```
 - Step 6: Run it!
 
   Let the magic happen:
 
-<i>dotnet run</i>
+`dotnet run`
 
 This will by default create an output folder in your project folder if it doesn't exists and generate static web site content based on what's in your input folder.
 
 Or run it and preview the generated site:
 
-<i>dotnet run -- preview</i>
+`dotnet run -- preview`
 
-(I actually did run the site with <i>--preview</i> to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](https://valticus.cf/posts/why-i-dont-use-netlify-cms-yet), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
+(I actually did run the site with `--preview` to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](https://valticus.cf/posts/why-i-dont-use-netlify-cms-yet), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
 
 I hope you found this article useful. Thank you very much for taking your time to read it!
