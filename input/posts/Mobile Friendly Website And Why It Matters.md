@@ -4,7 +4,7 @@ Description: A brief look at what mobile friendliness is and why it matters.
 Published: 2021-04-02
 Author:
   - Val Paliy
-Keywords: [mobile friendly, mobile friendliness, usability, accessibility,  user experience, UX]
+Keywords: [mobile friendly, mobile friendliness, usability, accessibility,  user experience, UX, W3C, WCAG]
 Tags:
  - mobile friendly
  - mobile friendliness
@@ -12,6 +12,8 @@ Tags:
  - accessibility
  - user experience
  - UX
+ - W3C
+ - WCAG
 ---
 ## Mobile Friendly Website And Why It Matters
 
