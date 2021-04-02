@@ -31,9 +31,9 @@ This website had 3 minor errors, which I had [fixed in almost no time](https://v
 
 One other important aspect of WA in our modern times is mobile friendliness. In other words, modern websites have to be easy to navigate on a device such as a mobile phone or a tablet. So naturally, I check this website of mine to see how well it stands as far as being mobile friendly goes. To do this, all I had to do is google `mobile friendly test`, enter the URL into the provided field and click RUN TEST:
 
-<img src='/img/google-mobile-friendly-test0.png' alt='Mobile Friendly Test Search Query' title='Mobile Friendly Test Search Query' style='height:auto; max-width: 100%; border:none; display:block; align:center'>
+<img src='/img/google-mobile-friendly-test0.png' alt='Mobile Friendly Test Search Query' title='Mobile Friendly Test Search Query' style='height:auto; max-width: 100%; border:none; display:block; align:center;'>
 <br />
-<img src='/img/google-mobile-friendly-test1.png' alt='Mobile Friendly Test Heading' title='Mobile Friendly Test Heading' style='height:auto; max-width: 100%; border:none; display:block; align:center'>
-<br /><img src='/img/google-mobile-friendly-test2.png' alt='Mobile Friendly Test Generated Screenshot' title='Mobile Friendly Test Generated Screenshot' style='height:auto; max-width: 100%; border:none; display:block; align:center'>
+<img src='/img/google-mobile-friendly-test1.png' alt='Mobile Friendly Test Heading' title='Mobile Friendly Test Heading' style='height:auto; max-width: 100%; border:none; display:block; align:center;'>
+<br /><img src='/img/google-mobile-friendly-test2.png' alt='Mobile Friendly Test Generated Screenshot' title='Mobile Friendly Test Generated Screenshot' style='height:auto; max-width: 100%; border:none; display:block; align:center;'>
 
 Everything looks pretty good to me. As always, thank you very much for taking your time to read what I have to say!
