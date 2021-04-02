@@ -35,5 +35,5 @@ One other important aspect of WA in our modern times is mobile friendliness. In 
 <br />
 <img src='/img/google-mobile-friendly-test1.png' alt='Mobile Friendly Test Heading' title='Mobile Friendly Test Heading' style='height:auto; max-width: 100%; border:none; display:block; align:center;'>
 <br /><img src='/img/google-mobile-friendly-test2.png' alt='Mobile Friendly Test Generated Screenshot' title='Mobile Friendly Test Generated Screenshot' style='height:auto; max-width: 100%; border:none; display:block; align:center;'>
-
+<br />
 Everything looks pretty good to me. As always, thank you very much for taking your time to read what I have to say!
