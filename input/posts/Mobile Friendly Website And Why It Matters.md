@@ -28,3 +28,11 @@ According to [this article](https://www.interactiveaccessibility.com/accessibili
 Naturally, after creating this website and deploying it (the story of how I did it is [here](https://valticus.cf/posts/how-to-deploy-on-netlify)) I tested it with the [W3C Validator](https://validator.w3.org/) (World Wide Web Consortium is an organization responsible for web standards and guidelines).
 
 This website had 3 minor errors, which I had [fixed in almost no time](https://validator.w3.org/nu/?doc=https%3A%2F%2Fvalticus.cf%2F), and now the [W3C Validator badge](https://www.w3.org/QA/Tools/Icons) is part of the footer for this website.
+
+One other important aspect of WA in our modern times is mobile friendliness. In other words, modern websites have to be easy to navigate on a device such as a mobile phone or a tablet. So naturally, I check this website of mine to see how well it stands as far as being mobile friendly goes. To do this, all I had to do is google `mobile friendly test`, enter the URL into the provided field and click RUN TEST:
+
+<img src='/img/google-mobile-friendly-test0.png' alt='Mobile Friendly Test Search Query' title='Mobile Friendly Test Search Query' style='height:auto; max-width: 100%; border:none; display:block;'>
+<img src='/img/google-mobile-friendly-test1.png' alt='Mobile Friendly Test Heading' title='Mobile Friendly Test Heading' style='height:auto; max-width: 100%; border:none; display:block;'>
+<img src='/img/google-mobile-friendly-test2.png' alt='Mobile Friendly Test Generated Screenshot' title='Mobile Friendly Test Generated Screenshot' style='height:auto; max-width: 100%; border:none; display:block;'>
+
+Everything looks pretty good to me. As always, thank you very much for taking your time to read what I have to say!
