@@ -30,7 +30,7 @@ And it's really as simple as that. The very blog you are exploring at the moment
 
 After I had set everything up on [Netlify](https://www.netlify.com/), all I had to do is generate a basic [Statiq](https://statiq.dev/web/) site and push it to the repository from which the this site is deployed via [Netlify](https://www.netlify.com/).
 
-The steps for bootstraping a Static website are as follows:
+The steps for bootstrapping a Static website are as follows:
 
 - Step 1: Install .NET Core
   Statiq Web consists of .NET Core libraries and installing the .NET Core SDK is the only prerequisite.
