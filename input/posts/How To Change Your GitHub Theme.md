@@ -27,6 +27,6 @@ Below are the screen shots, courtesy of [GitHub Docs](https://docs.github.com/en
 <br />
 <img src='/img/github-theme-theme-settings-radio-buttons.png' alt='GitHub Themes' title='GitHub Themes' class="align_center">
 </div>
-*Please not that, as I have mentioned in the beginning of this article, that the theme feature is currently in beta, and is subject to change.*
+*Please note that, as I have mentioned in the beginning of this article, that the theme feature is currently in beta, and is subject to change.*
 
 Thank you for taking your time to read this article. I hope you found the information provided to be of use.
