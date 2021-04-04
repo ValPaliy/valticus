@@ -11,6 +11,7 @@ Tags:
   - editor
   - theme
 ---
+## My Favorite Visual Studio Code Theme
 
 ![Visual Studio Code](https://res.cloudinary.com/valcodes/image/upload/v1586074653/vscode.webp)
 
