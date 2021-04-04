@@ -22,9 +22,9 @@ Below are the screen shots, courtesy of [GitHub Docs](https://docs.github.com/en
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
 <img src='/img/github-theme-userbar-account-settings.png' alt='GitHub Account Settings' title='GitHub Account Settings'  class="align_center">
-
+<br />
 <img src='/img/github-theme-appearance-tab.png' alt='GitHub Appearance' title='GitHub Appearance' class="align_center">
-
+<br />
 <img src='/img/github-theme-theme-settings-radio-buttons.png' alt='GitHub Themes' title='GitHub Themes' class="align_center">
 </div>
 *Please not that, as I have mentioned in the beginning of this article, that the theme feature is currently in beta, and is subject to change.*
