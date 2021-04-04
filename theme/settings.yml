@@ -1,6 +1,7 @@
 MinimumStatiqWebVersion-CleanBlog: "1.0.0-beta.3"
 SiteTitle: Valticus
-Description: A blog where I write about programming, computers and related thing
+Description: A blog where I write about programming, computers and related things.
+Image: ![Valticus Logo](/img/valticus_logo_big.png)
 PageTitle: |
   =>
   {
