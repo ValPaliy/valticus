@@ -7,3 +7,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://valticus.cf/sitemap.xml
+Sitemap: https://valticus.cf/feed.rss
+Sitemap: https://valticus.cf/feed.atom
