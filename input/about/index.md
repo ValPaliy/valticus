@@ -15,7 +15,7 @@ Tags:
 ---
 # Val Paliy
 
-Curator of Svelte Ukraine at [#valcodes](https://valcodes.ml/).
+Curator of Svelte Ukraine.
 Currently learning C#, .Net and Asp.Net
 
 ## Summary
