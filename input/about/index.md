@@ -64,7 +64,7 @@ Creator of & author at [Valticus](https://valticus.netlify.app)
 
 **valcodes**
 Curator of Svelte Ukraine
-May 2020 - May 2021 (12 months)
+May 2020 - May 2021 (1 year 1 month)
 Don't know what Svelte is? Ask me!
 
 **paliy.biz**
