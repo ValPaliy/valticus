@@ -15,7 +15,7 @@ Tags:
 ---
 # Val Paliy
 
-Currently learning C#, .Net and Asp.Net and managing Valticus everywhere :)
+Currently learning C#, .Net and Asp.Net while managing Valticus everywhere :)
 
 ## Summary
 
