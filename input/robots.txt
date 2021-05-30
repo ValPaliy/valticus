@@ -6,6 +6,6 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://valticus.cf/sitemap.xml
-Sitemap: https://valticus.cf/feed.rss
-Sitemap: https://valticus.cf/feed.atom
+Sitemap: https://valticus.netlify.app/sitemap.xml
+Sitemap: https://valticus.netlify.app/feed.rss
+Sitemap: https://valticus.natlify.app/feed.atom
