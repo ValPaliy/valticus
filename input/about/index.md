@@ -15,8 +15,7 @@ Tags:
 ---
 # Val Paliy
 
-Curator of Svelte Ukraine.
-Currently learning C#, .Net and Asp.Net
+Currently learning C#, .Net and Asp.Net and managing Valticus everywhere :)
 
 ## Summary
 
@@ -60,9 +59,12 @@ support.
 
 ## Experience
 
+**Valticus**
+Creator of & author at [Valticus](https://valticus.netlify.app)
+
 **valcodes**
 Curator of Svelte Ukraine
-May 2020 - Present (11 months)
+May 2020 - May 2021 (12 months)
 Don't know what Svelte is? Ask me!
 
 **paliy.biz**
