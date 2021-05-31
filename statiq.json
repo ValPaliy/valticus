@@ -1,3 +1,4 @@
 {
-    "UseCache": "true"
+    "UseCache": "true",
+    "GenerateSitemap" : "true"
 }
