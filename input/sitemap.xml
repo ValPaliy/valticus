@@ -9,273 +9,303 @@
 
 <url>
   <loc>https://valticus.netlify.app/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://valticus.netlify.app/posts</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://valticus.netlify.app/about/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/portfolio/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://valticus.netlify.app/posts</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <loc>https://valticus.netlify.app/posts/lets-talk-about-fonts</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/posts/what-have-i-been-up-to-recently</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://valticus.netlify.app/posts/how-to-delete-unused-google-profile-pictures</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/posts/gnu-on-windows-gow-linux-commands-in-windows</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <loc>https://valticus.netlify.app/posts/lets-talk-about-fonts-part-1</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/page/2</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/windows/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/linux/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/howto/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/theme/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/vscode/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/netlify/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/statiq/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/operating-system/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/os/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/coding/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/programming/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/howto/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/theme/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/editor/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/operating-system/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/os/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/csharp/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://valticus.netlify.app/posts/how-to-delete-unused-google-profile-pictures</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/posts/gnu-on-windows-gow-linux-commands-in-windows</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://valticus.netlify.app/posts/my-new-favorite-theme-for-editors</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/posts/my-favorite-visual-studio-code-theme</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/posts/how-to-change-your-github-theme</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/posts/mobile-friendly-website-and-why-it-matters</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/posts/how-to-deploy-on-netlify</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/posts/why-i-dont-use-netlify-cms-yet</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://valticus.netlify.app/tags/programming/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <loc>https://valticus.netlify.app/tags/fonts/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://valticus.netlify.app/tags/csharp/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <loc>https://valticus.netlify.app/tags/development/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/ide/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/dotnet/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/visual-studio-2019/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://valticus.netlify.app/tags/google/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/profile/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/pictures/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/delete/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/command-line/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/cmd/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/gnu/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/gow/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <loc>https://valticus.netlify.app/tags/netlify/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/page/3</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/vscode/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/statiq/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/google/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/profile/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/pictures/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/delete/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/command-line/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/cmd/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/gnu/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/tags/gow/</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/icons/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/microsoft/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/visual-studio-code/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.netlify.app/tags/editor/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/change/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/github/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/mobile-friendly/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/mobile-friendliness/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/usability/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/accessibility/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/user-experience/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/ux/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/w3c/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/wcag/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/deploy/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://valticus.netlify.app/tags/netlify-cms/</loc>
-  <lastmod>2021-06-02T06:07:27+00:00</lastmod>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valticus.netlify.app/page/4</loc>
+  <lastmod>2021-06-05T16:36:45+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 

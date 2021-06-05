@@ -1,6 +1,6 @@
 ---
 Title: Let's Talk About Fonts (Part 1)
-Description: Fonts are what we look at when we use a computer, a phone, a tablet. Which font should a developer use?
+Description: Fonts are what we look at when we use a computer, a phone, a tablet. Which font should a developer use (in my opinion)?
 Published: 2021-06-05
 Author:
   - Val Paliy
