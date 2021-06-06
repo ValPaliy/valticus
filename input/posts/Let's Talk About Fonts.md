@@ -21,7 +21,7 @@ Let's face it - as developers we look at code 90% of our time we spend in front 
 
 That is - [JetBrains Mono](https://www.jetbrains.com/lp/mono/), a free and open source font from the very same company that brought us tools like [WebStorm](https://www.jetbrains.com/webstorm/ and [PyCharm](https://www.jetbrains.com/pycharm/)). 
 
-The font is free and open source, as I've already mentioned, meaning you can download it, install it in your [operating system](https://valticus.netlify.app/tags/operating-system) and configure your [editor/IDE(https://valticus.netlify.app/tags/editor/) to use it.
+The font is free and open source, as I've already mentioned, meaning you can download it, install it in your [operating system](https://valticus.netlify.app/tags/operating-system) and configure your [editor/IDE](https://valticus.netlify.app/tags/editor/) to use it.
 
 Take a look:
 
@@ -30,7 +30,7 @@ Take a look:
 
  I find the difference a striking one. JetBrains Mono is indeed optimized for reading code. You could also use it system-wide, if you want, as it's very easy on the eyes. Also, did I mention it supports ligatures? ;) Well, it does!
  
- Here's an example of what font ligatures are (using yet another great coding font called [Fira Code](https://github.com/tonsky/FiraCode)):
+ Here's an example of what font ligatures are (using yet another great coding font called [Fira Code](https://github.com/tonsky/FiraCode):
  
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
 <img src='/img/fira-code-ligatures.png' loading='lazy' alt='Font Ligatures in Fira Code' title='Font Ligatures in Fira Code' class="align_center"></br>Image credit: [Fira Code](https://github.com/tonsky/FiraCode).</div></br>
