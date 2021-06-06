@@ -26,14 +26,14 @@ The font is free and open source, as I've already mentioned, meaning you can dow
 Take a look:
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img/jetbrains-mono-font.png' loading='lazy' alt='JetBrains Mono vs. Consolas' title='JetBrains Mono vs. Consolas' class="align_center"></br>Image credit: [JetBrains](https://www.jetbrains.com/lp/mono/).</div>
+<img src='/img/jetbrains-mono-font.png' loading='lazy' alt='JetBrains Mono vs. Consolas' title='JetBrains Mono vs. Consolas' class="align_center"></br>Image credit: [JetBrains](https://www.jetbrains.com/lp/mono/).</div></br>
 
  I find the difference a striking one. JetBrains Mono is indeed optimized for reading code. You could also use it system-wide, if you want, as it's very easy on the eyes. Also, did I mention it supports ligatures? ;) Well, it does!
  
  Here's an example of what font ligatures are (using yet another great coding font called [Fira Code](https://github.com/tonsky/FiraCode)):
  
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img//img/fira-code-ligatures.png' loading='lazy' alt='Font Ligatures in Fira Code' title='Font Ligatures in Fira Code' class="align_center"></br>Image credit: [Fira Code](https://github.com/tonsky/FiraCode).</div>
+<img src='/img/fira-code-ligatures.png' loading='lazy' alt='Font Ligatures in Fira Code' title='Font Ligatures in Fira Code' class="align_center"></br>Image credit: [Fira Code](https://github.com/tonsky/FiraCode).</div></br>
   
  Hope you found this little article useful. If so, please follow me on Twitter or Medium (the links are in the footer down below). Thank you very much!
  
