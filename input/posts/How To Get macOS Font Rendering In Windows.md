@@ -35,7 +35,7 @@ After you download the file, double click it and follow the setup steps. At some
 
 Chose your favorite startup method and the way you would like the fonts on the screen to be rendered, click <i>Finish</i>.
 
-Don't restart your computer just yet, there is one more little step we have to take to complete the font rendering transformation process on Windows, and that is install GDIPP, to make your Mac fonts even more beautiful. Visit <a href="https://code.google.com/archive/p/gdipp/downloads">GDIPP's Google Code page and chose an installer for either 32 or 64 bit operating systems, depending on what architecture your system is using.
+Don't restart your computer just yet, there is one more little step we have to take to complete the font rendering transformation process on Windows, and that is install GDIPP, to make your Mac fonts even more beautiful. Visit <a href="https://code.google.com/archive/p/gdipp/downloads">GDIPP's Google Code page</a> and chose an installer for either 32 or 64 bit operating systems, depending on what architecture your system is using.
 
 After installing GDIPP, restart your system and enjoy the beautiful macOS fonts in your Windows OS. Should you ever decide to get the old Windows font rendering back, just uninstall MacType and GDIPP like you would any other program on your PC.
 
