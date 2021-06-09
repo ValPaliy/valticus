@@ -13,6 +13,10 @@ Tags:
   - about me
   - info
 ---
+
+<div style="align:right; height:auto; max-width: 100%; border:none; display:block;">
+<img src='/img/ValPaliy.jpg' loading='lazy' alt='Val Paliy' title='Val Paliy'></div>
+
 # Val Paliy
 
 Currently learning C#, .Net and Asp.Net while managing [Valticus](https://www.linkedin.com/company/valticus/) everywhere :)
