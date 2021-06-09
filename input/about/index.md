@@ -57,14 +57,10 @@ DeepArtDesign, Nikolaev, Ukraine.
 Held a position of Project Manager/Developer/Tester at
 CrownITGroup, Khanty-Mansiysk, Russia.
 
-I am currently developing web and mobile applications.
-Specialties: Web and Mobile development, consulting, technical
-support.
-
 ## Experience
 
 **Valticus**
-Creator of & author at [Valticus](https://valticus.netlify.app)
+Creator of & author at [Valticus](https://www.linkedin.com/company/valticus/)
 
 **valcodes**
 Curator of Svelte Ukraine
