@@ -15,7 +15,7 @@ Tags:
 ---
 
 <div class="align_center" style="align:right; height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img/ValPaliy.jpg' loading='lazy' alt='Val Paliy' title='Val Paliy'></div>
+<img src='/img/ValPaliy.jpg' loading='lazy' alt='Val Paliy' title='Val Paliy' style="border-radius: 25%;"></div>
 
 <div class="align_center"># Val Paliy</div>
 
