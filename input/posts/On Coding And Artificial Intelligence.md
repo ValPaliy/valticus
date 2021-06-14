@@ -17,7 +17,7 @@ Tags:
 
 ## On Coding And Artificial Intelligence
 
-AI, or [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving a you to a desired destination.
+AI, or [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.
 
 While it is debatable whether or not we should trust AI to take over crucial areas of our lives (have you seen [*"Terminator?"*](https://en.wikipedia.org/wiki/Terminator_(franchise))), one area I found Artificial Intelligence to be particularly useful in is programming. Using the right tools, you can save yourself a lot of time while coding with AI enabled.
 
