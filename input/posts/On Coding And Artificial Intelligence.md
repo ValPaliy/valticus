@@ -31,7 +31,7 @@ To quote [the developers of TabNine](https://marketplace.visualstudio.com/items?
 
 Since, as they say, *"a picture speaks a thousand words"*, here is a video to demonstrate how TabNine works:
 
-<div class="align_center">
+<div class="align_center video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p7qMFhQh7rY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
