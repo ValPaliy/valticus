@@ -1,6 +1,6 @@
 ---
 Title: Plans For The Nearest Future Of This Blog
-Description: Have you ever tried AI as an assistant while coding? I have, and it can be amazing! Read on!
+Description: This blog will hopefuly beco,e a valuable source of information soon, and not just for programmers!
 Published: 2021-06-20
 Author:
   - Val Paliy
