@@ -1,6 +1,6 @@
 ---
 Title: Plans For The Nearest Future Of This Blog
-Description: This blog will hopefuly beco,e a valuable source of information soon, and not just for programmers!
+Description: This blog will hopefully become a valuable source of information soon, and not just for programmers!
 Published: 2021-06-20
 Author:
   - Val Paliy
