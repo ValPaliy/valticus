@@ -66,7 +66,7 @@ Technically, the very first line is only necessary if you are planning to also s
   }
 
 ```
-One other tweak I've added to the config file is something to makr the sidebar stand out when using ***Night Owl Light***:
+One other tweak I've added to the config file is something to make the sidebar stand out when using ***Night Owl Light***:
 ```
   "workbench.colorCustomizations": {
     "[Night Owl Light]": {
