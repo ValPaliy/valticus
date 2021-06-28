@@ -21,13 +21,13 @@ I've already mentioned a few [themes](https://valticus.netlify.app/tags/theme/) 
 Take a look at the three screenshots above:
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img/theme-morning.png' loading='lazy' alt='Night Owl Light' title='Night Owl Light' class="align_center"><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">Night Owl Light</a></div>
+<img src='/img/theme-morning.png' loading='lazy' alt='Night Owl Light' title='Night Owl Light' class="align_center"><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl"><br />Night Owl Light</a>.</div>
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img/theme-day.png' loading='lazy' alt='Cobalt2' title='Cobalt2' class="align_center"><a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2">Cobalt2</a></div>
+<img src='/img/theme-afternoon.png' loading='lazy' alt='Cobalt2' title='Cobalt2' class="align_center"><a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"><br />Cobalt2</a>.</div>
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
-<img src='/img/theme-night.png' loading='lazy' alt='Night Owl' title='Night Owl' class="align_center"><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">Night Owl</a></div>
+<img src='/img/theme-night.png' loading='lazy' alt='Night Owl' title='Night Owl' class="align_center"><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl"><br />Night Owl</a>.</div>
 
 The above are the three wonderful editor themes I use throughout the day (***Night Owl Light*** is in effect from 6am to noon, ***Cobalt2*** is noon to 6pm and ***Night Owl*** is my go to theme from 6pm to 6am, because it's, well, perfect for us night owls out there).
 
