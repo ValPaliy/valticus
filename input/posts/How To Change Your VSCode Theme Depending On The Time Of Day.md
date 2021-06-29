@@ -80,7 +80,7 @@ One other tweak I've added to the config file is something to make the sidebar s
 
 That's it. Now, depending on the time of day, your IDE will look different, and you will not have to worry about your eyes getting tired.
 
-update: there's yet another, a little different theme by [Sarah Drasner](https://sarahdrasnerdesign.com/) called [In Bed by 7pm](https://marketplace.visualstudio.com/items?itemName=sdras.inbedby7pm), which you can easily integrate into your theme switching routine as a fourth theme like I did:
+Few updates: there's yet another, a little different theme by [Sarah Drasner](https://sarahdrasnerdesign.com/) called [In Bed by 7pm](https://marketplace.visualstudio.com/items?itemName=sdras.inbedby7pm), which you can easily integrate into your theme switching routine as a fourth theme like I did:
 
 ```
   "themeswitcher.mappings": [
@@ -101,5 +101,6 @@ update: there's yet another, a little different theme by [Sarah Drasner](https:/
       "theme": "Night Owl"
     }
 ```
+I might end up using just the ***Night Owl*** and ***In Bed by 7pm***.
 
 *I'd like to thank ***Sarah Drasner*** and ***Wes Boss*** for the themes, as well as ***Sávio Santos Serra*** and ***JanBn*** for their theme switching extensions. And I'd like to thank you, ***dear reader***, for taking your time to read this article.* ***Thank you!***
