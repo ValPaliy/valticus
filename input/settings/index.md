@@ -1,6 +1,6 @@
 ---
 Title: IDE settings
-Description: Many developers share there VSCode settings. Here's how I have everything set up.
+Description: Many developers share their editor settings. Here's how I have everything set up.
 Published: 2021-07-02
 IsPost: false
 ShowInNavbar: true
