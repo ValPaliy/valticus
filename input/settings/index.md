@@ -1,5 +1,5 @@
 ---
-Title: Portfolio
+Title: IDE settings
 Description: Many developers share there VSCode settings. Here's how I have everything set up.
 Published: 2021-07-02
 IsPost: false
