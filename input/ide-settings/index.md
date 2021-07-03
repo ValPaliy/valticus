@@ -125,5 +125,5 @@ Tags:
 
 ### The *font* I like:
 
-The font I like as ***JetBrains Mono***, and it can be obtained for free from JetBrains [here](https://www.jetbrains.com/lp/mono/).
+The font I like is ***JetBrains Mono***, and it can be obtained for free from JetBrains [here](https://www.jetbrains.com/lp/mono/).
 
