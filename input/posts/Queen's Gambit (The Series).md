@@ -22,13 +22,13 @@ I've watched ["The Queen's Gambit"](https://www.netflix.com/ua/title/80234304) o
 
 The article goes on to say that "new data suggests it got there by steadily growing into a word-of-mouth hit after debuting on October 23." The quoted article dates back to the end of last year.
 
-All of this is little to no surprise, really, as the show is a wonderful adaptation of [a novel by Walter Tavis](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(novel)) (which I am currently reading; my review of the bookk will come shortly after I finish the book).
+All of this is little to no surprise, really, as the show is a wonderful adaptation of [a novel by Walter Tavis](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(novel)) (which I am currently reading; my review of the book will come shortly after I finish the book).
 
-The show's huge success is also due to the amazing acting of [Anya Taylor-Joy](https://anyataylorjoy.org/), an actress I immediatly believed on the screen. Anya's portrayal of [Beth Harmon](https://en.wikipedia.org/wiki/Beth_Harmon) is, in mind humble opinion, outstanding.
+The show's huge success is also due to the amazing acting of [Anya Taylor-Joy](https://anyataylorjoy.org/), an actress I immediately believed on the screen. Anya's portrayal of [Beth Harmon](https://en.wikipedia.org/wiki/Beth_Harmon) is, in mind humble opinion, outstanding.
 
-"The Queen's Gambit" got me back into playing chess, by the way, which is something I haven't donr in a long time, tho I've learnt the basis of chess during my childhood from my grandma.
+"The Queen's Gambit" got me back into playing chess, by the way, which is something I haven't done in a long time, tho I've learnt the basis of chess during my childhood from my grandma.
 
-So all-in-all I am hiped at the moment. But please don't take my word for how good the show is, watch a trailer and the series, if you haven't already.
+So all-in-all I am hipped at the moment. But please don't take my word for how good the show is, watch a trailer and the series, if you haven't already.
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CDrieqwSdgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
