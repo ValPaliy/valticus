@@ -1,6 +1,6 @@
 ---
 Title: Queen's Gambit (The Series)
-Description: The Queen's Gambit is an amazing TV show and an even more amazing book.
+Description: In this article I briefly tell you why I don't use Netlify CMS on a Statiq Web site yet.
 Published: 2021-08-12
 Author:
   - Val Paliy
