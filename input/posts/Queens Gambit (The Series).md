@@ -39,4 +39,3 @@ So all-in-all I am hiped at the moment. But please don't take my word for how go
 One thing I've noticed is people searching for season 2. Being based on a book I doubt the show will have a sequel. That's also why it is called a limited series.
 
 Thank you very much for reading this. Play chess and stay safe!
-
