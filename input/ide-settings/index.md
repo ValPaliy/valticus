@@ -6,7 +6,12 @@ IsPost: false
 ShowInNavbar: true
 Author:
   - Val Paliy
-Keywords: [vscode, visual studio code, IDE, editor, settings]
+Keywords:
+  - vscode
+  - visual studio code
+  - IDE
+  - editor
+  - settings
 Tags:
   - vscode
   - visual studio code

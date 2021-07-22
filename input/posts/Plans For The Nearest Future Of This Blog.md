@@ -4,7 +4,13 @@ Description: This blog will hopefully become a valuable source of information so
 Published: 2021-06-20
 Author:
   - Val Paliy
-Keywords: [Programming, Coding, Books, Hardware, Software, Merchandise]
+Keywords:
+  - Programming
+  - Coding
+  - Books
+  - Hardware
+  - Software
+  - Merchandise
 Tags:
   - Programming
   - Coding

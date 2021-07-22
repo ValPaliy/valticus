@@ -4,7 +4,10 @@ Description: In this article I briefly tell you why I don't use Netlify CMS on a
 Published: 2021-03-28
 Author:
   - Val Paliy
-Keywords: [netlify, statiq, netlify cms]
+Keywords:
+  - netlify
+  - statiq
+  - netlify cms
 Tags:
   - netlify
   - statiq

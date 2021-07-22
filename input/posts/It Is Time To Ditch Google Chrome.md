@@ -4,7 +4,12 @@ Description: I switched my web browser, and you should too!
 Published: 2021-06-13
 Author:
   - Val Paliy
-Keywords: [Windows, Microsoft Edge, Google Chrome, web, browser]
+Keywords:
+  - Windows
+  - Microsoft Edge
+  - Google Chrome
+  - web
+  - browser
 Tags:
   - Windows
   - Microsoft Edge

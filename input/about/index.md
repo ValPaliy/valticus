@@ -6,7 +6,11 @@ IsPost: false
 ShowInNavbar: true
 Author:
   - Val Paliy
-Keywords: [val paliy, resume, about me, info]
+Keywords:
+  - val paliy
+  - resume
+  - about me
+  - info
 Tags:
   - val paliy
   - resume

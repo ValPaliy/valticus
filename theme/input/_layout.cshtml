@@ -9,6 +9,10 @@
   {
     <meta name="description" content="@Document.GetString(WebKeys.Description)">
   }
+  @if(Document.ContainsKey(WebKeys.Keywords))
+  {
+    <meta name="keywords" content="@Document.GetString(WebKeys.Keywords)">
+  }
   @if(Document.ContainsKey(WebKeys.Author))
   {
     <meta name="author" content="@Document.GetString(WebKeys.Author)">

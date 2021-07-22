@@ -4,7 +4,12 @@ Description: Here's how to quickly delete your old profile pictures that are sti
 Published: 2021-04-20
 Author:
   - Val Paliy
-Keywords: [Google, profile, pictures, delete, howto]
+Keywords:
+  - Google
+  - profile
+  - pictures
+  - delete
+  - howto
 Tags:
   - Google
   - profile

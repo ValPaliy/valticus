@@ -4,7 +4,12 @@ Description: Would you like to learn how to change your Visual Studio Code theme
 Published: 2021-06-28
 Author:
   - Val Paliy
-Keywords: [visual studio code, vscode, editor, IDE, theme]
+Keywords:
+  - visual studio code
+  - vscode
+  - editor
+  - IDE
+  - theme
 Tags:
   - visual studio code
   - vscode

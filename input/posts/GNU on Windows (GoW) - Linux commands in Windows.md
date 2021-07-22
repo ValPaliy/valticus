@@ -4,7 +4,13 @@ Description: Did you know there's a way to execute Linux commands in Windows? Re
 Published: 2021-04-19
 Author:
   - Val Paliy
-Keywords: [Linux, Windows, command line, cmd, GNU, GoW]
+Keywords:
+  - Linux
+  - Windows
+  - command line
+  - cmd
+  - GNU
+  - GoW
 Tags:
   - Linux
   - Windows

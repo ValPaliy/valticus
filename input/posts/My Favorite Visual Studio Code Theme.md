@@ -4,7 +4,11 @@ Description: Within the paragraphs of this article I tell you about my favorite 
 Published: 2021-04-04
 Author:
   - Val Paliy
-Keywords: [visual studio code, vscode, editor, theme]
+Keywords:
+  - visual studio code
+  - vscode
+  - editor
+  - theme
 Tags:
   - visual studio code
   - vscode

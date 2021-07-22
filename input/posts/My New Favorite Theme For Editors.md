@@ -4,7 +4,14 @@ Description: Since I now develop with Microsoft .Net, I use both Visual Studio C
 Published: 2021-04-14
 Author:
 - Val Paliy
-Keywords: [theme, icons, visual studio 2019, vscode, microsoft, windows, linux]
+Keywords:
+- theme
+- icons
+- visual studio 2019
+- vscode
+- microsoft
+- windows
+- linux
 Tags:
 - theme
 - icons

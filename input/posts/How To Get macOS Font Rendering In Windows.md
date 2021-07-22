@@ -4,7 +4,12 @@ Description: Let's Talk About Fonts (Part 2) or how to get macOS style font rend
 Published: 2021-06-08
 Author:
   - Val Paliy
-Keywords: [Windows, macOS, Fonts, MacType, GDIPP]
+Keywords:
+  - Windows
+  - macOS
+  - Fonts
+  - MacType
+  - GDIPP
 Tags:
   - Windows
   - macOS

@@ -4,7 +4,15 @@ Description: Those who follow this blog may have noticed I didn't write anything
 Published: 2021-06-02
 Author:
   - Val Paliy
-Keywords: [Windows, Linux, Operating System, OS, Coding, Programming, CSharp, dotNet]
+Keywords:
+  - Windows
+  - Linux
+  - Operating System
+  - OS
+  - Coding
+  - Programming
+  - CSharp
+  - dotNet
 Tags:
   - Windows
   - Linux

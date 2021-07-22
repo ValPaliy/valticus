@@ -6,7 +6,11 @@ IsPost: false
 ShowInNavbar: true
 Author:
   - Val Paliy
-Keywords: [val paliy, github, portfolio, link]
+Keywords:
+  - val paliy
+  - github
+  - portfolio
+  - link
 Tags:
   - val paliy
   - github

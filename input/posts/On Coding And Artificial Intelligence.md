@@ -4,7 +4,14 @@ Description: Have you ever tried AI as an assistant while coding? I have, and it
 Published: 2021-06-14
 Author:
   - Val Paliy
-Keywords: [Programming, Coding, AI, Artificial Intelligence, Visual Studio Code, VSCode, TabNine]
+Keywords:
+  - Programming
+  - Coding
+  - AI
+  - Artificial Intelligence
+  - Visual Studio Code
+  - VSCode
+  - TabNine
 Tags:
   - Programming
   - Coding

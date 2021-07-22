@@ -4,7 +4,11 @@ Description: Learn how to change your GitHub theme for the entire site.
 Published: 2021-04-04
 Author:
   - Val Paliy
-Keywords: [howto, change, github, theme]
+Keywords:
+  - howto
+  - change
+  - github
+  - theme
 Tags:
   - howto
   - change
