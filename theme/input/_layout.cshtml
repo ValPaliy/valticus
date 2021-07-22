@@ -13,7 +13,10 @@
   {
     <meta name="author" content="@Document.GetString(WebKeys.Author)">
   }
-
+  @if(Document.ContainsKey("Keywords"))
+  {
+    <meta name="keywords" content="@Document.GetString(Keywords)">
+  }
   <title>@Document.GetString("PageTitle")</title>
 
   <link rel="canonical" href="@(Document.GetString("Canonical") ?? Document.GetLink(true))">
