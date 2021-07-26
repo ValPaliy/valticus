@@ -25,7 +25,7 @@ I also try not to install apps that duplicate functionality (multiple text edito
 
 If you try and keep the number of applications on your machine to a minimum, you will notice battery drain reduction, performance increase, and less confusion when your operating system asks you what would you like to open that one particular file with. Trust me, I've tested the statement over the years.
 
-Note: if your computer came pre-installed with software already installed, please read this awesome article by Chris Titus on [how to debloat your Windows 10](https://christitus.com/debloat-windows-10-2020/). Chris is an IT professional and an awesome YouTuber, whose chanel I've been a devoted subscriber of for quite some time now.
+Note: if your computer came pre-installed with software already installed, please read this awesome article by Chris Titus on [how to debloat your Windows 10](https://christitus.com/debloat-windows-10-2020/). Chris is an IT professional and an awesome YouTuber, whose channel I've been a devoted subscriber of for quite some time now.
 
 If you are using a different OS, [asking Google](https://www.google.com/search?q=de-bloat+your+windows+PC&oq=de-bloat+your+windows+PC&aqs=edge..69i57.9865j0j1&sourceid=chrome&ie=UTF-8) how to debloat it will yield awesome results.
 
