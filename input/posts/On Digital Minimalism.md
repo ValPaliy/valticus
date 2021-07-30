@@ -5,7 +5,12 @@ Published: 2021-07-26
 Author:
   - Val Paliy
 Keywords:
-  [digital life, digital minimalism, KISS, keep it super simple, windows, linux]
+  - digital life
+  - digital minimalism
+  - KISS
+  - keep it super simple
+  - windows
+  - linux
 Tags:
   - digital life
   - digital minimalism
