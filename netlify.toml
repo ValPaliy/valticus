@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://valticus.netlify.com/*"
+  to = "https://www.valticus.pro/:splat"
+  status = 301
+  force = true
