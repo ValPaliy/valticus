@@ -3,9 +3,9 @@ ShouldOutput: true
 
 backend:
   name: github
-  repo: <GitHubName>/<RepoName>
+  repo: ValPaliy/valticus
   branch: master
-  site_domain: <Netlify SiteName>.netlify.app
+  site_domain: valticus.netlify.app
 
 media_folder: "/input/images/"
 public_folder: "/images/"
