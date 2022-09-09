@@ -37,7 +37,7 @@ The show's huge success is also due to the amazing acting of [Anya Taylor-Joy](h
 So all-in-all I am hipped at the moment. But please don't take my word for how good the show is, watch a trailer and the series, if you haven't already.
 
 <div class="align_center" style="height:auto; max-width: 100%; border:none; display:block;">
-<iframe width="560" height="315" src="https://youtube.com/kwrQzTz16w4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/watch?v=kwrQzTz16w4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 One thing I've noticed is people searching for season 2. Being based on a book I doubt the show will have a sequel. That's also why it is called a limited series.
