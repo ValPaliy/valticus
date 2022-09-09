@@ -49,7 +49,7 @@ and those organized by IREX.
 
 Held a position of a web design project manager, search engine
 optimization specialist (as well as art director and a coder) in a web
-design studio called OxygenWorks, Nikolaev, Ukraine.Took part
+design studio called OxygenWorks, Nikolaev, Ukraine. Took part
 in an International Scientific Conference titled "Higher Education
 Perspectives: The Role Of Inter University Consortia", presented a
 later published speech entitled "My Experience In The United States:
