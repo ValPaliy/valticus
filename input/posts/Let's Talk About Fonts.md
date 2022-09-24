@@ -26,7 +26,7 @@ Tags:
 
 Let's face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I've tried a few).
 
-That is - [JetBrains Mono](https://www.jetbrains.com/lp/mono/), a free and open source font from the very same company that brought us tools like [WebStorm](https://www.jetbrains.com/webstorm/ and [PyCharm](https://www.jetbrains.com/pycharm/).
+That is - [JetBrains Mono](https://www.jetbrains.com/lp/mono/), a free and open source font from the very same company that brought us tools like [WebStorm](https://www.jetbrains.com/webstorm/) and [PyCharm](https://www.jetbrains.com/pycharm/).
 
 The font is free and open source, as I've already mentioned, meaning you can download it, install it in your [operating system](https://valticus.netlify.app/tags/operating-system) and configure your [editor/IDE](https://valticus.netlify.app/tags/editor/) to use it.
 
