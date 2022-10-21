@@ -34,7 +34,7 @@ Well, long story short - lots of things have happened March through May, 2021. M
 
 2. I am continuing to learn C# and .Net, of course. I love it all, to be honest. .Net was another reason I gave up on Linux - while .Net is fully supported in that operating system, it all came to the point where I found myself spending more time in Windows because it has my favorite IDE, [Microsoft Visual Studio](https://valticus.netlify.app/tags/visual-studio-2019).
 
-3. I've gotten rid of valticus.cf (and another .ml domain I had) because I realized some antiviruses flag .cf and .ml sites as not safe because people use the domains for harmful things such as scamming. So, Valticus is going to shine in all its glory on the original domain provided by [Netlify](https://valticus.netlify.app/tags/netlify) until I decide on a fitting domain name.
+3. I've gotten rid of valticus.pro (and another .ml domain I had) because I realized some antiviruses flag .cf and .ml sites as not safe because people use the domains for harmful things such as scamming. So, Valticus is going to shine in all its glory on the original domain provided by [Netlify](https://valticus.netlify.app/tags/netlify) until I decide on a fitting domain name.
 
 4. I continue to read, as I love reading books. One of my future posts will highlight the books I've recently read.
 

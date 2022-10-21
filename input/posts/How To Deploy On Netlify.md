@@ -28,7 +28,7 @@ The official guide on how to deploy your website to [Netlify](https://www.netlif
 - Step 6: Build Your Site.
 - Step 7: All Done.
 
-And it's really as simple as that. The very blog you are exploring at the moment is deployed on [Netlify](https://www.netlify.com/) too, and the score is pretty great, as you can see on [Test My Site](https://testmysite.io/6064bce9a7065f5be16d3cdf/valticus.cf):
+And it's really as simple as that. The very blog you are exploring at the moment is deployed on [Netlify](https://www.netlify.com/) too, and the score is pretty great, as you can see on [Test My Site](https://testmysite.io/6064bce9a7065f5be16d3cdf/valticus.pro):
 
 <img src='/img/testmysite-results-valticus.png' loading='lazy' alt='TestMySite results for valticus' title='TestMySite results for valticus' style='height:auto; max-width:100%; border:none; display:block; align:center;'>
 
@@ -53,6 +53,7 @@ Use [whatever is the most recent version](https://www.nuget.org/packages/Statiq.
 
 - Step 4: Create a Bootstrapper
   Creating a bootstrapper for Statiq Web initializes everything you’ll need to generate your web site. While you can certainly extend Statiq Web with new pipelines or custom modules, you shouldn’t need to for most sites. Add the following code in your Program.cs file:
+
 ```
 using System.Threading.Tasks;
 using Statiq.App;
@@ -70,10 +71,12 @@ await Bootstrapper
 }
 }
 ```
+
 - Step 5: Add Some Content
   Start adding content by creating Markdown files in your input folder, by default input folder is located in your project root.
 
 To get something served you can add the following code as index.md file in your input folder.
+
 ```
 ## Title: My First Statiq page
 
@@ -81,6 +84,7 @@ To get something served you can add the following code as index.md file in your 
 
 Hello from my first Statiq page.
 ```
+
 - Step 6: Run it!
 
   Let the magic happen:
@@ -93,6 +97,6 @@ Or run it and preview the generated site:
 
 `dotnet run -- preview`
 
-(I actually did run the site with `--preview` to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](https://valticus.cf/posts/why-i-dont-use-netlify-cms-yet), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
+(I actually did run the site with `--preview` to make sure everything works before I pushed the files to the dedicated repo.) And [as I've stated previously](https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet), [Netlify CMS](https://www.netlifycms.org/) doesn't go well with [Statiq](https://statiq.dev/web/) yet, but I am sure it will change for the better soon enough.
 
 I hope you found this article useful. Thank you very much for taking your time to read it!
