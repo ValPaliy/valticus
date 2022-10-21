@@ -26,7 +26,7 @@ Oftentimes, when you buy a new PC, it comes preloaded with applications. Some of
 
 My general rule is to always ask myself if I am really going to use the app I am about to install very often or just occasionally. If the answer is: "No, I don't really need this app.", I don't install it no matter how great the hype is over it.
 
-I also try not to install apps that duplicate functionality (multiple text editors, for example). And before you ask - I have only one web browser installed (check out my article on [why I ditched Chrome](https://valticus.netlify.app/posts/it-is-time-to-ditch-google-chrome)).
+I also try not to install apps that duplicate functionality (multiple text editors, for example). And before you ask - I have only one web browser installed (check out my article on [why I ditched Chrome](https://valticus.pro/posts/it-is-time-to-ditch-google-chrome)).
 
 If you try and keep the number of applications on your machine to a minimum, you will notice battery drain reduction, performance increase, and less confusion when your operating system asks you what would you like to open that one particular file with. Trust me, I've tested the statement over the years.
 

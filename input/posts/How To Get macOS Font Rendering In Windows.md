@@ -20,7 +20,7 @@ Tags:
 
 ## How To Get macOS Font Rendering In Windows
 
-Tell me something - are you happy with how ClearType, the default font renderer in <a href="https://valticus.netlify.app/tags/windows">Windows</a> does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.
+Tell me something - are you happy with how ClearType, the default font renderer in <a href="https://valticus.pro/tags/windows">Windows</a> does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.
 
 Let me show you something really quick. This is how the fonts are rendered on my Windows machine:
 
@@ -46,6 +46,6 @@ After installing GDIPP, restart your system and enjoy the beautiful macOS fonts 
 
 <i><b>Note:</b> while I followed the same steps and everything is working fine for me, your mileage may vary. I am not to be held responsible should anything go wrong.</i>
 
-<i>See a related article about fonts <a href="https://valticus.netlify.app/posts/lets-talk-about-fonts">here</a></i>.
+<i>See a related article about fonts <a href="https://valticus.pro/posts/lets-talk-about-fonts">here</a></i>.
 
 Thank you for your time!
