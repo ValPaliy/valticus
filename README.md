@@ -1,1 +1,1 @@
-Main repository for [Valticus](https://valticus.pro/)
+Main repository for [Valticus](https://valticus.pro/).
