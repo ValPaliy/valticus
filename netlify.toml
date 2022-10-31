@@ -1,7 +1,5 @@
 [[redirects]]
-  from = "https://valticus.netlify.app"
-  to = "https://valticus.pro"
-  status = 200
-  force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
+  from = "/*"
+  to = "https://valticus.pro/:splat"
+  status = 301
+  force = true
