@@ -1,15 +1,15 @@
 ---
-Title: My Favorite Visual Studio Code Theme
-Description: Within the paragraphs of this article I tell you about my favorite Visual Studio Code (vscode) theme.
-Published: 2021-04-04
-Author:
+title: My Favorite Visual Studio Code Theme
+description: Within the paragraphs of this article I tell you about my favorite Visual Studio Code (vscode) theme.
+published: 2021-04-04
+author:
   - Val Paliy
-Keywords:
+keywords:
   - visual studio code
   - vscode
   - editor
   - theme
-Tags:
+tags:
   - visual studio code
   - vscode
   - editor

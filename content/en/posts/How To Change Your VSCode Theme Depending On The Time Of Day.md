@@ -1,16 +1,16 @@
 ---
-Title: How To Change Your VSCode Theme Depending On The Time Of Day
-Description: Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!
-Published: 2021-06-28
-Author:
+title: How To Change Your VSCode Theme Depending On The Time Of Day
+description: Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!
+published: 2021-06-28
+author:
   - Val Paliy
-Keywords:
+keywords:
   - visual studio code
   - vscode
   - editor
   - IDE
   - theme
-Tags:
+tags:
   - visual studio code
   - vscode
   - editor

@@ -1,10 +1,10 @@
 ---
-Title: What Have I Been Up To Recently?
-Description: Those who follow this blog may have noticed I didn't write anything for some time. So, what have I been up to recently?
-Published: 2021-06-02
-Author:
+title: What Have I Been Up To Recently?
+description: Those who follow this blog may have noticed I didn't write anything for some time. So, what have I been up to recently?
+published: 2021-06-02
+author:
   - Val Paliy
-Keywords:
+keywords:
   - Windows
   - Linux
   - Operating System
@@ -13,7 +13,7 @@ Keywords:
   - Programming
   - CSharp
   - dotNet
-Tags:
+tags:
   - Windows
   - Linux
   - Operating System

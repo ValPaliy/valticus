@@ -1,10 +1,10 @@
 ---
-Title: On Coding And Artificial Intelligence
-Description: Have you ever tried AI as an assistant while coding? I have, and it can be amazing! Read on!
-Published: 2021-06-14
-Author:
+title: On Coding And Artificial Intelligence
+description: Have you ever tried AI as an assistant while coding? I have, and it can be amazing! Read on!
+published: 2021-06-14
+author:
   - Val Paliy
-Keywords:
+keywords:
   - Programming
   - Coding
   - AI
@@ -12,7 +12,7 @@ Keywords:
   - Visual Studio Code
   - VSCode
   - TabNine
-Tags:
+tags:
   - Programming
   - Coding
   - AI

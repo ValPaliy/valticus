@@ -1,16 +1,16 @@
 ---
-Title: How To Delete Unused Google Profile Pictures
-Description: Here's how to quickly delete your old profile pictures that are still a part of your Google profile.
-Published: 2021-04-20
-Author:
+title: How To Delete Unused Google Profile Pictures
+description: Here's how to quickly delete your old profile pictures that are still a part of your Google profile.
+published: 2021-04-20
+author:
   - Val Paliy
-Keywords:
+keywords:
   - Google
   - profile
   - pictures
   - delete
   - howto
-Tags:
+tags:
   - Google
   - profile
   - pictures

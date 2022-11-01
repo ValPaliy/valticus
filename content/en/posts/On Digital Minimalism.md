@@ -1,17 +1,17 @@
 ---
-Title: On Digital Minimalism
-Description: It is always wise to keep the number of applications installed on your device at a minimum.
-Published: 2021-07-26
-Author:
+title: On Digital Minimalism
+description: It is always wise to keep the number of applications installed on your device at a minimum.
+published: 2021-07-26
+author:
   - Val Paliy
-Keywords:
+keywords:
   - digital life
   - digital minimalism
   - KISS
   - keep it super simple
   - windows
   - linux
-Tags:
+tags:
   - digital life
   - digital minimalism
   - KISS

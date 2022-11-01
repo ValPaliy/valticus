@@ -1,6 +1,12 @@
 ---
 title: "About me"
 description: "My resume."
+keywords:
+  - Resume
+  - CV
+tags:
+  - Resume
+  - CV
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 menu:
   main:

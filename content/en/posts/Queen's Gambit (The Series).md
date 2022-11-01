@@ -1,17 +1,17 @@
 ---
-Title: Queen's Gambit (The Series)
-Description: The Queen's Gambit is an amazing TV show and an even more amazing book.
-Published: 2021-07-12
-Author:
+title: Queen's Gambit (The Series)
+description: The Queen's Gambit is an amazing TV show and an even more amazing book.
+published: 2021-07-12
+author:
   - Val Paliy
-Keywords:
+keywords:
   - chess
   - netflix
   - limited series
   - the queen's gambit
   - anya taylor-joy
   - walter tavis
-Tags:
+tags:
   - chess
   - netflix
   - limited series

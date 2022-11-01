@@ -1,16 +1,16 @@
 ---
-Title: It Is Time To Ditch Google Chrome
-Description: I switched my web browser, and you should too!
-Published: 2021-06-13
-Author:
+title: It Is Time To Ditch Google Chrome
+description: I switched my web browser, and you should too!
+published: 2021-06-13
+author:
   - Val Paliy
-Keywords:
+keywords:
   - Windows
   - Microsoft Edge
   - Google Chrome
   - web
   - browser
-Tags:
+tags:
   - Windows
   - Microsoft Edge
   - Google Chrome

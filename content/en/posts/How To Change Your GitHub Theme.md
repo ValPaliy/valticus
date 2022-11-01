@@ -1,15 +1,15 @@
 ---
-Title: How To Change Your GitHub Theme
-Description: Learn how to change your GitHub theme for the entire site.
-Published: 2021-04-04
-Author:
+title: How To Change Your GitHub Theme
+description: Learn how to change your GitHub theme for the entire site.
+published: 2021-04-04
+author:
   - Val Paliy
-Keywords:
+keywords:
   - howto
   - change
   - github
   - theme
-Tags:
+tags:
   - howto
   - change
   - github

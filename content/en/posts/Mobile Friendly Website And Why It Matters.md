@@ -1,10 +1,10 @@
 ---
-Title: Mobile Friendly Website And Why It Matters
-Description: A brief look at what mobile friendliness is and why it matters.
-Published: 2021-04-02
-Author:
+title: Mobile Friendly Website And Why It Matters
+description: A brief look at what mobile friendliness is and why it matters.
+published: 2021-04-02
+author:
   - Val Paliy
-Keywords:
+keywords:
   - mobile friendly
   - mobile friendliness
   - usability
@@ -13,7 +13,7 @@ Keywords:
   - UX
   - W3C
   - WCAG
-Tags:
+tags:
   - mobile friendly
   - mobile friendliness
   - usability

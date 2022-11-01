@@ -1,10 +1,10 @@
 ---
-Title: My New Favorite Theme For Editors
-Description: Since I now develop with Microsoft .Net, I use both Visual Studio Code and Visual Studio 2019 Community edition, and have a new theme I like using on both.
-Published: 2021-04-14
-Author:
+title: My New Favorite Theme For Editors
+description: Since I now develop with Microsoft .Net, I use both Visual Studio Code and Visual Studio 2019 Community edition, and have a new theme I like using on both.
+published: 2021-04-14
+author:
   - Val Paliy
-Keywords:
+keywords:
   - theme
   - icons
   - visual studio 2019
@@ -12,7 +12,7 @@ Keywords:
   - microsoft
   - windows
   - linux
-Tags:
+tags:
   - theme
   - icons
   - visual studio 2019

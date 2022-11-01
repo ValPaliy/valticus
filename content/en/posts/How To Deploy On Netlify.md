@@ -1,15 +1,15 @@
 ---
-Title: How To Deploy On Netlify
-Description: Learn how to create and deploy you website to Netlify.
-Published: 2021-03-31
-Author:
+title: How To Deploy On Netlify
+description: Learn how to create and deploy you website to Netlify.
+published: 2021-03-31
+author:
   - Val Paliy
-Keywords:
+keywords:
   - netlify
   - statiq
   - deploy
   - howto
-Tags:
+tags:
   - netlify
   - statiq
   - deploy

@@ -1,6 +1,12 @@
 ---
 title: "Про мене"
 description: "Дізнайтесь, хто я."
+keywords:
+  - Про мене
+  - Хто я?
+tags:
+  - Про мене
+  - Хто я?
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 menu:
   main:

@@ -1,10 +1,10 @@
 ---
-Title: Let's Talk About Fonts (Part 1)
-Description: Fonts are what we look at when we use a computer, a phone, a tablet. Which font should a developer use (in my opinion)?
-Published: 2021-06-05
-Author:
+title: Let's Talk About Fonts (Part 1)
+description: Fonts are what we look at when we use a computer, a phone, a tablet. Which font should a developer use (in my opinion)?
+published: 2021-06-05
+author:
   - Val Paliy
-Keywords:
+keywords:
   - Windows
   - Fonts
   - Coding
@@ -12,7 +12,7 @@ Keywords:
   - Development
   - IDE
   - Editor
-Tags:
+tags:
   - Windows
   - Fonts
   - Coding

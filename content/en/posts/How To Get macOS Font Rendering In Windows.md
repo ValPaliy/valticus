@@ -1,16 +1,16 @@
 ---
-Title: How To Get macOS Font Rendering In Windows
-Description: Let's Talk About Fonts (Part 2) or how to get macOS style font rendering in Windows.
-Published: 2021-06-08
-Author:
+title: How To Get macOS Font Rendering In Windows
+description: Let's Talk About Fonts (Part 2) or how to get macOS style font rendering in Windows.
+published: 2021-06-08
+author:
   - Val Paliy
-Keywords:
+keywords:
   - Windows
   - macOS
   - Fonts
   - MacType
   - GDIPP
-Tags:
+tags:
   - Windows
   - macOS
   - Fonts

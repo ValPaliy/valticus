@@ -1,7 +1,28 @@
 ---
 title: "Valticus | Programming, IT, and more."
-description: "I also play chess."
-theme_version: "2.8.2"
+description: "I am a web developer (programmer) who writes about everything."
+keywords:
+  - Programming
+  - Development
+  - Consulting
+  - Web
+  - Content
+  - Writting
+  - Python
+  - Hugo
+  - Go
+  - golang
+tags:
+  - Programming
+  - Development
+  - Consulting
+  - Web
+  - Content
+  - Writting
+  - Python
+  - Hugo
+  - Go
+  - golangtheme_version: "2.8.2"
 cascade:
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
