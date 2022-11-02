@@ -1,6 +1,6 @@
 ---
 title: "Valticus | Programming, IT, and more."
-description: "I am programmer who writes about everything."
+description: "I a am programmer who writes about everything."
 keywords:
   - Programming
   - Development
