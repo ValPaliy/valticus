@@ -28,7 +28,7 @@ The official guide on how to deploy your website to [Netlify](https://www.netlif
 
 And it's really as simple as that. The very blog you are exploring at the moment is deployed on [Netlify](https://www.netlify.com/) too, and the score is pretty great, as you can see on [Test My Site](https://testmysite.io/6064bce9a7065f5be16d3cdf/valticus.pro):
 
-{{< figure src="/images/testmysite-results-valticus.jpg" title="TestMySite results for valticus" >}}
+{{< figure src="/images/testmysite-results-valticus.jpg" title="TestMySite results for Valticus" >}}
 
 After I had set everything up on [Netlify](https://www.netlify.com/), all I had to do is generate a basic [Statiq](https://statiq.dev/web/) site and push it to the repository from which the this site is deployed via [Netlify](https://www.netlify.com/).
 
