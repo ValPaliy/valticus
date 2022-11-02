@@ -12,12 +12,14 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Valticus"
+    title = "Valticus EN"
     weight = 1
+    languageName = "English"
     contentDir = "content/en"
   [languages.ua]
-    title = "Valticus Ua"
+    title = "Valticus UA"
     weight = 2
+    languageName = "Ukrainian"
     contentDir = "content/ua"
 
 [sitemap]
