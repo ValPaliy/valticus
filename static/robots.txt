@@ -6,4 +6,8 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
+# Group 3
+User-agent: *
+Disallow: /drafts/*
+
 Sitemap: https://valticus.pro/sitemap.xml
