@@ -17,4 +17,4 @@ menu: main
 
 Please feel free to get in touch.
 
-{{< form-contact action="https://formspree.io/f/mvoqlawv" method="POST" >}}
+{{< form-contact action="https://formspree.io/f/mvoqlawv" >}}

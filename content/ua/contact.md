@@ -19,4 +19,4 @@ menu: main
 
 Використовуючи форму, ви можете зв'язатися зі мною.
 
-{{< form-contact action="https://formspree.io/f/mvoqlawv" method="POST" >}}
+{{< form-contact action="https://formspree.io/f/mvoqlawv" >}}
