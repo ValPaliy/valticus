@@ -5,7 +5,7 @@ media_folder: static/images/drafts
 public_folder: /drafts
 collections:
   - name: 'draft'
-    label: 'Drafts'
+    label: 'Draft'
     folder: 'content/drafts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
