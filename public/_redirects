@@ -1,4 +1,5 @@
 https://valticus.netlify.app/* https://valticus.pro/:splat 301!
+https://valticus.pro/drafts* https://valticus.pro/:splat 301!
 https://valticus.pro/ide-settings/* https://valticus.pro/:splat 301!
 https://valticus.pro/portfolio/* https://valticus.pro/:splat 301!
 https://valticus.pro/page/2/* https://valticus.pro/:splat 301!
