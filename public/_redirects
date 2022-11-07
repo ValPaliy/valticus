@@ -2,3 +2,6 @@ https://valticus.netlify.app/* https://valticus.pro/:splat 301!
 https://valticus.pro/ide-settings/* https://valticus.pro/:splat 301!
 https://valticus.pro/portfolio/* https://valticus.pro/:splat 301!
 https://valticus.pro/page/2/* https://valticus.pro/:splat 301!
+https://valticus.pro/feed.rss https://valticus.pro/:splat 301!
+https://valticus.pro/feed.atom https://valticus.pro/:splat 301! 
+https://valticus.pro/posts/111 https://valticus.pro/:splat 301!
