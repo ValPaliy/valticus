@@ -7,7 +7,7 @@ keywords:
 tags:
   - Resume
   - CV
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
 menu:
   main:
     weight: 1

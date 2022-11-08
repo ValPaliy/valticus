@@ -1,7 +1,7 @@
 ---
 title: It Is Time To Ditch Google Chrome
 description: I switched my web browser, and you should too!
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/It Is Time To Ditch Google Chrome.jpg"
 published: 2021-06-13
 author:
   - Val Paliy

@@ -1,7 +1,7 @@
 ---
 title: On Coding And Artificial Intelligence
 description: Have you ever tried AI as an assistant while coding? I have, and it can be amazing! Read on!
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/On Coding And Artificial Intelligence.jpg"
 published: 2021-06-14
 author:
   - Val Paliy

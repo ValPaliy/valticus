@@ -1,7 +1,7 @@
 ---
 title: Queen's Gambit (The Series)
 description: The Queen's Gambit is an amazing TV show and an even more amazing book.
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/Queen's Gambit (The Series).jpg"
 published: 2021-07-12
 author:
   - Val Paliy

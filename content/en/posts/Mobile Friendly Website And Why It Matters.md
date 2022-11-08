@@ -1,7 +1,7 @@
 ---
 title: Mobile Friendly Website And Why It Matters
 description: A brief look at what mobile friendliness is and why it matters.
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/Mobile Friendly Website And Why It Matters.jpg"
 published: 2021-04-02
 author:
   - Val Paliy

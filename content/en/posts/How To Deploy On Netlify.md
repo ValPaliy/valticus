@@ -1,7 +1,7 @@
 ---
 title: How To Deploy On Netlify
 description: Learn how to create and deploy you website to Netlify.
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/How To Deploy On Netlify.png"
 published: 2021-03-31
 author:
   - Val Paliy

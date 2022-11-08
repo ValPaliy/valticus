@@ -1,7 +1,7 @@
 ---
 title: How To Change Your VSCode Theme Depending On The Time Of Day
 description: Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/How To Change Your VSCode Theme Depending On The Time Of Day.jpg"
 published: 2021-06-28
 author:
   - Val Paliy

@@ -1,7 +1,7 @@
 ---
 title: Let's Talk About Fonts (Part 1)
 description: Fonts are what we look at when we use a computer, a phone, a tablet. Which font should a developer use (in my opinion)?
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/Let's Talk About Fonts (Part 1).png"
 published: 2021-06-05
 author:
   - Val Paliy

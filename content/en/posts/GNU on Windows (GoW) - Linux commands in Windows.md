@@ -1,7 +1,7 @@
 ---
 title: GNU on Windows (GoW) - Linux commands in Windows
 description: Did you know there's a way to execute Linux commands in Windows? Read on to find out how.
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/featured/GNU on Windows (GoW) - Linux commands in Windows.jpg"
 published: 2021-04-19
 author:
   - Val Paliy
