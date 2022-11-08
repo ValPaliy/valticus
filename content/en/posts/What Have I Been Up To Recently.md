@@ -1,6 +1,7 @@
 ---
 title: What Have I Been Up To Recently?
 description: Those who follow this blog may have noticed I didn't write anything for some time. So, what have I been up to recently?
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2021-06-02
 author:
   - Val Paliy

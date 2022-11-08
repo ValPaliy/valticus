@@ -1,6 +1,7 @@
 ---
 title: Plans For The Nearest Future Of This Blog
 description: This blog will hopefully become a valuable source of information soon, and not just for programmers!
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2021-06-20
 author:
   - Val Paliy

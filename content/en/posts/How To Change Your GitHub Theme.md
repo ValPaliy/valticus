@@ -1,6 +1,7 @@
 ---
 title: How To Change Your GitHub Theme
 description: Learn how to change your GitHub theme for the entire site.
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2021-04-04
 author:
   - Val Paliy

@@ -1,6 +1,7 @@
 ---
 title: How To Get macOS Font Rendering In Windows
 description: Let's Talk About Fonts (Part 2) or how to get macOS style font rendering in Windows.
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2021-06-08
 author:
   - Val Paliy

@@ -1,6 +1,7 @@
 ---
 title: On Digital Minimalism
 description: It is always wise to keep the number of applications installed on your device at a minimum.
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2022-11-05
 author:
   - Val Paliy

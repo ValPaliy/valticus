@@ -1,6 +1,7 @@
 ---
 title: My New Favorite Theme For Editors
 description: Since I now develop with Microsoft .Net, I use both Visual Studio Code and Visual Studio 2019 Community edition, and have a new theme I like using on both.
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2021-04-14
 author:
   - Val Paliy

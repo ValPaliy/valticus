@@ -1,6 +1,7 @@
 ---
 title: Why I Don't Use Netlify CMS (Yet)
 description: In this article I briefly tell you why I don't use Netlify CMS on a Statiq Web site yet.
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 published: 2021-03-28
 author:
   - Val Paliy
