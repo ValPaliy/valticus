@@ -5,12 +5,12 @@ media_folder: static/images/drafts
 public_folder: /drafts
 collections:
   - name: 'draft'
-    label: 'Draft'
+    label: 'draft'
     folder: 'content/drafts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
