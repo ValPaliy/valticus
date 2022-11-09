@@ -19,6 +19,8 @@ menu:
 
 Managing [Valticus](https://www.linkedin.com/company/valticus/) everywhere :)
 
+My portfolio is hosted on GitHub [here](https://github.com/ValPaliy/portfolio).
+
 ## Summary
 
 Held a position of a web master/library computer class assistant
