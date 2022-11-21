@@ -19,7 +19,7 @@ tags:
   - works
 ---
 
-So, today, Iran into a problem. Well, it has been bugging me for the last few days, actually. I started 
+So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started 
 getting the "**COM Surrogate has stopped working**" error.
 
 While Googling did help, not every solution worked for me. What did work is reverting the video card driver 
