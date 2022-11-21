@@ -42,7 +42,6 @@ have the Roll Back option (it was grayed-out for me at the time), you can try an
 to an earlier version, restart the system and see if the **COM Surrogate has stopped working** error is 
 fixed. Otherwise, just uninstall the driver.
 
-[]
 {{< figure src="/images/COMSurrogateUninstall.png" title="Uninstall Driver" >}}
 
 5. The next step is to install the driver back. The easiest step would be to go and fetch a driver from 
