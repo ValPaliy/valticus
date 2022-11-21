@@ -50,6 +50,6 @@ the company that manufactured your graphics card, Or use a driver updater softwa
 like [Driver Easy](https://www.drivereasy.com/), for example.
 
 6. After the driver has finished installing, restart your PC and the problem should be fixed. If 
-not, [let me know](https://alticus.pro/contact) - I might be able to help you.
+not, [let me know](https://valticus.pro/contact) - I might be able to help you.
 
 Hope the article was helpful. Have an awesome day!
