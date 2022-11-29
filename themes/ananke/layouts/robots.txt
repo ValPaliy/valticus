@@ -5,8 +5,6 @@ Allow: /
 Disallow: /tags/*
 Disallow: /admin/*
 Disallow: /drafts/*
-Disallow: /ide-settings/*
-Disallow: /portfolio/*
 Disallow: /page/2/*
 Sitemap: {{ "/sitemap.xml" | absURL }}
 {{ else -}}
