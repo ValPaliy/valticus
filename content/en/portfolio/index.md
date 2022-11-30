@@ -11,7 +11,7 @@ menu:
     weight: 1
 ---
 
-{{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/01-valcodes.ml.png" title="One of the old designs for my site." >}}
+{{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/00-valcodes.ml.png" title="One of the old designs for my site" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/13-paytochina.com.png" title="PayToChina" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/12-paliyml.png" title="An even older version of my site" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/11-paliybiz.png" title="A long time ago on a different domain" >}}
@@ -23,7 +23,6 @@ menu:
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/05-real-parents.jpg" title="A parenting advice website" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/04-vip_design.png" title="A design business website" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/03-netgain.jpg" title="" >}}
-{{< figure src="" title="Netgain Advisors" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/02-evenstrength.jpg" title="Even Strength" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/01-yanas-musikschule.png" title="A website for a music tutor" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/00-ishop_original.png" title="iShop, an online store" >}}
