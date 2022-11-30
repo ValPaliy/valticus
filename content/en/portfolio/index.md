@@ -24,7 +24,7 @@ I am an old school developer :)
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/06-web_site_in_48_hours.png" title="Web design business website" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/05-real-parents.jpg" title="A parenting advice website" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/04-vip_design.png" title="A design business website" >}}
-{{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/03-netgain.jpg" title="" >}}
+{{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/03-netgain.jpg" title="Netgain Advisors" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/02-evenstrength.jpg" title="Even Strength" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/01-yanas-musikschule.png" title="A website for a music tutor" >}}
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/old/00-ishop_original.png" title="iShop, an online store" >}}
