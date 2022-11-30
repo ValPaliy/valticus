@@ -10,7 +10,7 @@ menu:
   main:
     weight: 1
 ---
-Please note: My portfolio is hosted on GitHub [here](https://github.com/ValPaliy/portfolio). Most of the old websites presented here are hand-coded, because
+Please note: my portfolio is also hosted on GitHub [here](https://github.com/ValPaliy/portfolio). Most of the old websites presented here are hand-coded, because
 I am an old school developer :)
 
 {{< figure src="https://raw.githubusercontent.com/ValPaliy/portfolio/master/web-sites/00-valcodes.ml.png" title="One of the old designs for my site" >}}
