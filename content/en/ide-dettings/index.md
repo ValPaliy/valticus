@@ -1,6 +1,6 @@
 ---
 title: "Settings"
-description: "My IDE settings for VS Code."
+description: "My settings for VS Code."
 keywords:
   - IDE Setting
   - Visual Studio Code
@@ -15,7 +15,7 @@ menu:
     weight: 1
 ---
 
-My settings for Visual Studio Code. Feel free to use any and all settings you find useful.
+My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
 ```
 {
   "editor.fontSize": 17,
