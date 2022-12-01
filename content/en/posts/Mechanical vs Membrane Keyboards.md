@@ -71,7 +71,7 @@ Personally, I prefer the clicky switches because when using them, my keyboard fe
 
 **Cons** of a mechanical keyboard are: noise, higher price, higher weight. If you are a gamer that likes to keep your keyboard on your lap while playing, a more traditional gaming keyboard would be better for you.
 
-Here are a few pictures of each part of a mechanical keyboard as they can be seen on Amazon:
+Here are a few pictures of each part of a mechanical keyboard as they can be [seen on Amazon](https://Amazon.com):
 
 {{< figure src="/images/keyboard-chassis.jpg" title="Mechanical Keyboard Chassis" >}}
 {{< figure src="/images/keyboard-switches.jpg" title="Mechanical Keyboard Switches and Key caps" >}}
