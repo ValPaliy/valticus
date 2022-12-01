@@ -1,16 +1,21 @@
 ---
-title: "IDE Settings"
-description: "My IDE settings."
+title: "Settings"
+description: "My settings for VS Code."
 keywords:
   - IDE Setting
+  - Visual Studio Code
+  - vscode
 tags:
   - IDE Setting
+  - Visual Studio Code
+  - vscode
 featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
 menu:
   main:
     weight: 1
 ---
 
+My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
 ```
 {
   "editor.fontSize": 17,
