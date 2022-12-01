@@ -61,9 +61,9 @@ _Clicky switches_
 
 A clicky switch provides you with a click sound each time the key registers (hits the actuation point).
 
-Personally, I prefer the clicky switches because when using them, my keyboard feel like an old typewriter, and I like that. Of course, clicky switches produce more noise, so if that-s an issue in your case - chose the tactile switches as they are obviously quieter.
+Personally, I prefer the clicky switches because when using them, my keyboard feel like an old typewriter, and I like that. Of course, clicky switches produce more noise, so if that's an issue in your case - chose the tactile switches as they are obviously quieter.
 
-**Pros** of a mechanical keyboard are: long life span, durability, great typing feedback, stability. Keep in mind that in mechanical keyboards everything can be replaced - the chassis, the cord, the key switches and even the keycaps (you can even have custom keycaps designed to make your keyboard unique). You can even get all three switch types and try each one to see what you like best. Also, the switches can be greased for a smoother performance. That-s definitely something a membrane keyboard does not allow you to do.
+**Pros** of a mechanical keyboard are: long life span, durability, great typing feedback, stability. Keep in mind that in mechanical keyboards everything can be replaced - the chassis, the cord, the key switches and even the keycaps (you can even have custom keycaps designed to make your keyboard unique). You can even get all three switch types and try each one to see what you like best. Also, the switches can be greased for a smoother performance. That's definitely something a membrane keyboard does not allow you to do.
 
 **Cons** of a mechanical keyboard are: noise, higher price, higher weight. If you are a gamer that likes to keep your keyboard on your lap while playing, a more traditional gaming keyboard would be better for you.
 
@@ -83,11 +83,11 @@ We all know what a membrane keyboard is. They have been around for years and I t
 
 {{< figure src="/images/keyboard-membrane.jpg" title="A membrane keyboard" >}}
 
-The membrane keyboard can not be customized in any way apart from LED coloring if the keyboard has LEDs built in (which you can add to a mechanical keyboard too, by the way). You pretty much get what you buy and that-s it. If you have been following my articles here, you will know that membrane keyboards can be gaming keyboards too - Membrane keyboards cover what most casual gamers need and are pretty precise.
+The membrane keyboard can not be customized in any way apart from LED coloring if the keyboard has LEDs built in (which you can add to a mechanical keyboard too, by the way). You pretty much get what you buy and that's it. If you have been following my articles here, you will know that membrane keyboards can be gaming keyboards too! Membrane keyboards cover what most casual gamers need and are pretty precise.
 
 **Pros** of a membrane keyboard are: satisfying feedback, little to no noise, variaty, small size, lower prices.
 
-**Cons** of a membrane keyboard are: not as sturdy on your desk, it-s hard to replace parts, generally short life span. And most importantly - no way to customize your membrane keyboard.
+**Cons** of a membrane keyboard are: not as sturdy on your desk, it's hard to replace parts, generally short life span. And most importantly - no way to customize your membrane keyboard.
 
 Conclusion: as mechanical keyboards are getting cheaper, being as reliable and customizable as they are they will most likely dominate the keyboard market. For now we have to wait and see.
 
