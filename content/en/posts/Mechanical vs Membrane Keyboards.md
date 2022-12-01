@@ -31,6 +31,10 @@ tags:
   - Windows
   - Linux
   - macOS
+categories:
+  - Hardware
+  - Keyboards
+  - Peripherals
 ---
 
 {{< figure src="/images/featured/Mechanical vs Membrane Keyboards.jpg" title="A Mechanical Keyboard" >}}
