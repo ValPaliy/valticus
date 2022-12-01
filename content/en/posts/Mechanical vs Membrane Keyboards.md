@@ -2,7 +2,7 @@
 title: Mechanical vs. Membrane Keyboards
 description: Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can but (and assemble) one for under $100 today.
 featured_image: "/images/featured/Mechanical vs Membrane Keyboards.jpg"
-published: 2021-04-19
+published: 2022-12-01
 author:
   - Val Paliy
 keywords:
