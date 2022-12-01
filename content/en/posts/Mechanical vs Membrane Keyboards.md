@@ -37,7 +37,7 @@ tags:
 
 I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.
 
-Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can but (and assemble) one for under $100 today. Granted you might need to get the keys and key caps to suit your needs in addition.
+Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can but (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.
 
 While gathering material for this article I was surprised to find out how many mechanical keyboard enthusiasts are out there in the World. People even have competitions over whose custom built mechanical keyboard is better.
 
