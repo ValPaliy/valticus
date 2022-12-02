@@ -47,3 +47,7 @@ url = "https://www.linkedin.com/company/valticus/"
 [[params.ananke_socials]]
 name = "medium"
 url = "https://valticus.medium.com/"
+
+[[params.ananke_socials]]
+name = "go"
+url = "https://gohugo.io/"
