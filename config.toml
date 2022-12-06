@@ -29,6 +29,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = "#000000"
+custom_css = ["custom.css","special.css"]
   author = "Val Paliy"
   favicon = "favicon.ico"
   site_logo = "logo.png"
