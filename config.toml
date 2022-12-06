@@ -30,7 +30,6 @@ enableRobotsTXT = true
 [params]
   text_color = "#000000"
   body_classes = "lato bg-white"
-. custom_css = ["custom.css","special.css"]
   author = "Val Paliy"
   favicon = "favicon.ico"
   site_logo = "logo.png"
