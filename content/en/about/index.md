@@ -10,7 +10,7 @@ tags:
 featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
 menu:
   main:
-    weight: 0
+    weight: 1
 ---
 
 {{< figure src="/images/ValPaliy.jpg" title="This is me." >}}
