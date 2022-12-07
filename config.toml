@@ -5,6 +5,10 @@ theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
+<<<<<<< HEAD
+=======
+SectionPagesMenu = "main"
+>>>>>>> parent of 41f6eb9 (Update config.toml)
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "G-39H9NV2Z47"
 enableRobotsTXT = true
@@ -47,6 +51,7 @@ url = "https://www.linkedin.com/company/valticus/"
 [[params.ananke_socials]]
 name = "medium"
 url = "https://valticus.medium.com/"
+<<<<<<< HEAD
 
 #Menus
 [menus]
@@ -87,3 +92,5 @@ url = "https://valticus.medium.com/"
   pre = "<i class='fa fa-road'></i>"
   url = '/ua/contact/'
   weight = -90
+=======
+>>>>>>> parent of 41f6eb9 (Update config.toml)
