@@ -49,39 +49,39 @@ name = "medium"
 url = "https://valticus.medium.com/"
 
 #Menus
-[menu]
-[[menu.main]]
+[menus]
+[[menus.main]]
   identifier = 'about'
   name = 'About'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = -110
-[[menu.main]]
+[[menus.main]]
   identifier = 'articles'
   name = 'Articles'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/posts/'
   weight = -100
-[[menu.main]]
+[[menus.main]]
   identifier = 'contact'
   name = 'Contact'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/contact/'
   weight = -90
-[[menu.ukraine]]
+[[menus.ukraine]]
   name = 'Я'
   pre = "<i class='fa fa-heart'></i>"
   url = '/ua/about/'
   weight = -110
-[[menu.ukraine]]
+[[menus.ukraine]]
   name = 'Статті'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/ua/posts/'
   weight = -100
-[[menu.ukraine]]
+[[menus.ukraine]]
   name = 'Контакт'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
