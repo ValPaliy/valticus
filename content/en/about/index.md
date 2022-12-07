@@ -8,7 +8,9 @@ tags:
   - Resume
   - CV
 featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
-menu: main
+menu:
+  main:
+    weight: 1
 ---
 
 {{< figure src="/images/ValPaliy.jpg" title="This is me." >}}
