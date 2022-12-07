@@ -10,9 +10,6 @@ tags:
   - Visual Studio Code
   - vscode
 featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
-menu:
-  main:
-    weight: 1
 ---
 
 My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
