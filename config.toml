@@ -3,7 +3,6 @@ baseURL = "https://valticus.pro/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
-configDir = "config"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
