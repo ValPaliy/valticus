@@ -18,7 +18,7 @@ menu:
 # Val Paliy
 
 Managing [Valticus](https://www.linkedin.com/company/valticus/) everywhere :)
-
+Here are my [portfolio](https://valticus.pro/portfolio/) and [IDE settings](https://valticus.pro/ide-settings/).
 ## Summary
 
 Held a position of a web master/library computer class assistant
