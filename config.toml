@@ -50,21 +50,21 @@ name = "medium"
 url = "https://valticus.medium.com/"
 
 [menu]
-[[menu.main]]
+[[menu.main.en]]
   identifier = 'about'
   name = 'About'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = -110
-[[menu.main]]
+[[menu.main.en]]
   name = 'Articles'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/posts/'
   weight = -100
-[[menu.main]]
+[[menu.main.en]]
   name = 'Contact'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/contact/'
-  weight = -100
+  weight = -90
