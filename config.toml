@@ -5,14 +5,8 @@ theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 SectionPagesMenu = "main"
->>>>>>> parent of 41f6eb9 (Update config.toml)
-=======
-SectionPagesMenu = "main"
->>>>>>> parent of 41f6eb9 (Update config.toml)
+
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "G-39H9NV2Z47"
 enableRobotsTXT = true
@@ -55,49 +49,3 @@ url = "https://www.linkedin.com/company/valticus/"
 [[params.ananke_socials]]
 name = "medium"
 url = "https://valticus.medium.com/"
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-#Menus
-[menus]
-[[menus.main]]
-  identifier = 'about'
-  name = 'About'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/about/'
-  weight = -110
-[[menus.main]]
-  identifier = 'articles'
-  name = 'Articles'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/posts/'
-  weight = -100
-[[menus.main]]
-  identifier = 'contact'
-  name = 'Contact'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/contact/'
-  weight = -90
-[[menus.ukraine]]
-  name = 'Я'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/ua/about/'
-  weight = -110
-[[menus.ukraine]]
-  name = 'Статті'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/ua/posts/'
-  weight = -100
-[[menus.ukraine]]
-  name = 'Контакт'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/ua/contact/'
-  weight = -90
-=======
->>>>>>> parent of 41f6eb9 (Update config.toml)
-=======
->>>>>>> parent of 41f6eb9 (Update config.toml)
