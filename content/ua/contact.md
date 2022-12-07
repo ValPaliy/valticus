@@ -14,7 +14,9 @@ tags:
   - Напишіть мені
   - E-mail
 type: page
-menu: main
+menu:
+  main:
+    weight: 3
 ---
 
 Використовуючи форму, ви можете зв'язатися зі мною.
