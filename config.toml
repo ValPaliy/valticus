@@ -51,15 +51,15 @@ url = "https://valticus.medium.com/"
 #Menus
 [menus]
 
-  [[menus.main]]
+  [[menu.main]]
   name = "About"
   weight = 1.0
   url = "/about/"
-  [[menus.main]]
+  [[menu.main]]
   name = "Articles"
   weight = 2.0
   url = "/posts/"
-  [[menus.main]]
+  [[menu.main]]
   name = "Contact"
   weight = 3.0
   url = "/contact/"
