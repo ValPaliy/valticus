@@ -23,7 +23,6 @@ tags:
   - Hugo
   - Go
   - golangtheme_version: "2.8.2"
-cascade:
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 menu: main
 ---
