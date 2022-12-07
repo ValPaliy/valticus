@@ -48,7 +48,7 @@ url = "https://www.linkedin.com/company/valticus/"
 name = "medium"
 url = "https://valticus.medium.com/"
 
-[menu.en]
+[menu]
 [[menu.main]]
   identifier = 'about'
   name = 'About'
@@ -68,7 +68,7 @@ url = "https://valticus.medium.com/"
   url = '/contact/'
   weight = -90
 
-[menu.ua]
+[menu]
 [[menu.main]]
   identifier = '?'
   name = 'About'
