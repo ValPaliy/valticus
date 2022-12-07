@@ -6,6 +6,7 @@ keywords:
 tags:
   - Portfolio
 featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
+menu: main
 ---
 Please note: a complete version of my portfolio is hosted on GitHub [here](https://github.com/ValPaliy/portfolio). Most of the old websites presented here are hand-coded, because
 I am an old school developer :)
