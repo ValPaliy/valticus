@@ -6,6 +6,10 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+SectionPagesMenu = "main"
+>>>>>>> parent of 41f6eb9 (Update config.toml)
 =======
 SectionPagesMenu = "main"
 >>>>>>> parent of 41f6eb9 (Update config.toml)
@@ -52,6 +56,7 @@ url = "https://www.linkedin.com/company/valticus/"
 name = "medium"
 url = "https://valticus.medium.com/"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #Menus
 [menus]
@@ -92,5 +97,7 @@ url = "https://valticus.medium.com/"
   pre = "<i class='fa fa-road'></i>"
   url = '/ua/contact/'
   weight = -90
+=======
+>>>>>>> parent of 41f6eb9 (Update config.toml)
 =======
 >>>>>>> parent of 41f6eb9 (Update config.toml)
