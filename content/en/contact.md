@@ -12,6 +12,7 @@ tags:
   - Get in touch
   - E-mail me
 type: page
+menu: main
 ---
 
 Please feel free to get in touch.

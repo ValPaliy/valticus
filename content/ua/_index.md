@@ -17,7 +17,6 @@ tags:
   - Консалтинг
 cascade:
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-menu: main
 ---
 
 Поки що ця частина сайту - в розробці, але дуже скоро тут з'являться цікаві статті.
