@@ -49,29 +49,41 @@ name = "medium"
 url = "https://valticus.medium.com/"
 
 #Menus
-[menus]
-
-  [[menu.main]]
-  name = "About"
-  weight = 1.0
-  url = "/about/"
-  [[menu.main]]
-  name = "Articles"
-  weight = 2.0
-  url = "/posts/"
-  [[menu.main]]
-  name = "Contact"
-  weight = 3.0
-  url = "/contact/"
-  [[menus.ukraine]]
-  name = "Я"
-  weight = 1.0
-  url = "/about/"
-  [[menus.ukraine]]
-  name = "Статті"
-  weight = 2.0
-  url = "/posts/"
-  [[menus.ukraine]]
-  name = "Контакт"
-  weight = 3.0
-  url = "/contact/"
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  identifier = 'articles'
+  name = 'Articles'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/posts/'
+  weight = -100
+[[menu.main]]
+  name = 'contact'
+  identifier = 'contact'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/contact/'
+  weight = -90
+[[menu.ukraine]]
+  name = 'Я'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/ua/about/'
+  weight = -110
+[[menu.ukraine]]
+  name = 'Статті'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/ua/posts/'
+  weight = -100
+[[menu.ukraine]]
+  name = 'Контакт'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/ua/contact/'
+  weight = -90
