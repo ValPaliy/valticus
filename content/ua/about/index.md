@@ -1,5 +1,5 @@
 ---
-title: "Про мене"
+title: "Я"
 description: "Дізнайтесь, хто я."
 keywords:
   - Про мене
