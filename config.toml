@@ -48,23 +48,3 @@ url = "https://www.linkedin.com/company/valticus/"
 [[params.ananke_socials]]
 name = "medium"
 url = "https://valticus.medium.com/"
-
-[menu]
-[[menu.en.main]]
-  identifier = 'about'
-  name = 'About'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/about/'
-  weight = -110
-[[menu.en.main]]
-  name = 'Articles'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/posts/'
-  weight = -100
-[[menu.en.main]]
-  name = 'Contact'
-  post = "<span class='alert'>New!</span>"
-  pre = "<i class='fa fa-road'></i>"
-  url = '/contact/'
-  weight = -90
