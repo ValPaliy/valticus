@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 description: "My resume."
 keywords:
   - Resume
