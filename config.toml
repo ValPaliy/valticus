@@ -30,7 +30,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = "#000000"
-  body_classes = "lato bg-white"
+  body_classes = "avenir lato bg-white"
   author = "Val Paliy"
   favicon = "favicon.ico"
   site_logo = "logo.png"
