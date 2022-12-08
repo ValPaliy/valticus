@@ -12,7 +12,9 @@ tags:
   - Get in touch
   - E-mail me
 type: page
-menu: main
+menu:
+  main:
+    weight: 30
 ---
 
 Please feel free to get in touch.
