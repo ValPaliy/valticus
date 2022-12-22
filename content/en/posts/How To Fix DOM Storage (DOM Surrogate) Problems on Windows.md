@@ -44,6 +44,8 @@ fixed. Otherwise, just uninstall the driver.
 
 {{< figure src="/images/COMSurrogateUninstall.png" title="Uninstall Driver" >}}
 
+**Please note:** there is no need to remove the driver, just uninstall it, and reboot your PC.
+
 5. The next step is to install the driver back. The easiest step would be to go and fetch a driver from 
 the company that manufactured your graphics card, Or use a driver updater software, 
 like [Driver Easy](https://www.drivereasy.com/), for example.
