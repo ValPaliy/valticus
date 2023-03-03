@@ -13,7 +13,7 @@ menu:
     weight: 10
 ---
 
-{{< figure src="/images/ValPaliy.jpg" title="This is me." >}}
+{{< figure src="/images/ValPaliy.png" title="This is me." >}}
 
 # Val Paliy
 
