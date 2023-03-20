@@ -13,6 +13,7 @@ featured_image: "/images/featured/gohugo-default-sample-hero-image.jpg"
 ---
 
 My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
+
 ```
 {
   "editor.fontSize": 17,
