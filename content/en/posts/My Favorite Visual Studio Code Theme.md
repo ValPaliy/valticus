@@ -17,7 +17,7 @@ tags:
   - theme
 ---
 
-{{< figure src="/images/favorite-theme-vscode.jpg" title="Visual Studio Code" >}}
+{{< figure src="/images/favorite-theme-vscode.jpg" title="Visual Studio Code" alt="Visual Studio Code" >}}
 
 [Visual Studio Code](https://code.visualstudio.com/) (or simply _vscode_, or even _code_) is an editor developed by [Microsoft](https://valticus81.medium.com/microsoft.com). The editor was released back in 2015 and by now is considered one of the best if not the best code editors out there. I admit, I used Vim for a bit, but switched back to vscode+vim plugin, since I work with .Net nowadays. I am going to tell you about my favorite set of plugins in one of my next posts.
 
@@ -27,7 +27,7 @@ To tell you about all the features of VSCode I’d need a separate post (and I w
 
 In my humble opinion dark editor themes are better. This is subjective, of course, but the way I and many others see it is this — dark themes are easier on the eyes. There are tons of themes to choose from in [the marketplace](https://marketplace.visualstudio.com/vscode). I have tried quite a few and chosen the [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
 
-{{< figure src="/images/favorite-theme-night-owl.jpg" title="Night Owl Theme" >}}
+{{< figure src="/images/favorite-theme-night-owl.jpg" title="Night Owl Theme" alt="Night Owl Theme" >}}
 
 The theme was created by [Sarah Drasner](https://sarah.dev/) — one of my favorite fellow developers to follow on [Twitter](https://twitter.com/). To quote Sarah’s own site, she “is an award-winning Speaker, Head of Developer Experience at Netlify, Vue core team member, and Staff Writer at CSS-Tricks.”
 

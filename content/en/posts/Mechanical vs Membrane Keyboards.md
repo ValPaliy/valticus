@@ -37,7 +37,7 @@ categories:
   - Peripherals
 ---
 
-{{< figure src="/images/featured/Mechanical vs Membrane Keyboards.jpg" title="A Mechanical Keyboard" >}}
+{{< figure src="/images/featured/Mechanical vs Membrane Keyboards.jpg" title="A Mechanical Keyboard" alt="A Mechanical Keyboard" >}}
 
 I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.
 
@@ -73,11 +73,11 @@ Personally, I prefer the clicky switches because when using them, my keyboard fe
 
 Here are a few pictures of each part of a mechanical keyboard as they can be [seen on Amazon](https://Amazon.com):
 
-{{< figure src="/images/keyboard-chassis.jpg" title="Mechanical Keyboard Chassis" >}}
-{{< figure src="/images/keyboard-switches.jpg" title="Mechanical Keyboard Switches and Key caps" >}}
+{{< figure src="/images/keyboard-chassis.jpg" title="Mechanical Keyboard Chassis" alt="Mechanical Keyboard Chassis" >}}
+{{< figure src="/images/keyboard-switches.jpg" title="Mechanical Keyboard Switches and Key caps" alt="Mechanical Keyboard Switches and Key caps" >}}
 
 As I have already mentioned, each key switch can be taken apart and greased for better performance:
-{{< figure src="/images/keyboard-switch-parts.jpg" title="The key switch and its parts." >}}
+{{< figure src="/images/keyboard-switch-parts.jpg" title="The key switch and its parts." alt="The key switch and its parts." >}}
 
 So, to sum the mechanical part of this article - people go for mechanical keyboards when they need total control of how their keyboard feels, sounds and looks like. That is, obviously, a generalization, and as I dive deeper into the realm of mechanical keyboards, I will write more detailed reviews, so stay tuned for future updates.
 
@@ -85,7 +85,7 @@ So, to sum the mechanical part of this article - people go for mechanical keyboa
 
 We all know what a membrane keyboard is. They have been around for years, and I think it would be safe to say that 90% of computers use them.
 
-{{< figure src="/images/keyboard-membrane.jpg" title="A membrane keyboard" >}}
+{{< figure src="/images/keyboard-membrane.jpg" title="A membrane keyboard" alt="A membrane keyboard" >}}
 
 The membrane keyboard can not be customized in any way apart from LED coloring if the keyboard has LEDs built in (which you can add to a mechanical keyboard too, by the way). You pretty much get what you buy and that's it. If you have been following my articles here, you will know that membrane keyboards can be gaming keyboards too! Membrane keyboards cover what most casual gamers need and are pretty precise.
 

@@ -24,9 +24,9 @@ Eye comfort is very important, especially to programmers, who spend most of thei
 I've already mentioned a few [themes](https://valticus.pro/tags/theme/) I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.
 
 Take a look at the three screenshots above:
-{{< figure src="/images/theme-afternoon.jpg" title="Night Owl Light" >}}
-{{< figure src="/images/theme-morning.jpg" title="Cobalt2" >}}
-{{< figure src="/images/theme-night.jpg" title="Night Owl" >}}
+{{< figure src="/images/theme-afternoon.jpg" title="Night Owl Light" alt="Night Owl Light" >}}
+{{< figure src="/images/theme-morning.jpg" title="Cobalt2" alt="Cobalt2" >}}
+{{< figure src="/images/theme-night.jpg" title="Night Owl" alt="Night Owl" >}}
 
 The above are the three wonderful editor themes I use throughout the day (**_Night Owl Light_** is in effect from 6am to noon, **_Cobalt2_** is noon to 6pm and **_Night Owl_** is my go to theme from 6pm to 6am, because it's, well, perfect for us night owls out there).
 
