@@ -2,7 +2,7 @@
 title: Why I No Longer Use Twitter To Promote My Services
 description: As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. Here is why I don't like it...
 featured_image: "/images/featured/Why I No Longer Use Twitter To Promote My Services.jpg"
-published: 2023-02-17
+published: 2023-04-09
 author:
   - Val Paliy
 keywords:
@@ -40,3 +40,5 @@ Above is what has been boiling up inside me for quite some time now. Twitter is 
 There are no hyperlinks in this article. I am not trying to use a hot topic to get more visitors, but merely expressing my feelings.
 
 Thank you very much for your time and attention. Be safe out there!
+
+Update: As of April 9th, 2023, I no longer user Instagram (ValPaliy) or Twitter (ValPaliy).
