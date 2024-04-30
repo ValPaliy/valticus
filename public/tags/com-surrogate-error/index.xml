@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COM Surrogate error on Valticus</title>
+    <link>https://valticus.pro/tags/com-surrogate-error/</link>
+    <description>Recent content in COM Surrogate error on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/com-surrogate-error/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Fix DOM Storage (DOM Surrogate) Problems on Windows</title>
+      <link>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</guid>
+      <description>So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started getting the &amp;ldquo;COM Surrogate has stopped working&amp;rdquo; error.
+While Googling did help, not every solution worked for me. What did work is reverting the video card driver (I have a built-in Intel HD graphics card). So this is the first thing I&amp;rsquo;d suggest you try.
+To uninstall your current video card driver, first open the Run dialog by pressing Win+R: Windows Run Dialog Type devmgmt.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,43 @@
     <link>https://valticus.pro/</link>
     <description>Recent content in Valticus | Programming, IT, and more. on Valticus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://valticus.pro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I No Longer Use Twitter To Promote My Services</title>
+      <link>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</guid>
+      <description>As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. I don&amp;rsquo;t know about you, but I am only noticing negative sides of this acquisition. I will try to explain why within following paragraphs.
+Firstly, I am not talking about the blue stars here, either. It goes deeper. Twitter feels less professional as a whole, since Elon bought it. There had been many lay-offs, many people leaving the company at their own will because of bad management, and so on, and so forth.</description>
+    </item>
+    
+    <item>
+      <title>Mechanical vs. Membrane Keyboards</title>
+      <link>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</guid>
+      <description>A Mechanical Keyboard I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.
+Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.</description>
+    </item>
+    
+    <item>
+      <title>How To Fix DOM Storage (DOM Surrogate) Problems on Windows</title>
+      <link>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</guid>
+      <description>So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started getting the &amp;ldquo;COM Surrogate has stopped working&amp;rdquo; error.
+While Googling did help, not every solution worked for me. What did work is reverting the video card driver (I have a built-in Intel HD graphics card). So this is the first thing I&amp;rsquo;d suggest you try.
+To uninstall your current video card driver, first open the Run dialog by pressing Win+R: Windows Run Dialog Type devmgmt.</description>
+    </item>
+    
     <item>
       <title>On Digital Minimalism</title>
       <link>https://valticus.pro/posts/on-digital-minimalism/</link>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://valticus.pro/posts/on-digital-minimalism/</guid>
       <description>Oftentimes, when you buy a new PC, it comes preloaded with applications. Some of them are essential, like an anti-virus, and some of them are not. Over the years I&amp;rsquo;ve come to realize that the responsiveness of your device (it doesn&amp;rsquo;t necessarily have to be a computer, it can be a mobile phone or a tablet, too) depends on how many applications you have installed. It is especially true for mobile devices, where applications are often started at boot and remain in the memory even if they are not used, draining battery power.</description>
@@ -34,7 +65,7 @@ Netflix said last week that &amp;ldquo;The Queen&amp;rsquo;s Gambit&amp;rdquo; w
       <guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid>
       <description>Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.
 I&amp;rsquo;ve already mentioned a few themes I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.
-Take a look at the three screenshots above: Night Owl Light Cobalt2 Night Owl The above are the three wonderful editor themes I use throughout the day (Night Owl Light is in effect from 6am to noon, Cobalt2 is noon to 6pm and Night Owl is my go to theme from 6pm to 6am, because it&amp;rsquo;s, well, perfect for us night owls out there).</description>
+Take a look at the three screenshots above: Cobalt2 Night Owl Light Night Owl The above are the three wonderful editor themes I use throughout the day (Night Owl Light is in effect from 6am to noon, Cobalt2 is noon to 6pm and Night Owl is my go to theme from 6pm to 6am, because it&amp;rsquo;s, well, perfect for us night owls out there).</description>
     </item>
     
     <item>
@@ -108,7 +139,7 @@ I&amp;rsquo;ve switched to Windows entirely.</description>
       
       <guid>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</guid>
       <description>Ever since Google discontinued Google+ (its social network) there&amp;rsquo;s no obvious way to delete unused profile pictures from your account.
-However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.
+Google Profile Images However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.
 To delete your unused profile pictures (or any photos you might want to delete from your Google account), you have to be signed in to your google account. After you are signed in, follow this simple steps:
 Open get.google.com/albumarchive.
 Find folder called Profile Photos.</description>
@@ -185,12 +216,12 @@ Step 1: Add Your New Site. Creating a new site on Netlify is simple. Step 2: Lin
     </item>
     
     <item>
-      <title>About me</title>
+      <title>About</title>
       <link>https://valticus.pro/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://valticus.pro/about/</guid>
-      <description>This is me. Val Paliy Managing Valticus everywhere :)
+      <description>This is me. Val Paliy Here are my portfolio and IDE settings.
 Summary Held a position of a web master/library computer class assistant in Biddeford High School, Biddeford, ME, USA. Acted as an aid to the school&amp;rsquo;s main office staff. Helped a number of teachers repair problems with hardware/software.
 Took part in various program presentations as an alum of both Freedom Support Act/Future Leaders Exchange (ACTR/ACCELS) and Undergraduate Exchange (IREX) exchange programs, which were held for applicants, as well as in various seminars for alumni in both Ukraine and Washington DC.</description>
     </item>
@@ -203,6 +234,26 @@ Took part in various program presentations as an alum of both Freedom Support Ac
       <guid>https://valticus.pro/contact/</guid>
       <description>Please feel free to get in touch.
 Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+    <item>
+      <title>IDE</title>
+      <link>https://valticus.pro/ide-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/ide-settings/</guid>
+      <description>My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
+{&amp;#34;editor.fontSize&amp;#34;: 17,&amp;#34;editor.fontFamily&amp;#34;: &amp;#34;&amp;#39;Jetbrains Mono&amp;#39;, &amp;#39;monospace&amp;#39;, monospace, &amp;#39;Droid Sans Fallback&amp;#39;&amp;#34;,&amp;#34;editor.fontLigatures&amp;#34;: true,&amp;#34;editor.lineHeight&amp;#34;: 25,&amp;#34;editor.letterSpacing&amp;#34;: 0.5,&amp;#34;files.trimTrailingWhitespace&amp;#34;: true,&amp;#34;editor.cursorStyle&amp;#34;: &amp;#34;line&amp;#34;,&amp;#34;editor.cursorWidth&amp;#34;: 5,&amp;#34;editor.cursorBlinking&amp;#34;: &amp;#34;solid&amp;#34;,&amp;#34;editor.renderWhitespace&amp;#34;: &amp;#34;none&amp;#34;,&amp;#34;update.showReleaseNotes&amp;#34;: false,&amp;#34;editor.linkedEditing&amp;#34;: true,&amp;#34;editor.suggestSelection&amp;#34;: &amp;#34;first&amp;#34;,&amp;#34;editor.fontWeight&amp;#34;: 600,&amp;#34;editor.formatOnSave&amp;#34;: true,&amp;#34;git.enableSmartCommit&amp;#34;: true,&amp;#34;editor.colorDecorators&amp;#34;: false,&amp;#34;git.confirmSync&amp;#34;: false,&amp;#34;editor.wordWrap&amp;#34;: &amp;#34;on&amp;#34;,&amp;#34;editor.wordWrapColumn&amp;#34;: 111,&amp;#34;git.allowForcePush&amp;#34;: true,&amp;#34;git.confirmForcePush&amp;#34;: false,&amp;#34;editor.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://valticus.pro/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/portfolio/</guid>
+      <description>Please note: a complete version of my portfolio is hosted on GitHub here. Most of the old websites presented here are hand-coded, because I am an old school developer :)
+One of the old designs for my site PayToChina An even older version of my site A long time ago on a different domain A website for my school A resort in Ukrainian Crimea Ukrainian Crimea resort (old version) PC repair shop website Web design business website A parenting advice website A design business website Netgain Advisors Even Strength A website for a music tutor iShop, an online store </description>
     </item>
     
   </channel>

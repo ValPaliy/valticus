@@ -5,12 +5,43 @@
     <link>https://valticus.pro/posts/</link>
     <description>Recent content in Articles on Valticus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 31 Oct 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://valticus.pro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I No Longer Use Twitter To Promote My Services</title>
+      <link>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</guid>
+      <description>As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. I don&amp;rsquo;t know about you, but I am only noticing negative sides of this acquisition. I will try to explain why within following paragraphs.
+Firstly, I am not talking about the blue stars here, either. It goes deeper. Twitter feels less professional as a whole, since Elon bought it. There had been many lay-offs, many people leaving the company at their own will because of bad management, and so on, and so forth.</description>
+    </item>
+    
+    <item>
+      <title>Mechanical vs. Membrane Keyboards</title>
+      <link>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</guid>
+      <description>A Mechanical Keyboard I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.
+Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.</description>
+    </item>
+    
+    <item>
+      <title>How To Fix DOM Storage (DOM Surrogate) Problems on Windows</title>
+      <link>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</guid>
+      <description>So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started getting the &amp;ldquo;COM Surrogate has stopped working&amp;rdquo; error.
+While Googling did help, not every solution worked for me. What did work is reverting the video card driver (I have a built-in Intel HD graphics card). So this is the first thing I&amp;rsquo;d suggest you try.
+To uninstall your current video card driver, first open the Run dialog by pressing Win+R: Windows Run Dialog Type devmgmt.</description>
+    </item>
+    
     <item>
       <title>On Digital Minimalism</title>
       <link>https://valticus.pro/posts/on-digital-minimalism/</link>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://valticus.pro/posts/on-digital-minimalism/</guid>
       <description>Oftentimes, when you buy a new PC, it comes preloaded with applications. Some of them are essential, like an anti-virus, and some of them are not. Over the years I&amp;rsquo;ve come to realize that the responsiveness of your device (it doesn&amp;rsquo;t necessarily have to be a computer, it can be a mobile phone or a tablet, too) depends on how many applications you have installed. It is especially true for mobile devices, where applications are often started at boot and remain in the memory even if they are not used, draining battery power.</description>
@@ -34,7 +65,7 @@ Netflix said last week that &amp;ldquo;The Queen&amp;rsquo;s Gambit&amp;rdquo; w
       <guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid>
       <description>Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.
 I&amp;rsquo;ve already mentioned a few themes I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.
-Take a look at the three screenshots above: Night Owl Light Cobalt2 Night Owl The above are the three wonderful editor themes I use throughout the day (Night Owl Light is in effect from 6am to noon, Cobalt2 is noon to 6pm and Night Owl is my go to theme from 6pm to 6am, because it&amp;rsquo;s, well, perfect for us night owls out there).</description>
+Take a look at the three screenshots above: Cobalt2 Night Owl Light Night Owl The above are the three wonderful editor themes I use throughout the day (Night Owl Light is in effect from 6am to noon, Cobalt2 is noon to 6pm and Night Owl is my go to theme from 6pm to 6am, because it&amp;rsquo;s, well, perfect for us night owls out there).</description>
     </item>
     
     <item>
@@ -108,7 +139,7 @@ I&amp;rsquo;ve switched to Windows entirely.</description>
       
       <guid>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</guid>
       <description>Ever since Google discontinued Google+ (its social network) there&amp;rsquo;s no obvious way to delete unused profile pictures from your account.
-However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.
+Google Profile Images However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.
 To delete your unused profile pictures (or any photos you might want to delete from your Google account), you have to be signed in to your google account. After you are signed in, follow this simple steps:
 Open get.google.com/albumarchive.
 Find folder called Profile Photos.</description>
