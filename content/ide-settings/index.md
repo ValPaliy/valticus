@@ -1,5 +1,5 @@
 ---
-title: "IDE"
+title: "IDE Settings"
 description: "My settings for VS Code."
 keywords:
   - IDE Setting

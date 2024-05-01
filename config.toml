@@ -84,6 +84,16 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 
 # Custom social links
 [[Params.widgets.social.custom]]
+  title = "About"
+  url = "https://valticus.pro/about/"
+[[Params.widgets.social.custom]]
+  title = "Portfolio"
+  url = "https://valticus.pro/portfolio/"
+[[Params.widgets.social.custom]]
+  title = "IDE Settings"
+  url = "https://valticus.pro/ide-settings/"
+
+[[Params.widgets.social.custom]]
   title = "Facebook"
   url = "https://facebook.com/Valticus"
 [[Params.widgets.social.custom]]
@@ -92,7 +102,6 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 [[Params.widgets.social.custom]]
   title = "Medium"
   url = "https://valticus.medium.com/"
-
 
 [Params.widgets.search]
   cached = false # activate cache if true
