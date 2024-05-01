@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>How To Change Your VSCode Theme Depending On The Time Of Day - Valticus</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!">
+		<meta property="og:title" content="How To Change Your VSCode Theme Depending On The Time Of Day" />
+<meta property="og:description" content="Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-06-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-06-28T00:00:00+00:00" />
+
+		<meta itemprop="name" content="How To Change Your VSCode Theme Depending On The Time Of Day">
+<meta itemprop="description" content="Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!"><meta itemprop="datePublished" content="2021-06-28T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-06-28T00:00:00+00:00" />
+<meta itemprop="wordCount" content="431">
+<meta itemprop="keywords" content="visual studio code,vscode,editor,IDE,theme," />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How To Change Your VSCode Theme Depending On The Time Of Day"/>
+<meta name="twitter:description" content="Would you like to learn how to change your Visual Studio Code theme as time goes by? Read on!"/>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-39H9NV2Z47"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-39H9NV2Z47', { 'anonymize_ip': false });
+}
+</script>
+
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Valticus" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/logo.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Valticus</div>
+					<div class="logo__tagline">It&#39;s all about text!</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">How To Change Your VSCode Theme Depending On The Time Of Day</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 16 16"><path d="M8 1c2 0 3.5 2 3.5 4.5S10 9 10 9c3 1 4 2 4 6H2c0-4 1-5 4-6 0 0-1.5-1-1.5-3.5S6 1 8 1"/></svg><span class="meta__text">Val Paliy</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2021-06-28T00:00:00Z">2021-06-28</time></div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.</p>
+<p>I&rsquo;ve already mentioned a few <a href="https://valticus.pro/tags/theme/">themes</a> I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.</p>
+<p>Take a look at the three screenshots above:
+<figure><img src="/images/theme-afternoon.jpg"
+         alt="Cobalt2"/><figcaption>
+            <h4>Cobalt2</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="/images/theme-morning.jpg"
+         alt="Night Owl Light"/><figcaption>
+            <h4>Night Owl Light</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="/images/theme-night.jpg"
+         alt="Night Owl"/><figcaption>
+            <h4>Night Owl</h4>
+        </figcaption>
+</figure>
+</p>
+<p>The above are the three wonderful editor themes I use throughout the day (<strong><em>Night Owl Light</em></strong> is in effect from 6am to noon, <strong><em>Cobalt2</em></strong> is noon to 6pm and <strong><em>Night Owl</em></strong> is my go to theme from 6pm to 6am, because it&rsquo;s, well, perfect for us night owls out there).</p>
+<p>To achieve the same you will need to install the two themes plus two additional extensions (<a href="https://marketplace.visualstudio.com/items?itemName=savioserra.theme-switcher">Theme Switcher</a> by <em>Sávio Santos Serra</em> &amp; <a href="https://marketplace.visualstudio.com/items?itemName=JanBn.vscode-theme-switcher">Theme switcher</a> by <em>JanBn</em>), as well as add a couple of lines to your vscode configuration file:</p>
+<pre tabindex="0"><code>  &#34;themeSwitcher.themesList&#34;: &#34;Night Owl Light, Cobalt2, Night Owl&#34;,
+  &#34;themeswitcher.utcOffset&#34;: 3,
+  &#34;themeswitcher.mappings&#34;: [
+    {
+      &#34;time&#34;: &#34;06:00&#34;,
+      &#34;theme&#34;: &#34;Night Owl Light&#34;
+    },
+    {
+      &#34;time&#34;: &#34;12:00&#34;,
+      &#34;theme&#34;: &#34;Cobalt2&#34;
+    },
+    {
+      &#34;time&#34;: &#34;18:00&#34;,
+      &#34;theme&#34;: &#34;Night Owl&#34;
+    }
+  ]
+</code></pre><p><em>Note: I am using a 24h clock format in this example.</em></p>
+<p>Technically, the very first line is only necessary if you are planning to also switch between themes via shortcuts, like I do:</p>
+<pre tabindex="0"><code>  {
+    &#34;key&#34;: &#34;f5&#34;,
+    &#34;command&#34;: &#34;themeSwitcher.previousSelectedTheme&#34;
+  },
+  {
+    &#34;key&#34;: &#34;f6&#34;,
+    &#34;command&#34;: &#34;themeSwitcher.nextSelectedTheme&#34;
+  }
+</code></pre><p>One other tweak I&rsquo;ve added to the config file is something to make the sidebar stand out when using <strong><em>Night Owl Light</em></strong>:</p>
+<pre tabindex="0"><code>  &#34;workbench.colorCustomizations&#34;: {
+    &#34;[Night Owl Light]&#34;: {
+      &#34;sideBar.foreground&#34;: &#34;#000000&#34;
+    },
+    &#34;[Night Owl Light (No Italics)]&#34;: {
+      &#34;sideBar.foreground&#34;: &#34;#000000&#34;
+    }
+  }
+</code></pre><p>That&rsquo;s it. Now, depending on the time of day, your IDE will look different, and you will not have to worry about your eyes getting tired.</p>
+<p>Few updates: there&rsquo;s yet another, a little different theme by <a href="https://sarahdrasnerdesign.com/">Sarah Drasner</a> called <a href="https://marketplace.visualstudio.com/items?itemName=sdras.inbedby7pm">In Bed by 7pm</a>, which you can easily integrate into your theme switching routine as a fourth theme like I did:</p>
+<pre tabindex="0"><code>  &#34;themeswitcher.mappings&#34;: [
+    {
+      &#34;time&#34;: &#34;06:00&#34;,
+      &#34;theme&#34;: &#34;Night Owl Light&#34;
+    },
+    {
+      &#34;time&#34;: &#34;12:00&#34;,
+      &#34;theme&#34;: &#34;Cobalt2&#34;
+    },
+    {
+      &#34;time&#34;: &#34;18:00&#34;,
+      &#34;theme&#34;: &#34;In Bed by 7pm&#34;
+    },
+    {
+      &#34;time&#34;: &#34;00:00&#34;,
+      &#34;theme&#34;: &#34;Night Owl&#34;
+    }
+</code></pre><p>I might end up using just the <strong><em>Night Owl</em></strong> and <strong><em>In Bed by 7pm</em></strong>.</p>
+<p>*I&rsquo;d like to thank <strong><em>Sarah Drasner</em></strong> and <strong><em>Wes Boss</em></strong> for the themes, as well as <strong><em>Sávio Santos Serra</em></strong> and <strong><em>JanBn</em></strong> for their theme switching extensions. And I&rsquo;d like to thank you, <strong><em>dear reader</em></strong>, for taking your time to read this article.* <strong><em>Thank you!</em></strong></p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 0 0 0-6 3 3 0 0 0 0 6"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/visual-studio-code/" rel="tag">visual studio code</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/vscode/" rel="tag">vscode</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/editor/" rel="tag">editor</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/ide/" rel="tag">IDE</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/theme/" rel="tag">theme</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Val Paliy avatar" src="/img/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Val Paliy</span>
+	</div>
+	<div class="authorbox__description">
+		I am a programmer who writes about everything.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/posts/plans-for-the-nearest-future-of-this-blog/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Plans For The Nearest Future Of This Blog</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/posts/queens-gambit-the-series/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Queen&#39;s Gambit (The Series)</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2024 Valticus.
+			<span class="footer__copyright-credits">All Rights Reserved.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script></body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>browser on Valticus</title>
+    <link>https://valticus.pro/tags/browser/</link>
+    <description>Recent content in browser on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It Is Time To Ditch Google Chrome</title>
+      <link>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome/</guid>
+      <description>While it is true that Google&amp;rsquo;s Chrome holds the largest number of users to date, I have recently switched to Microsoft&amp;rsquo;s Edge web browser.
+Edge can now use all the extensions I had in Chrome, and Edge has many great features built in which Chrome doesn&amp;rsquo;t. Like Web Capture, for example. Edge is also faster and loads web pages when Chrome can&amp;rsquo;t (this was recently discovered by yours truly when my network connection speed dropped due to technical issues on my service provider&amp;rsquo;s side).</description>
+    </item>
+    
+  </channel>
+</rss>

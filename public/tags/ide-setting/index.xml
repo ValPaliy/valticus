@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDE Setting on Valticus</title>
+    <link>https://valticus.pro/tags/ide-setting/</link>
+    <description>Recent content in IDE Setting on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://valticus.pro/tags/ide-setting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IDE</title>
+      <link>https://valticus.pro/ide-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/ide-settings/</guid>
+      <description>My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
+{&amp;#34;editor.fontSize&amp;#34;: 17,&amp;#34;editor.fontFamily&amp;#34;: &amp;#34;&amp;#39;Jetbrains Mono&amp;#39;, &amp;#39;monospace&amp;#39;, monospace, &amp;#39;Droid Sans Fallback&amp;#39;&amp;#34;,&amp;#34;editor.fontLigatures&amp;#34;: true,&amp;#34;editor.lineHeight&amp;#34;: 25,&amp;#34;editor.letterSpacing&amp;#34;: 0.5,&amp;#34;files.trimTrailingWhitespace&amp;#34;: true,&amp;#34;editor.cursorStyle&amp;#34;: &amp;#34;line&amp;#34;,&amp;#34;editor.cursorWidth&amp;#34;: 5,&amp;#34;editor.cursorBlinking&amp;#34;: &amp;#34;solid&amp;#34;,&amp;#34;editor.renderWhitespace&amp;#34;: &amp;#34;none&amp;#34;,&amp;#34;update.showReleaseNotes&amp;#34;: false,&amp;#34;editor.linkedEditing&amp;#34;: true,&amp;#34;editor.suggestSelection&amp;#34;: &amp;#34;first&amp;#34;,&amp;#34;editor.fontWeight&amp;#34;: 600,&amp;#34;editor.formatOnSave&amp;#34;: true,&amp;#34;git.enableSmartCommit&amp;#34;: true,&amp;#34;editor.colorDecorators&amp;#34;: false,&amp;#34;git.confirmSync&amp;#34;: false,&amp;#34;editor.wordWrap&amp;#34;: &amp;#34;on&amp;#34;,&amp;#34;editor.wordWrapColumn&amp;#34;: 111,&amp;#34;git.allowForcePush&amp;#34;: true,&amp;#34;git.confirmForcePush&amp;#34;: false,&amp;#34;editor.</description>
+    </item>
+    
+  </channel>
+</rss>

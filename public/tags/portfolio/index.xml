@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Valticus</title>
+    <link>https://valticus.pro/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://valticus.pro/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>https://valticus.pro/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/portfolio/</guid>
+      <description>Please note: a complete version of my portfolio is hosted on GitHub here. Most of the old websites presented here are hand-coded, because I am an old school developer :)
+One of the old designs for my site PayToChina An even older version of my site A long time ago on a different domain A website for my school A resort in Ukrainian Crimea Ukrainian Crimea resort (old version) PC repair shop website Web design business website A parenting advice website A design business website Netgain Advisors Even Strength A website for a music tutor iShop, an online store </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+# serve blocked.html with beautiful url
+/blocked  /blocked.html  200
+
+# Redirect users from US to blocked page
+/*  /blocked  301  Country=ru
+/*  /blocked  301  Country=by

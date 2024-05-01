@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>howto on Valticus</title>
+    <link>https://valticus.pro/tags/howto/</link>
+    <description>Recent content in howto on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Delete Unused Google Profile Pictures</title>
+      <link>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</guid>
+      <description>Ever since Google discontinued Google+ (its social network) there&amp;rsquo;s no obvious way to delete unused profile pictures from your account.
+Google Profile Images However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.
+To delete your unused profile pictures (or any photos you might want to delete from your Google account), you have to be signed in to your google account. After you are signed in, follow this simple steps:
+Open get.google.com/albumarchive.
+Find folder called Profile Photos.</description>
+    </item>
+    
+    <item>
+      <title>How To Change Your GitHub Theme</title>
+      <link>https://valticus.pro/posts/how-to-change-your-github-theme/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-change-your-github-theme/</guid>
+      <description>So, as you may or may not know, GitHub is testing themes for its website, and the feature is now in beta according to GitHub Docs.
+To change how your GitHub looks, you need to log in to your GitHub account, click your profile pictures, choose Settings &amp;gt; Appearance and on the section that opens, choose one of the three themes that are currently available.
+Below are the screen shots, courtesy of GitHub Docs: GitHub Account Settings GitHub Appearance GitHub Themes Please note that, as I have mentioned in the beginning of this article, that the theme feature is currently in beta, and is subject to change.</description>
+    </item>
+    
+    <item>
+      <title>How To Deploy On Netlify</title>
+      <link>https://valticus.pro/posts/how-to-deploy-on-netlify/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-deploy-on-netlify/</guid>
+      <description>The official guide on how to deploy your website to Netlify, which can be found here, explains the required steps:
+Step 1: Add Your New Site. Creating a new site on Netlify is simple. Step 2: Link to Your GitHub (or supported version-control tool of choice) Step 3: Authorize Netlify. Step 4: Select Your Repo. Step 5: Configure Your Settings. Step 6: Build Your Site. Step 7: All Done. And it&amp;rsquo;s really as simple as that.</description>
+    </item>
+    
+  </channel>
+</rss>
