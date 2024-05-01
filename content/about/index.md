@@ -48,7 +48,7 @@ Held a position of web consultant, content writer and translator,
 and HR manager in a web design and development studio called
 DeepArtDesign, Nikolaev, Ukraine.
 Held a position of Project Manager/Developer/Tester at
-CrownITGroup, Khanty-Mansiysk, Russia.
+CrownITGroup.
 
 ## Experience
 
