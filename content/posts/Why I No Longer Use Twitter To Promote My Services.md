@@ -40,4 +40,4 @@ There are no hyperlinks in this article. I am not trying to use a hot topic to g
 
 Thank you very much for your time and attention. Be safe out there!
 
-Update: As of April 9th, 2023, I no longer user Instagram (ValPaliy) or Twitter (ValPaliy).
+Update: As of April 9th, 2023, I no longer use Instagram (ValPaliy) or Twitter (ValPaliy).
