@@ -80,15 +80,9 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
   #github = "username"
   #gitlab = "username"
   #bitbucket = "username"
-  #email = "example@example.com"
+  email = "valticus81@gmail.com"
 
 # Custom social links
-#[[Params.widgets.social.custom]]
-#  title = "Youtube"
-#  url = "https://youtube.com/user/username"
-#  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
-#  rel = "noopener noreferrer" # Set to false to remove the rel attribute
-
 [[Params.widgets.social.custom]]
   title = "Facebook"
   url = "https://facebook.com/Valticus"
