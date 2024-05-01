@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netlify on Valticus</title>
+    <link>https://valticus.pro/tags/netlify/</link>
+    <description>Recent content in netlify on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Deploy On Netlify</title>
+      <link>https://valticus.pro/posts/how-to-deploy-on-netlify/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-deploy-on-netlify/</guid>
+      <description>The official guide on how to deploy your website to Netlify, which can be found here, explains the required steps:
+Step 1: Add Your New Site. Creating a new site on Netlify is simple. Step 2: Link to Your GitHub (or supported version-control tool of choice) Step 3: Authorize Netlify. Step 4: Select Your Repo. Step 5: Configure Your Settings. Step 6: Build Your Site. Step 7: All Done. And it&amp;rsquo;s really as simple as that.</description>
+    </item>
+    
+    <item>
+      <title>Why I Don&#39;t Use Netlify CMS (Yet)</title>
+      <link>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</guid>
+      <description>The answer is simple - Netlify CMS doesn&amp;rsquo;t fully support Statiq Web yet. You can read more on the subject in this thread.</description>
+    </item>
+    
+  </channel>
+</rss>

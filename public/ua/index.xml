@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ласкаво прошу! on Valticus</title>
+    <link>https://valticus.pro/ua/</link>
+    <description>Recent content in Ласкаво прошу! on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua</language>
+    <lastBuildDate>Sun, 31 Oct 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://valticus.pro/ua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Зворотній зв&#39;язок</title>
+      <link>https://valticus.pro/ua/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/ua/contact/</guid>
+      <description>Використовуючи форму, ви можете зв&amp;rsquo;язатися зі мною.
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+    <item>
+      <title>Про мене</title>
+      <link>https://valticus.pro/ua/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/ua/about/</guid>
+      <description>Це я. Звати мене - Палій Валерій. Я - Українець, і цим пишаюсь! Трохи пізніше я розповім про себе більше, а поки що - ви можете допомогти Україні. Ось посилання на реквізити Благодійного фонду Сергія Притули.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Valticus</title>
+    <link>https://valticus.pro/posts/</link>
+    <description>Recent content in Articles on Valticus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Oct 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://valticus.pro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I No Longer Use Twitter To Promote My Services</title>
+      <link>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</guid>
+      <description>As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. I don&amp;rsquo;t know about you, but I am only noticing negative sides of this acquisition. I will try to explain why within following paragraphs.
+Firstly, I am not talking about the blue stars here, either. It goes deeper. Twitter feels less professional as a whole, since Elon bought it. There had been many lay-offs, many people leaving the company at their own will because of bad management, and so on, and so forth.</description>
+    </item>
+    
+    <item>
+      <title>Mechanical vs. Membrane Keyboards</title>
+      <link>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</guid>
+      <description>A Mechanical Keyboard I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.
+Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.</description>
+    </item>
+    
+    <item>
+      <title>How To Fix DOM Storage (DOM Surrogate) Problems on Windows</title>
+      <link>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</guid>
+      <description>So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started getting the &amp;ldquo;COM Surrogate has stopped working&amp;rdquo; error.
+While Googling did help, not every solution worked for me. What did work is reverting the video card driver (I have a built-in Intel HD graphics card). So this is the first thing I&amp;rsquo;d suggest you try.
+To uninstall your current video card driver, first open the Run dialog by pressing Win+R: Windows Run Dialog Type devmgmt.</description>
+    </item>
+    
+    <item>
+      <title>On Digital Minimalism</title>
+      <link>https://valticus.pro/posts/on-digital-minimalism/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/on-digital-minimalism/</guid>
+      <description>Oftentimes, when you buy a new PC, it comes preloaded with applications. Some of them are essential, like an anti-virus, and some of them are not. Over the years I&amp;rsquo;ve come to realize that the responsiveness of your device (it doesn&amp;rsquo;t necessarily have to be a computer, it can be a mobile phone or a tablet, too) depends on how many applications you have installed. It is especially true for mobile devices, where applications are often started at boot and remain in the memory even if they are not used, draining battery power.</description>
+    </item>
+    
+    <item>
+      <title>Queen&#39;s Gambit (The Series)</title>
+      <link>https://valticus.pro/posts/queens-gambit-the-series/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/queens-gambit-the-series/</guid>
+      <description>I&amp;rsquo;ve watched &amp;ldquo;The Queen&amp;rsquo;s Gambit&amp;rdquo; on Netflix, and I must admit - I love the show! And I am not alone, of course. According to this article in &amp;ldquo;Business Insider&amp;rdquo;, and I quote:
+Netflix said last week that &amp;ldquo;The Queen&amp;rsquo;s Gambit&amp;rdquo; was its biggest limited series yet and was watched by 62 million households worldwide in its first 28 days (a view is counted if an account watches two minutes or more).</description>
+    </item>
+    
+    <item>
+      <title>How To Change Your VSCode Theme Depending On The Time Of Day</title>
+      <link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid>
+      <description>Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.
+I&amp;rsquo;ve already mentioned a few themes I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.
+Take a look at the three screenshots above: Cobalt2 Night Owl Light Night Owl The above are the three wonderful editor themes I use throughout the day (Night Owl Light is in effect from 6am to noon, Cobalt2 is noon to 6pm and Night Owl is my go to theme from 6pm to 6am, because it&amp;rsquo;s, well, perfect for us night owls out there).</description>
+    </item>
+    
+    <item>
+      <title>Plans For The Nearest Future Of This Blog</title>
+      <link>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</guid>
+      <description>Quick post on my plans for this blog.
+Basically, I am planning to recommend you, the reader, what I use myself - be it a computer keyboard I use, a book I&amp;rsquo;ve read or a coffee brand I like.
+What will be covered (the list is subject to change with time):
+Programming Coding Books Hardware Software Merchandise Hope you will find my recommendations useful, or at the very least - entertaining.</description>
+    </item>
+    
+    <item>
+      <title>On Coding And Artificial Intelligence</title>
+      <link>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</guid>
+      <description>AI, or Artificial Intelligence, is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.
+While it is debatable whether or not we should trust AI to take over crucial areas of our lives (have you seen &amp;ldquo;Terminator?&amp;rdquo;), one area I found Artificial Intelligence to be particularly useful in is programming.</description>
+    </item>
+    
+    <item>
+      <title>It Is Time To Ditch Google Chrome</title>
+      <link>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome/</guid>
+      <description>While it is true that Google&amp;rsquo;s Chrome holds the largest number of users to date, I have recently switched to Microsoft&amp;rsquo;s Edge web browser.
+Edge can now use all the extensions I had in Chrome, and Edge has many great features built in which Chrome doesn&amp;rsquo;t. Like Web Capture, for example. Edge is also faster and loads web pages when Chrome can&amp;rsquo;t (this was recently discovered by yours truly when my network connection speed dropped due to technical issues on my service provider&amp;rsquo;s side).</description>
+    </item>
+    
+    <item>
+      <title>How To Get macOS Font Rendering In Windows</title>
+      <link>https://valticus.pro/posts/how-to-get-macos-font-rendering-in-windows/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-get-macos-font-rendering-in-windows/</guid>
+      <description>Tell me something - are you happy with how ClearType, the default font renderer in Windows does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.
+Let me show you something really quick. This is how the fonts are rendered on my Windows machine:
+If you would like to achieve similar results, there are only a couple of steps you have to do, and they don&amp;rsquo;t require any tweaking.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Talk About Fonts (Part 1)</title>
+      <link>https://valticus.pro/posts/lets-talk-about-fonts/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/lets-talk-about-fonts/</guid>
+      <description>Let&amp;rsquo;s face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I&amp;rsquo;ve tried a few).
+That is - JetBrains Mono, a free and open source font from the very same company that brought us tools like WebStorm and PyCharm.</description>
+    </item>
+    
+    <item>
+      <title>What Have I Been Up To Recently?</title>
+      <link>https://valticus.pro/posts/what-have-i-been-up-to-recently/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/what-have-i-been-up-to-recently/</guid>
+      <description>If you&amp;rsquo;ve been following my blog you might have noticed that I haven&amp;rsquo;t written anything in quite some time. &amp;ldquo;So, what&amp;rsquo;s up?&amp;rdquo;, you might ask.
+Well, long story short - lots of things have happened March through May, 2021. Most of them unpleasant to say the least and personal, so I&amp;rsquo;d rather not disclose the details. However, I&amp;rsquo;ve also done a few things related to Information Technologies.
+I&amp;rsquo;ve switched to Windows entirely.</description>
+    </item>
+    
+    <item>
+      <title>How To Delete Unused Google Profile Pictures</title>
+      <link>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</guid>
+      <description>Ever since Google discontinued Google+ (its social network) there&amp;rsquo;s no obvious way to delete unused profile pictures from your account.
+Google Profile Images However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.
+To delete your unused profile pictures (or any photos you might want to delete from your Google account), you have to be signed in to your google account. After you are signed in, follow this simple steps:
+Open get.google.com/albumarchive.
+Find folder called Profile Photos.</description>
+    </item>
+    
+    <item>
+      <title>GNU on Windows (GoW) - Linux commands in Windows</title>
+      <link>https://valticus.pro/posts/gnu-on-windows-gow-linux-commands-in-windows/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/gnu-on-windows-gow-linux-commands-in-windows/</guid>
+      <description>For a long time the only way to launch Linux commands in Windows was with Cygwin. But Cygwin is rather bulky and can take a long time to download if you are on a slower Internet connection.
+As I&amp;rsquo;ve mentioned before, I love Linux for its stability and reliability. So I was looking for a simpler way to execute Linux commands in Windows, and found it!
+I present to you GNU on Windows also known as GoW).</description>
+    </item>
+    
+    <item>
+      <title>My New Favorite Theme For Editors</title>
+      <link>https://valticus.pro/posts/my-new-favorite-theme-for-editors/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/my-new-favorite-theme-for-editors/</guid>
+      <description>For a long time I have been a big fan of Sarah Drasner&amp;rsquo;s theme for Visual Studio Code, and even used a port of it in Visual Studio 2019 Community Edition.
+Ever since I&amp;rsquo;ve started learning .Net Framework on both Linux and Windows, I &amp;rsquo;ve also started using the default Visual Studio 2019 theme in both the IDE, and the editor. Simply because I like unity across the developer tools I use.</description>
+    </item>
+    
+    <item>
+      <title>How To Change Your GitHub Theme</title>
+      <link>https://valticus.pro/posts/how-to-change-your-github-theme/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-change-your-github-theme/</guid>
+      <description>So, as you may or may not know, GitHub is testing themes for its website, and the feature is now in beta according to GitHub Docs.
+To change how your GitHub looks, you need to log in to your GitHub account, click your profile pictures, choose Settings &amp;gt; Appearance and on the section that opens, choose one of the three themes that are currently available.
+Below are the screen shots, courtesy of GitHub Docs: GitHub Account Settings GitHub Appearance GitHub Themes Please note that, as I have mentioned in the beginning of this article, that the theme feature is currently in beta, and is subject to change.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Visual Studio Code Theme</title>
+      <link>https://valticus.pro/posts/my-favorite-visual-studio-code-theme/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/my-favorite-visual-studio-code-theme/</guid>
+      <description>Visual Studio Code Visual Studio Code (or simply vscode, or even code) is an editor developed by Microsoft. The editor was released back in 2015 and by now is considered one of the best if not the best code editors out there. I admit, I used Vim for a bit, but switched back to vscode+vim plugin, since I work with .Net nowadays. I am going to tell you about my favorite set of plugins in one of my next posts.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Friendly Website And Why It Matters</title>
+      <link>https://valticus.pro/posts/mobile-friendly-website-and-why-it-matters/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/mobile-friendly-website-and-why-it-matters/</guid>
+      <description>I have always tried and followed the Web Content Accessibility Guidelines (WCAG) in every project I worked on. It&amp;rsquo;s not always an easy thing to do, but Web Accessibility (WA) is very important, as we all have difficulties when interacting with a computer or mobile screen, in one way or the other. For example, my eyesight is dropping as I am approaching the age of forty.
+According to this article:</description>
+    </item>
+    
+    <item>
+      <title>How To Deploy On Netlify</title>
+      <link>https://valticus.pro/posts/how-to-deploy-on-netlify/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/how-to-deploy-on-netlify/</guid>
+      <description>The official guide on how to deploy your website to Netlify, which can be found here, explains the required steps:
+Step 1: Add Your New Site. Creating a new site on Netlify is simple. Step 2: Link to Your GitHub (or supported version-control tool of choice) Step 3: Authorize Netlify. Step 4: Select Your Repo. Step 5: Configure Your Settings. Step 6: Build Your Site. Step 7: All Done. And it&amp;rsquo;s really as simple as that.</description>
+    </item>
+    
+    <item>
+      <title>Why I Don&#39;t Use Netlify CMS (Yet)</title>
+      <link>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</guid>
+      <description>The answer is simple - Netlify CMS doesn&amp;rsquo;t fully support Statiq Web yet. You can read more on the subject in this thread.</description>
+    </item>
+    
+  </channel>
+</rss>
