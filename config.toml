@@ -84,13 +84,13 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 
 # Custom social links
 [[Params.widgets.social.custom]]
-  title = "About"
+  title = "About me"
   url = "https://valticus.pro/about/"
 [[Params.widgets.social.custom]]
-  title = "Portfolio"
+  title = "My portfolio"
   url = "https://valticus.pro/portfolio/"
 [[Params.widgets.social.custom]]
-  title = "IDE Settings"
+  title = "My IDE Settings"
   url = "https://valticus.pro/ide-settings/"
 
 [[Params.widgets.social.custom]]
