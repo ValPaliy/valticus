@@ -36,8 +36,6 @@ categories:
   - Peripherals
 ---
 
-{{< figure src="/images/featured/Mechanical vs Membrane Keyboards.jpg" title="A Mechanical Keyboard" alt="A Mechanical Keyboard" >}}
-
 I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.
 
 Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.
