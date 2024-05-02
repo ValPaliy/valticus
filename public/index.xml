@@ -216,7 +216,7 @@ Step 1: Add Your New Site. Creating a new site on Netlify is simple. Step 2: Lin
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://valticus.pro/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -227,7 +227,7 @@ Took part in various program presentations as an alum of both Freedom Support Ac
     </item>
     
     <item>
-      <title>IDE</title>
+      <title>My IDE Settings</title>
       <link>https://valticus.pro/ide-settings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -237,13 +237,13 @@ Took part in various program presentations as an alum of both Freedom Support Ac
     </item>
     
     <item>
-      <title>Portfolio</title>
+      <title>My portfolio</title>
       <link>https://valticus.pro/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://valticus.pro/portfolio/</guid>
       <description>Please note: a complete version of my portfolio is hosted on GitHub here. Most of the old websites presented here are hand-coded, because I am an old school developer :)
-One of the old designs for my site PayToChina An even older version of my site A long time ago on a different domain A website for my school A resort in Ukrainian Crimea Ukrainian Crimea resort (old version) PC repair shop website Web design business website A parenting advice website A design business website Netgain Advisors Even Strength A website for a music tutor iShop, an online store </description>
+PayToChina An even older version of my site A long time ago on a different domain A website for my school A resort in Ukrainian Crimea Ukrainian Crimea resort (old version) PC repair shop website Web design business website A parenting advice website A design business website Netgain Advisors Even Strength A website for a music tutor iShop, an online store </description>
     </item>
     
   </channel>
