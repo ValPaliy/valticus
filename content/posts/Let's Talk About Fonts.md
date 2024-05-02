@@ -29,12 +29,12 @@ That is - [JetBrains Mono](https://www.jetbrains.com/lp/mono/), a free and open 
 The font is free and open source, as I've already mentioned, meaning you can download it, install it in your [operating system](https://valticus.pro/tags/operating-system) and configure your [editor/IDE](https://valticus.pro/tags/editor/) to use it.
 
 Take a look:
-{{< figure src="/images/JetBrains-Mono-Font.png" title="JetBrains Mono vs. Consolas" alt="JetBrains Mono vs. Consolas" >}}Image credit: JetBrains.</div></br>
+{{< figure src="/images/JetBrains-Mono-Font.webp" title="JetBrains Mono vs. Consolas" alt="JetBrains Mono vs. Consolas" >}}Image credit: JetBrains.</div></br>
 
 I find the difference a striking one. JetBrains Mono is indeed optimized for reading code. You could also use it system-wide, if you want, as it's very easy on the eyes. Also, did I mention it supports ligatures? ;) Well, it does!
 
 Here's an example of what font ligatures are (using yet another great coding font called [Fira Code](https://github.com/tonsky/FiraCode):
-{{< figure src="/images/fira-code-ligatures.png" title="Font Ligatures in Fira Code" alt="Font Ligatures in Fira Code" >}}
+{{< figure src="/images/fira-code-ligatures.webp" title="Font Ligatures in Fira Code" alt="Font Ligatures in Fira Code" >}}
 Image credit: Fira Code.
 
 Hope you found this little article useful. If so, please follow me on Twitter or Medium (the links are in the footer down below). Thank you very much!

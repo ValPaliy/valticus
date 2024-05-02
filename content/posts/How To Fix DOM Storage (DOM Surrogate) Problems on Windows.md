@@ -26,22 +26,22 @@ While Googling did help, not every solution worked for me. What did work is reve
 
 1. To uninstall your current video card driver, first open the **Run** dialog by pressing **Win+R**:
 
-{{< figure src="/images/COMSurrogateRunDialog.png" title="Windows Run Dialog" alt="Windows Run Dialog" >}}
+{{< figure src="/images/COMSurrogateRunDialog.webp" title="Windows Run Dialog" alt="Windows Run Dialog" >}}
 
 2. Type **devmgmt.msc** and hit **Enter**
 
-{{< figure src="/images/COMSurrogatedevmgmt.msc.png" title="devmgmt.msc" alt="devmgmt.msc" >}}
+{{< figure src="/images/COMSurrogatedevmgmt.msc.webp" title="devmgmt.msc" alt="devmgmt.msc" >}}
 
 3. In the window that opens, find your **display adapter**, right-click, and select **Properties**:
 
-{{< figure src="/images/COMSurrogateDeviceProperties.png" title="Device Properties" alt="Device Properties" >}}
+{{< figure src="/images/COMSurrogateDeviceProperties.webp" title="Device Properties" alt="Device Properties" >}}
 
 4. When the **Properties** window opens, click **Uninstall** to remove the driver. Please note: if you
    have the Roll Back option (it was grayed-out for me at the time), you can try and roll the driver back
    to an earlier version, restart the system and see if the **COM Surrogate has stopped working** error is
    fixed. Otherwise, just uninstall the driver.
 
-{{< figure src="/images/COMSurrogateUninstall.png" title="Uninstall Driver" alt="Uninstall Driver" >}}
+{{< figure src="/images/COMSurrogateUninstall.webp" title="Uninstall Driver" alt="Uninstall Driver" >}}
 
 **Please note:** there is no need to remove the driver, just uninstall it, and reboot your PC.
 

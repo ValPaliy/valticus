@@ -9,11 +9,12 @@ tags:
   - CV
 ---
 
-{{< figure src="/images/ValPaliy.png" title="This is me." >}}
+{{< figure src="/images/ValPaliy.webp" title="This is me." >}}
 
 # Val Paliy
 
 Here are my [portfolio](https://valticus.pro/portfolio/) and [IDE settings](https://valticus.pro/ide-settings/).
+
 ## Summary
 
 Held a position of a web master/library computer class assistant
