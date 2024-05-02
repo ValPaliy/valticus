@@ -1,8 +1,8 @@
 baseurl = "https://valticus.pro/"
 title = "Valticus"
 languageCode = "en-us"
-paginate = "8" # Number of posts per page
-theme = "mainroad"
+paginate = "10" # Number of posts per page
+theme = "valticus"
 disqusShortname = "" # DEPRECATED! Use .Services.Disqus.Shortname
 googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 
