@@ -30,8 +30,8 @@ If you would like to achieve similar results, there are only a couple of steps y
 First, download and install a free program called MacType [from here](https://www.mactype.net). Your browser may state that the file you are trying to download is unsafe. This is due to MacType changing the way your fonts look. The file does not contain any suspicious or harmful code.
 
 After you download the file, double click it and follow the setup steps. At some point you will be presented with a few options to chose from:
-{{< figure src="/images/mactype-1.jpg" title="MacType Font Rendering Setup Example 1" alt="MacType Font Rendering Setup Example 1" >}}
-{{< figure src="/images/mactype-2.jpg" title="MacType Font Rendering Setup Example 2" alt="MacType Font Rendering Setup Example 2" >}}
+{{< figure src="/images/mactype-1.png" title="MacType Font Rendering Setup Example 1" alt="MacType Font Rendering Setup Example 1" >}}
+{{< figure src="/images/mactype-2.png" title="MacType Font Rendering Setup Example 2" alt="MacType Font Rendering Setup Example 2" >}}
 
 Chose your favorite startup method and the way you would like the fonts on the screen to be rendered, click <i>Finish</i>.
 
