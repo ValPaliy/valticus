@@ -9,7 +9,7 @@ tags:
   - CV
 ---
 
-{{< figure src="/images/ValPaliy.webp" title="This is me." >}}
+<div align="center">{{< figure src="/images/ValPaliy.webp" title="This is me." >}}</div>
 
 # Val Paliy
 
