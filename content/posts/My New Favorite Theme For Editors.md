@@ -27,8 +27,8 @@ For a long time I have been a big fan of [Sarah Drasner's theme](https://valticu
 Ever since I've started learning [.Net Framework](https://dotnet.microsoft.com/download/dotnet-framework) on both Linux and Windows, I 've also started using the default Visual Studio 2019 [theme](https://marketplace.visualstudio.com/items?itemName=kast789.vs-2019-theme) in both the IDE, and the editor. Simply because I like unity across the developer tools I use.
 
 Here are a few screenshots:
-<div align="center">{{< figure src="/images/vscode-2019-theme1.webp" title="Visual Studio 2019 Dark Theme Screenshot 1" alt="Visual Studio 2019 Dark Theme Screenshot 1" width="75%" height="75%" >}}
-{{< figure src="/images/vscode-2019-theme2.webp" title="Visual Studio 2019 Dark Theme Screenshot 2" alt="Visual Studio 2019 Dark Theme Screenshot 2" width="75%" height="75%" >}}</div>
+{{< figure src="/images/vscode-2019-theme1.webp" title="Visual Studio 2019 Dark Theme Screenshot 1" alt="Visual Studio 2019 Dark Theme Screenshot 1" width="50%" height="50%" >}}
+{{< figure src="/images/vscode-2019-theme2.webp" title="Visual Studio 2019 Dark Theme Screenshot 2" alt="Visual Studio 2019 Dark Theme Screenshot 2" width="50%" height="50%" >}}
 
 The said theme is also a part of the [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) from [Microsoft](https://microsoft.com/).
 

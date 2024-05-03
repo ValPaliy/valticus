@@ -70,11 +70,11 @@ Personally, I prefer the clicky switches because when using them, my keyboard fe
 
 Here are a few pictures of each part of a mechanical keyboard as they can be [seen on Amazon](https://Amazon.com):
 
-<div align="center">{{< figure src="/images/keyboard-chassis.webp" title="Mechanical Keyboard Chassis" alt="Mechanical Keyboard Chassis" width="75%" height="75%" >}}
-{{<div figure src="/images/keyboard-switches.webp" title="Mechanical Keyboard Switches and Key caps" alt="Mechanical Keyboard Switches and Key caps" width="75%" height="75%" >}}</div>
+{{< figure src="/images/keyboard-chassis.webp" title="Mechanical Keyboard Chassis" alt="Mechanical Keyboard Chassis" width="50%" height="50%" >}}
+{{< figure src="/images/keyboard-switches.webp" title="Mechanical Keyboard Switches and Key caps" alt="Mechanical Keyboard Switches and Key caps" width="50%" height="50%" >}}
 
 As I have already mentioned, each key switch can be taken apart and greased for better performance:
-<div align="center">{{< figure src="/images/keyboard-switch-parts.webp" title="The key switch and its parts." alt="The key switch and its parts." width="75%" height="75%" >}}</div>
+{{< figure src="/images/keyboard-switch-parts.webp" title="The key switch and its parts." alt="The key switch and its parts." width="50%" height="50%" >}}
 
 So, to sum the mechanical part of this article - people go for mechanical keyboards when they need total control of how their keyboard feels, sounds and looks like. That is, obviously, a generalization, and as I dive deeper into the realm of mechanical keyboards, I will write more detailed reviews, so stay tuned for future updates.
 
@@ -82,7 +82,7 @@ So, to sum the mechanical part of this article - people go for mechanical keyboa
 
 We all know what a membrane keyboard is. They have been around for years, and I think it would be safe to say that 90% of computers use them.
 
-<div align="center">{{< figure src="/images/keyboard-membrane.webp" title="A membrane keyboard" alt="A membrane keyboard" width="75%" height="75%" >}}</div>
+{{< figure src="/images/keyboard-membrane.webp" title="A membrane keyboard" alt="A membrane keyboard" width="50%" height="50%" >}}
 
 The membrane keyboard can not be customized in any way apart from LED coloring if the keyboard has LEDs built in (which you can add to a mechanical keyboard too, by the way). You pretty much get what you buy and that's it. If you have been following my articles here, you will know that membrane keyboards can be gaming keyboards too! Membrane keyboards cover what most casual gamers need and are pretty precise.
 

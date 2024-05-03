@@ -20,7 +20,7 @@ tags:
 
 Ever since [Google](https://google.com/) discontinued [Google+](https://en.wikipedia.org/wiki/Google%2B) (its social network) there's no obvious way to delete unused profile pictures from your account.
 
-<div align="center">{{<div figure src="/images/google-profile-pictures.webp" title="Google Profile Images" alt="Google Profile Images" width="75%" height="75%" >}}</div>
+{{< figure src="/images/google-profile-pictures.webp" title="Google Profile Images" alt="Google Profile Images" width="50%" height="50%" >}}
 
 However, there's a workaround I've tested personally.
 
