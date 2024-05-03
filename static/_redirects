@@ -1,3 +1,8 @@
 # Redirect users from US to blocked page
 /*  /301.html  301  Country=ru
 /*  /301.html  301  Country=by
+
+https://valticus.pro/posts/what-have-i-been-up-to-recently/111 https://valticus.pro/posts/what-have-i-been-up-to-recently/:splat 301
+https://valticus.pro/contact https://valticus.pro/contact:splat 301
+
+
