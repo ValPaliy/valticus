@@ -67,7 +67,7 @@ Freelancer, self-employed
 Web & mobile applications developer using HTML, CSS, JavaScript +
 frameworks.
 
-**Crown IT Group**
+~~**Crown IT Group**
 Project Manager/Tester/Developer
 January 2009 - September 2011 (2 years 9 months)
 Go on to the web site to find out more about the company. CITG develops
@@ -83,7 +83,7 @@ framework for that. I encourage heavy use of Open Source Software and
 Solutions during the developing process, to make sure no laws are broken.
 I myself am a strong believer in an Open Source nature of Information
 Technologies, and try to bring the same notion to my work. The work is done
-form home, over the Internet, and the team currently consists of 5 people.
+form home, over the Internet, and the team currently consists of 5 people.~~
 
 **ViPDesign**
 (deprecated) Founder & CEO

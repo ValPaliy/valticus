@@ -50,6 +50,6 @@ While Googling did help, not every solution worked for me. What did work is reve
    like [Driver Easy](https://www.drivereasy.com/), for example.
 
 6. After the driver has finished installing, restart your PC and the problem should be fixed. If
-   not, [let me know](https://valticus.pro/contact) - I might be able to help you.
+   not, let me know - I might be able to help you.
 
 Hope the article was helpful. Have an awesome day!
