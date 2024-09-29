@@ -37,6 +37,10 @@
 	{{ range .Site.Params.customCSS -}}
 	<link rel="stylesheet" href="{{ . | relURL }}">
 	{{- end }}
+<!-- Pure CSS -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+<!-- W3CSS -->
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
