@@ -22,7 +22,7 @@ Tell me something - are you happy with how ClearType, the default font renderer 
 
 Let me show you something really quick. This is how the fonts are rendered on my Windows machine:
 
-{{< figure src="/images/mactype-0.webp" title="MacType Font Rendering Example" alt="MacType Font Rendering Setup Example 1" width="75%" height="75%" >}}
+{{< figure src="/images/mactype-0.webp" title="MacType Font Rendering Example" alt="MacType Font Rendering Example" width="75%" height="75%" >}}
 
 If you would like to achieve similar results, there are only a couple of steps you have to do, and they don't require any tweaking.
 
