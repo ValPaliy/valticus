@@ -12,6 +12,7 @@ keywords:
 tags:
   - Social Media
   - Twitter
+  - Exodus
   - Musk
   - Elon Musk
 ---
