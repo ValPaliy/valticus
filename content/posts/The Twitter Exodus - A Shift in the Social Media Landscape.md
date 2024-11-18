@@ -16,8 +16,6 @@ tags:
   - Elon Musk
 ---
 
-(this is a continuation of [my previous article on the subject](https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/); and yes, I still call it Twitter, not X)
-
 Since Elon Musk's acquisition of Twitter in late 2022, the platform has undergone significant changes. These changes, ranging from content moderation policies to the platform's very name, have led to a notable exodus of users.
 
 ## The Reasons Behind the Exodus
@@ -44,5 +42,7 @@ While Twitter remains a significant player in the social media landscape, its fu
 ## Conclusion
 
 The Twitter exodus is a significant event that has reshaped the social media landscape. As users continue to migrate to alternative platforms, it remains to be seen whether Twitter can regain its former glory or if it will become a relic of the past.
+
+(this is a continuation of [my previous article on the subject](https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/); and yes, I still call it Twitter, not X) 
 
 Thank you very much for taking your time to read this article!
