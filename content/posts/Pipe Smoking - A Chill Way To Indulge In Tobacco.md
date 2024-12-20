@@ -14,6 +14,10 @@ tags:
   - Tobacco
   - Pipes
   - History
+categories:
+  - Pipe Smoking
+  - Tobacco
+  - Accessories
 ---
 
 I smoke pipes. I don't encourage you to do so as well, mind you - smoking a pipe is still smoking and is not good for your health. However, if you are interested in history of pipe smoking and tobacco - read on.
