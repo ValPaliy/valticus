@@ -18,7 +18,7 @@ tags:
 
 I smoke pipes. I don't encourage you to do so as well, mind you - smoking a pipe is still smoking and is not good for your health. However, if you are interested in history of pipe smoking and tobacco - read on.
 
-_Please note: You must be 18 or older to buy pipe tobacco smoke a pipe._
+_Please note: You must be 18 or older to buy pipe tobacco and smoke a pipe._
 
 Having said all that, let's get to the point.
 
