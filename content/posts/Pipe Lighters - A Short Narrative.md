@@ -25,9 +25,11 @@ categories:
 
 A pipe lighter is a lighter designed specifically for lighting tobacco pipes. It differs from a cigarette lighter in that it produces a flame that is drawn downwards into the bowl of the pipe, rather than upwards. This is achieved through a combination of the angle of the flame and the way the lighter is held.
 
+There are two main types of pipe lighters: those that use butane fuel and those that use liquid fuel.
+
 {{< figure src="/images/pipe-lighters.webp" title="An example of a few pipe lighters" alt="An example of a few pipe lighters" width="75%" height="75%" >}}
 
-There are two main types of pipe lighters: those that use butane fuel and those that use liquid fuel. Butane lighters are generally more popular due to their ease of use and the fact that they produce a cleaner flame. However, liquid fuel lighters are more reliable in windy conditions.
+Butane lighters are generally more popular due to their ease of use and the fact that they produce a cleaner flame. However, liquid fuel lighters are more reliable in windy conditions.
 
 Pipe lighters can also be distinguished by their ignition system. Some lighters use a traditional flint and steel mechanism, while others use a more modern electronic ignition system. Electronic ignition systems are generally more reliable and easier to use, but they can be more expensive.
 
