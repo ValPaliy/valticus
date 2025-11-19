@@ -17,6 +17,7 @@ theme = "valticus"
 
 [Params]
   description = "Val Paliy's Personal blog about everything" # Site description. Used in meta description
+  keywords = "blog, programming, tech, valticus" # Site keywords. Used in meta keywords
   copyright = "Valticus" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
