@@ -5,16 +5,13 @@ published: 2024-11-18
 author:
   - Val Paliy
 keywords:
-  - Social Media
-  - Twitter
-  - Musk
-  - Elon Musk
+  - social-media
+  - twitter
+  - elon-musk
 tags:
-  - Social Media
-  - Twitter
-  - Exodus
-  - Musk
-  - Elon Musk
+  - social-media
+  - twitter
+  - elon-musk
 ---
 
 Since Elon Musk's acquisition of Twitter in late 2022, the platform has undergone significant changes. These changes, ranging from content moderation policies to the platform's very name, have led to a notable exodus of users.

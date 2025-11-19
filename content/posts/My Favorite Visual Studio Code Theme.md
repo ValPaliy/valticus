@@ -5,15 +5,11 @@ published: 2021-04-04
 author:
   - Val Paliy
 keywords:
-  - visual studio code
   - vscode
-  - editor
-  - theme
+  - themes
 tags:
-  - visual studio code
   - vscode
-  - editor
-  - theme
+  - themes
 ---
 
 {{< figure src="/images/favorite-theme-vscode.webp" title="Visual Studio Code" alt="Visual Studio Code" width="75%" height="75%" >}}

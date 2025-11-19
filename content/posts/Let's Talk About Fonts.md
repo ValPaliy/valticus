@@ -5,21 +5,15 @@ published: 2021-06-05
 author:
   - Val Paliy
 keywords:
-  - Windows
-  - Fonts
-  - Coding
-  - Programming
-  - Development
-  - IDE
-  - Editor
+  - windows
+  - fonts
+  - development
+  - ide
 tags:
-  - Windows
-  - Fonts
-  - Coding
-  - Programming
-  - Development
-  - IDE
-  - Editor
+  - windows
+  - fonts
+  - development
+  - ide
 ---
 
 Let's face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I've tried a few).

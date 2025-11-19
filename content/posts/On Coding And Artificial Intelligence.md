@@ -5,21 +5,15 @@ published: 2021-06-14
 author:
   - Val Paliy
 keywords:
-  - Programming
-  - Coding
-  - AI
-  - Artificial Intelligence
-  - Visual Studio Code
-  - VSCode
-  - TabNine
+  - programming
+  - ai
+  - vscode
+  - tools
 tags:
-  - Programming
-  - Coding
-  - AI
-  - Artificial Intelligence
-  - Visual Studio Code
-  - VSCode
-  - TabNine
+  - programming
+  - ai
+  - vscode
+  - tools
 ---
 
 AI, or [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.

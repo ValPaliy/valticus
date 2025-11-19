@@ -5,22 +5,22 @@ published: 2025-10-12
 author:
   - Val Paliy
 keywords:
-  - Pipe Smoking
-  - Tobacco
-  - Pipes
-  - History
-  - Smoking Pipe Lighters
+  - pipe-smoking
+  - tobacco
+  - pipes
+  - history
+  - lighters
 tags:
-  - Pipe Smoking
-  - Tobacco
-  - Pipes
-  - History
-  - Smoking Pipe Lighters
+  - pipe-smoking
+  - tobacco
+  - pipes
+  - history
+  - lighters
 categories:
-  - Pipe Smoking
-  - Tobacco
-  - Accessories
-  - Smoking Pipe Lighters
+  - pipe-smoking
+  - tobacco
+  - accessories
+  - lighters
 ---
 
 A pipe lighter is a lighter designed specifically for lighting tobacco pipes. It differs from a cigarette lighter in that it produces a flame that is drawn downwards into the bowl of the pipe, rather than upwards. This is achieved through a combination of the angle of the flame and the way the lighter is held.

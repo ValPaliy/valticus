@@ -5,15 +5,13 @@ published: 2023-04-09
 author:
   - Val Paliy
 keywords:
-  - Social Media
-  - Twitter
-  - Musk
-  - Elon Musk
+  - social-media
+  - twitter
+  - elon-musk
 tags:
-  - Social Media
-  - Twitter
-  - Musk
-  - Elon Musk
+  - social-media
+  - twitter
+  - elon-musk
 ---
 
 As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. I don't know about you, but I am only noticing negative sides of this acquisition. I will try to explain why within following paragraphs.

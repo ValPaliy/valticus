@@ -5,23 +5,19 @@ published: 2021-06-02
 author:
   - Val Paliy
 keywords:
-  - Windows
-  - Linux
-  - Operating System
-  - OS
-  - Coding
-  - Programming
-  - CSharp
-  - dotNet
+  - windows
+  - linux
+  - os
+  - programming
+  - csharp
+  - dotnet
 tags:
-  - Windows
-  - Linux
-  - Operating System
-  - OS
-  - Coding
-  - Programming
-  - CSharp
-  - dotNet
+  - windows
+  - linux
+  - os
+  - programming
+  - csharp
+  - dotnet
 ---
 
 If you've been following my blog you might have noticed that I haven't written anything in quite some time. "So, what's up?", you might ask.

@@ -5,17 +5,15 @@ published: 2021-06-08
 author:
   - Val Paliy
 keywords:
-  - Windows
-  - macOS
-  - Fonts
-  - MacType
-  - GDIPP
+  - windows
+  - macos
+  - fonts
+  - customization
 tags:
-  - Windows
-  - macOS
-  - Fonts
-  - MacType
-  - GDIPP
+  - windows
+  - macos
+  - fonts
+  - customization
 ---
 
 Tell me something - are you happy with how ClearType, the default font renderer in [Windows](https://valticus.pro/tags/windows) does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.

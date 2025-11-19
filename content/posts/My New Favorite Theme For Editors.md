@@ -5,21 +5,15 @@ published: 2021-04-14
 author:
   - Val Paliy
 keywords:
-  - theme
-  - icons
-  - visual studio 2019
   - vscode
-  - microsoft
-  - windows
-  - linux
+  - visual-studio
+  - themes
+  - icons
 tags:
-  - theme
-  - icons
-  - visual studio 2019
   - vscode
-  - microsoft
-  - windows
-  - linux
+  - visual-studio
+  - themes
+  - icons
 ---
 
 For a long time I have been a big fan of [Sarah Drasner's theme](https://valticus.pro/posts/my-favorite-visual-studio-code-theme) for Visual Studio Code, and even used [a port of it](https://marketplace.visualstudio.com/items?itemName=kaos.nightowl) in [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/).

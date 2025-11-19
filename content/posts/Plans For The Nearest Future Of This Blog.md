@@ -5,19 +5,17 @@ published: 2021-06-20
 author:
   - Val Paliy
 keywords:
-  - Programming
-  - Coding
-  - Books
-  - Hardware
-  - Software
-  - Merchandise
+  - programming
+  - books
+  - hardware
+  - software
+  - blog-updates
 tags:
-  - Programming
-  - Coding
-  - Books
-  - Hardware
-  - Software
-  - Merchandise
+  - programming
+  - books
+  - hardware
+  - software
+  - blog-updates
 ---
 
 Quick post on my plans for this blog.

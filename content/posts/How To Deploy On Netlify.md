@@ -7,13 +7,13 @@ author:
 keywords:
   - netlify
   - statiq
-  - deploy
-  - howto
+  - deployment
+  - tutorial
 tags:
   - netlify
   - statiq
-  - deploy
-  - howto
+  - deployment
+  - tutorial
 ---
 
 The official guide on how to deploy your website to [Netlify](https://www.netlify.com/), which can be found [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/), explains the required steps:

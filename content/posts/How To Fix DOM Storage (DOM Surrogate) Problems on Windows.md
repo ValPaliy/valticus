@@ -5,17 +5,13 @@ published: 2022-11-21
 author:
   - Val Paliy
 keywords:
-  - Windows
+  - windows
   - drivers
-  - COM Surrogate error
-  - fix
-  - works
+  - troubleshooting
 tags:
-  - Windows
+  - windows
   - drivers
-  - COM Surrogate error
-  - fix
-  - works
+  - troubleshooting
 ---
 
 So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started

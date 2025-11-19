@@ -5,17 +5,13 @@ published: 2022-11-05
 author:
   - Val Paliy
 keywords:
-  - digital life
-  - digital minimalism
-  - KISS
-  - keep it super simple
+  - digital-minimalism
+  - productivity
   - windows
   - linux
 tags:
-  - digital life
-  - digital minimalism
-  - KISS
-  - keep it super simple
+  - digital-minimalism
+  - productivity
   - windows
   - linux
 ---

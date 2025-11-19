@@ -5,17 +5,15 @@ published: 2021-04-20
 author:
   - Val Paliy
 keywords:
-  - Google
+  - google
   - profile
   - pictures
-  - delete
-  - howto
+  - tutorial
 tags:
-  - Google
+  - google
   - profile
   - pictures
-  - delete
-  - howto
+  - tutorial
 ---
 
 Ever since [Google](https://google.com/) discontinued [Google+](https://en.wikipedia.org/wiki/Google%2B) (its social network) there's no obvious way to delete unused profile pictures from your account.
