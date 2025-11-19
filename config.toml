@@ -3,8 +3,7 @@ title = "Valticus"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "valticus"
-disqusShortname = "" # DEPRECATED! Use .Services.Disqus.Shortname
-googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
+
 
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
@@ -36,9 +35,7 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
 
-  # DEPRECATED PARAMS
-  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
-  highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
+
 
 [Params.style.vars]
   highlightColor = "#0056B9" # Override highlight color
@@ -72,7 +69,7 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  #facebook = "username"
+  facebook = "Valticus"
   #twitter = "username"
   #instagram = "username"
   #linkedin = "username"
@@ -93,9 +90,7 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
   title = "My IDE Settings"
   url = "https://valticus.pro/ide-settings/"
 
-[[Params.widgets.social.custom]]
-  title = "Facebook"
-  url = "https://facebook.com/Valticus"
+
 [[Params.widgets.social.custom]]
   title = "LinkedIn"
   url = "https://www.linkedin.com/company/valticus/"
