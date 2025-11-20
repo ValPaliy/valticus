@@ -1,54 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programming on Valticus</title>
-    <link>https://valticus.pro/tags/programming/</link>
-    <description>Recent content in Programming on Valticus</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Plans For The Nearest Future Of This Blog</title>
-      <link>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</guid>
-      <description>Quick post on my plans for this blog.
-Basically, I am planning to recommend you, the reader, what I use myself - be it a computer keyboard I use, a book I&amp;rsquo;ve read or a coffee brand I like.
-What will be covered (the list is subject to change with time):
-Programming Coding Books Hardware Software Merchandise Hope you will find my recommendations useful, or at the very least - entertaining.</description>
-    </item>
-    
-    <item>
-      <title>On Coding And Artificial Intelligence</title>
-      <link>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</guid>
-      <description>AI, or Artificial Intelligence, is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.
-While it is debatable whether or not we should trust AI to take over crucial areas of our lives (have you seen &amp;ldquo;Terminator?&amp;rdquo;), one area I found Artificial Intelligence to be particularly useful in is programming.</description>
-    </item>
-    
-    <item>
-      <title>Let&#39;s Talk About Fonts (Part 1)</title>
-      <link>https://valticus.pro/posts/lets-talk-about-fonts/</link>
-      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/lets-talk-about-fonts/</guid>
-      <description>Let&amp;rsquo;s face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I&amp;rsquo;ve tried a few).
-That is - JetBrains Mono, a free and open source font from the very same company that brought us tools like WebStorm and PyCharm.</description>
-    </item>
-    
-    <item>
-      <title>What Have I Been Up To Recently?</title>
-      <link>https://valticus.pro/posts/what-have-i-been-up-to-recently/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/what-have-i-been-up-to-recently/</guid>
-      <description>If you&amp;rsquo;ve been following my blog you might have noticed that I haven&amp;rsquo;t written anything in quite some time. &amp;ldquo;So, what&amp;rsquo;s up?&amp;rdquo;, you might ask.
-Well, long story short - lots of things have happened March through May, 2021. Most of them unpleasant to say the least and personal, so I&amp;rsquo;d rather not disclose the details. However, I&amp;rsquo;ve also done a few things related to Information Technologies.
-I&amp;rsquo;ve switched to Windows entirely.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Valticus</title><link>https://valticus.pro/tags/programming/</link><description>Recent content in Programming on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Plans For The Nearest Future Of This Blog</title><link>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</link><pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</guid><description>&lt;p&gt;Quick post on my plans for this blog.&lt;/p&gt;
+&lt;p&gt;Basically, I am planning to recommend you, the reader, what I use myself - be it a computer keyboard I use, a book I&amp;rsquo;ve read or a coffee brand I like.&lt;/p&gt;
+&lt;p&gt;What will be covered (the list is subject to change with time):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;li&gt;Coding&lt;/li&gt;
+&lt;li&gt;Books&lt;/li&gt;
+&lt;li&gt;Hardware&lt;/li&gt;
+&lt;li&gt;Software&lt;/li&gt;
+&lt;li&gt;Merchandise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hope you will find my recommendations useful, or at the very least - entertaining.&lt;/p&gt;</description></item><item><title>On Coding And Artificial Intelligence</title><link>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</link><pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</guid><description>&lt;p&gt;AI, or &lt;a href="https://en.wikipedia.org/wiki/Artificial_intelligence"&gt;Artificial Intelligence&lt;/a&gt;, is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.&lt;/p&gt;
+&lt;p&gt;While it is debatable whether or not we should trust AI to take over crucial areas of our lives (have you seen &lt;a href="https://en.wikipedia.org/wiki/Terminator_(franchise)"&gt;&lt;em&gt;&amp;ldquo;Terminator?&amp;rdquo;&lt;/em&gt;&lt;/a&gt;), one area I found Artificial Intelligence to be particularly useful in is programming. Using the right tools, you can save yourself a lot of time while coding with AI enabled.&lt;/p&gt;</description></item><item><title>What Have I Been Up To Recently?</title><link>https://valticus.pro/posts/what-have-i-been-up-to-recently/</link><pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/what-have-i-been-up-to-recently/</guid><description>&lt;p&gt;If you&amp;rsquo;ve been following my blog you might have noticed that I haven&amp;rsquo;t written anything in quite some time. &amp;ldquo;So, what&amp;rsquo;s up?&amp;rdquo;, you might ask.&lt;/p&gt;
+&lt;p&gt;Well, long story short - lots of things have happened March through May, 2021. Most of them unpleasant to say the least and personal, so I&amp;rsquo;d rather not disclose the details. However, I&amp;rsquo;ve also done a few things related to Information Technologies.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;ve switched to &lt;a href="https://valticus.pro/tags/windows"&gt;Windows&lt;/a&gt; entirely. That&amp;rsquo;s right - no more dual-booting and Linux for me. While I still like &lt;a href="111"&gt;Linux&lt;/a&gt; and support the Free and Open Source ideology, I&amp;rsquo;ve also come to realize that I don&amp;rsquo;t have the time to maintain two different operating systems.&lt;/p&gt;</description></item></channel></rss>

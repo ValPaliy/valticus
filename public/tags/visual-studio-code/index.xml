@@ -1,51 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Visual Studio Code on Valticus</title>
-    <link>https://valticus.pro/tags/visual-studio-code/</link>
-    <description>Recent content in Visual Studio Code on Valticus</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/visual-studio-code/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How To Change Your VSCode Theme Depending On The Time Of Day</title>
-      <link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link>
-      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid>
-      <description>Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.
-I&amp;rsquo;ve already mentioned a few themes I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.
-Take a look at the three screenshots above: Cobalt2 Night Owl Light Night Owl The above are the three wonderful editor themes I use throughout the day (Night Owl Light is in effect from 6am to noon, Cobalt2 is noon to 6pm and Night Owl is my go to theme from 6pm to 6am, because it&amp;rsquo;s, well, perfect for us night owls out there).</description>
-    </item>
-    
-    <item>
-      <title>On Coding And Artificial Intelligence</title>
-      <link>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</guid>
-      <description>AI, or Artificial Intelligence, is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.
-While it is debatable whether or not we should trust AI to take over crucial areas of our lives (have you seen &amp;ldquo;Terminator?&amp;rdquo;), one area I found Artificial Intelligence to be particularly useful in is programming.</description>
-    </item>
-    
-    <item>
-      <title>My Favorite Visual Studio Code Theme</title>
-      <link>https://valticus.pro/posts/my-favorite-visual-studio-code-theme/</link>
-      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/my-favorite-visual-studio-code-theme/</guid>
-      <description>Visual Studio Code Visual Studio Code (or simply vscode, or even code) is an editor developed by Microsoft. The editor was released back in 2015 and by now is considered one of the best if not the best code editors out there. I admit, I used Vim for a bit, but switched back to vscode+vim plugin, since I work with .Net nowadays. I am going to tell you about my favorite set of plugins in one of my next posts.</description>
-    </item>
-    
-    <item>
-      <title>My IDE Settings</title>
-      <link>https://valticus.pro/ide-settings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/ide-settings/</guid>
-      <description>My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)
-{&amp;#34;editor.fontSize&amp;#34;: 17,&amp;#34;editor.fontFamily&amp;#34;: &amp;#34;&amp;#39;Jetbrains Mono&amp;#39;, &amp;#39;monospace&amp;#39;, monospace, &amp;#39;Droid Sans Fallback&amp;#39;&amp;#34;,&amp;#34;editor.fontLigatures&amp;#34;: true,&amp;#34;editor.lineHeight&amp;#34;: 25,&amp;#34;editor.letterSpacing&amp;#34;: 0.5,&amp;#34;files.trimTrailingWhitespace&amp;#34;: true,&amp;#34;editor.cursorStyle&amp;#34;: &amp;#34;line&amp;#34;,&amp;#34;editor.cursorWidth&amp;#34;: 5,&amp;#34;editor.cursorBlinking&amp;#34;: &amp;#34;solid&amp;#34;,&amp;#34;editor.renderWhitespace&amp;#34;: &amp;#34;none&amp;#34;,&amp;#34;update.showReleaseNotes&amp;#34;: false,&amp;#34;editor.linkedEditing&amp;#34;: true,&amp;#34;editor.suggestSelection&amp;#34;: &amp;#34;first&amp;#34;,&amp;#34;editor.fontWeight&amp;#34;: 600,&amp;#34;editor.formatOnSave&amp;#34;: true,&amp;#34;git.enableSmartCommit&amp;#34;: true,&amp;#34;editor.colorDecorators&amp;#34;: false,&amp;#34;git.confirmSync&amp;#34;: false,&amp;#34;editor.wordWrap&amp;#34;: &amp;#34;on&amp;#34;,&amp;#34;editor.wordWrapColumn&amp;#34;: 111,&amp;#34;git.allowForcePush&amp;#34;: true,&amp;#34;git.confirmForcePush&amp;#34;: false,&amp;#34;editor.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visual Studio Code on Valticus</title><link>https://valticus.pro/tags/visual-studio-code/</link><description>Recent content in Visual Studio Code on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/visual-studio-code/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Change Your VSCode Theme Depending On The Time Of Day</title><link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link><pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid><description>&lt;p&gt;Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve already mentioned a few &lt;a href="https://valticus.pro/tags/theme/"&gt;themes&lt;/a&gt; I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.&lt;/p&gt;
+&lt;p&gt;Take a look at the three screenshots above:
+&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-afternoon.webp"
+ alt="Cobalt2" width="75%" height="75%"&gt;&lt;figcaption&gt;
+ &lt;h4&gt;Cobalt2&lt;/h4&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-morning.webp"
+ alt="Night Owl Light" width="75%" height="75%"&gt;&lt;figcaption&gt;
+ &lt;h4&gt;Night Owl Light&lt;/h4&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-night.webp"
+ alt="Night Owl" width="75%" height="75%"&gt;&lt;figcaption&gt;
+ &lt;h4&gt;Night Owl&lt;/h4&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>My IDE Settings</title><link>https://valticus.pro/ide-settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://valticus.pro/ide-settings/</guid><description>&lt;p&gt;My settings for Visual Studio Code. Please feel free to use any and all settings you might find useful :)&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;{
+ &amp;#34;editor.fontSize&amp;#34;: 17,
+ &amp;#34;editor.fontFamily&amp;#34;: &amp;#34;&amp;#39;Jetbrains Mono&amp;#39;, &amp;#39;monospace&amp;#39;, monospace, &amp;#39;Droid Sans Fallback&amp;#39;&amp;#34;,
+ &amp;#34;editor.fontLigatures&amp;#34;: true,
+ &amp;#34;editor.lineHeight&amp;#34;: 25,
+ &amp;#34;editor.letterSpacing&amp;#34;: 0.5,
+ &amp;#34;files.trimTrailingWhitespace&amp;#34;: true,
+ &amp;#34;editor.cursorStyle&amp;#34;: &amp;#34;line&amp;#34;,
+ &amp;#34;editor.cursorWidth&amp;#34;: 5,
+ &amp;#34;editor.cursorBlinking&amp;#34;: &amp;#34;solid&amp;#34;,
+ &amp;#34;editor.renderWhitespace&amp;#34;: &amp;#34;none&amp;#34;,
+ &amp;#34;update.showReleaseNotes&amp;#34;: false,
+ &amp;#34;editor.linkedEditing&amp;#34;: true,
+ &amp;#34;editor.suggestSelection&amp;#34;: &amp;#34;first&amp;#34;,
+ &amp;#34;editor.fontWeight&amp;#34;: 600,
+ &amp;#34;editor.formatOnSave&amp;#34;: true,
+ &amp;#34;git.enableSmartCommit&amp;#34;: true,
+ &amp;#34;editor.colorDecorators&amp;#34;: false,
+ &amp;#34;git.confirmSync&amp;#34;: false,
+ &amp;#34;editor.wordWrap&amp;#34;: &amp;#34;on&amp;#34;,
+ &amp;#34;editor.wordWrapColumn&amp;#34;: 111,
+ &amp;#34;git.allowForcePush&amp;#34;: true,
+ &amp;#34;git.confirmForcePush&amp;#34;: false,
+ &amp;#34;editor.formatOnType&amp;#34;: true,
+ &amp;#34;git.allowNoVerifyCommit&amp;#34;: true,
+ &amp;#34;editor.minimap.enabled&amp;#34;: false,
+ &amp;#34;terminal.external.windowsExec&amp;#34;: &amp;#34;C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe&amp;#34;,
+ &amp;#34;terminal.explorerKind&amp;#34;: &amp;#34;external&amp;#34;,
+ &amp;#34;editor.semanticHighlighting.enabled&amp;#34;: true,
+ &amp;#34;emmet.triggerExpansionOnTab&amp;#34;: true,
+ &amp;#34;git.autofetch&amp;#34;: true,
+ &amp;#34;explorer.confirmDelete&amp;#34;: false,
+ &amp;#34;window.menuBarVisibility&amp;#34;: &amp;#34;compact&amp;#34;,
+ &amp;#34;workbench.editor.untitled.hint&amp;#34;: &amp;#34;hidden&amp;#34;,
+ &amp;#34;extensions.ignoreRecommendations&amp;#34;: true,
+ &amp;#34;terminal.integrated.gpuAcceleration&amp;#34;: &amp;#34;off&amp;#34;,
+ &amp;#34;tabnine.experimentalAutoImports&amp;#34;: true,
+ &amp;#34;workbench.colorTheme&amp;#34;: &amp;#34;GitHub Dark Default&amp;#34;,
+ &amp;#34;workbench.iconTheme&amp;#34;: &amp;#34;vscode-icons&amp;#34;,
+ &amp;#34;workbench.productIconTheme&amp;#34;: &amp;#34;fluent-icons&amp;#34;,
+ &amp;#34;themeSwitcher.themesList&amp;#34;: &amp;#34;GitHub Light Default, GitHub Dark Default&amp;#34;,
+ &amp;#34;themeswitcher.utcOffset&amp;#34;: 3,
+ &amp;#34;themeswitcher.mappings&amp;#34;: [
+ {
+ &amp;#34;time&amp;#34;: &amp;#34;08:00&amp;#34;,
+ &amp;#34;theme&amp;#34;: &amp;#34;GitHub Dark Default&amp;#34;
+ },
+ {
+ &amp;#34;time&amp;#34;: &amp;#34;12:00&amp;#34;,
+ &amp;#34;theme&amp;#34;: &amp;#34;GitHub Dark Default&amp;#34;
+ },
+ {
+ &amp;#34;time&amp;#34;: &amp;#34;00:00&amp;#34;,
+ &amp;#34;theme&amp;#34;: &amp;#34;GitHub Dark Default&amp;#34;
+ }
+ ],
+ &amp;#34;color-highlight.enable&amp;#34;: true,
+ &amp;#34;color-highlight.markerType&amp;#34;: &amp;#34;background&amp;#34;,
+ &amp;#34;vsicons.dontShowNewVersionMessage&amp;#34;: true,
+ &amp;#34;security.workspace.trust.enabled&amp;#34;: false,
+ &amp;#34;security.workspace.trust.startupPrompt&amp;#34;: &amp;#34;never&amp;#34;,
+ &amp;#34;editor.defaultFormatter&amp;#34;: &amp;#34;esbenp.prettier-vscode&amp;#34;,
+ &amp;#34;quokka.automaticRestart&amp;#34;: true,
+ &amp;#34;autoimport.filesToScan&amp;#34;: &amp;#34;**/*.{js,jsx,ts,tsx}&amp;#34;,
+ &amp;#34;autoimport.autoComplete&amp;#34;: true,
+ &amp;#34;vscode-edge-devtools.headless&amp;#34;: true,
+ &amp;#34;editor.bracketPairColorization.enabled&amp;#34;: true,
+ &amp;#34;vscode-edge-devtools.webhint&amp;#34;: false,
+ &amp;#34;workbench.startupEditor&amp;#34;: &amp;#34;none&amp;#34;,
+ &amp;#34;git.confirmNoVerifyCommit&amp;#34;: false,
+ &amp;#34;go.toolsManagement.autoUpdate&amp;#34;: true
+}
+&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>

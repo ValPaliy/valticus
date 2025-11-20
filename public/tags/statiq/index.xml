@@ -1,30 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>statiq on Valticus</title>
-    <link>https://valticus.pro/tags/statiq/</link>
-    <description>Recent content in statiq on Valticus</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/statiq/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How To Deploy On Netlify</title>
-      <link>https://valticus.pro/posts/how-to-deploy-on-netlify/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/how-to-deploy-on-netlify/</guid>
-      <description>The official guide on how to deploy your website to Netlify, which can be found here, explains the required steps:
-Step 1: Add Your New Site. Creating a new site on Netlify is simple. Step 2: Link to Your GitHub (or supported version-control tool of choice) Step 3: Authorize Netlify. Step 4: Select Your Repo. Step 5: Configure Your Settings. Step 6: Build Your Site. Step 7: All Done. And it&amp;rsquo;s really as simple as that.</description>
-    </item>
-    
-    <item>
-      <title>Why I Don&#39;t Use Netlify CMS (Yet)</title>
-      <link>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</guid>
-      <description>The answer is simple - Netlify CMS doesn&amp;rsquo;t fully support Statiq Web yet. You can read more on the subject in this thread.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statiq on Valticus</title><link>https://valticus.pro/tags/statiq/</link><description>Recent content in Statiq on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/statiq/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Deploy On Netlify</title><link>https://valticus.pro/posts/how-to-deploy-on-netlify/</link><pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/how-to-deploy-on-netlify/</guid><description>&lt;p&gt;The official guide on how to deploy your website to &lt;a href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt;, which can be found &lt;a href="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/"&gt;here&lt;/a&gt;, explains the required steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 1: Add Your New Site. Creating a new site on Netlify is simple.&lt;/li&gt;
+&lt;li&gt;Step 2: Link to Your GitHub (or supported version-control tool of choice)&lt;/li&gt;
+&lt;li&gt;Step 3: Authorize &lt;a href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Step 4: Select Your Repo.&lt;/li&gt;
+&lt;li&gt;Step 5: Configure Your Settings.&lt;/li&gt;
+&lt;li&gt;Step 6: Build Your Site.&lt;/li&gt;
+&lt;li&gt;Step 7: All Done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And it&amp;rsquo;s really as simple as that. The very blog you are exploring at the moment is deployed on &lt;a href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt; too, and the score is pretty great, as you can see on &lt;a href="https://testmysite.io/6064bce9a7065f5be16d3cdf/valticus.pro"&gt;Test My Site&lt;/a&gt;:&lt;/p&gt;</description></item><item><title>Why I Don't Use Netlify CMS (Yet)</title><link>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</guid><description>&lt;p&gt;The answer is simple - &lt;a href="https://www.netlifycms.org/"&gt;Netlify CMS&lt;/a&gt; doesn&amp;rsquo;t fully support &lt;a href="https://statiq.dev/web/"&gt;Statiq Web&lt;/a&gt; yet. You can read more on the subject &lt;a href="https://answers.netlify.com/t/integrating-netlify-cms-into-statiq-website-config-yml-not-found/"&gt;in this thread&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

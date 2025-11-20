@@ -1,7 +1,7 @@
 baseurl = "https://valticus.pro/"
 title = "Valticus"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+
 theme = "valticus"
 
 
@@ -10,10 +10,10 @@ theme = "valticus"
 [services.googleAnalytics]
   ID = "G-39H9NV2Z47" # Enable Google Analytics by entering your tracking ID
 
-[Author] # Used in authorbox
-  name = "Val Paliy"
-  bio = "I am a programmer who writes about everything."
-  avatar = "img/avatar.png"
+
+
+[pagination]
+  pagerSize = 10 # Number of posts per page
 
 [Params]
   description = "Val Paliy's Personal blog about everything" # Site description. Used in meta description
@@ -35,6 +35,11 @@ theme = "valticus"
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.Author] # Used in authorbox
+  name = "Val Paliy"
+  bio = "I am a programmer who writes about everything."
+  avatar = "img/avatar.png"
 
 
 
