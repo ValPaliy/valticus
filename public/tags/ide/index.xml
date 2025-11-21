@@ -1,22 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ide on Valticus</title><link>https://valticus.pro/tags/ide/</link><description>Recent content in Ide on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/ide/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Change Your VSCode Theme Depending On The Time Of Day</title><link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link><pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid><description>&lt;p&gt;Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve already mentioned a few &lt;a href="https://valticus.pro/tags/theme/"&gt;themes&lt;/a&gt; I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.&lt;/p&gt;
-&lt;p&gt;Take a look at the three screenshots above:
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-afternoon.webp"
- alt="Cobalt2" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Cobalt2&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-morning.webp"
- alt="Night Owl Light" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Night Owl Light&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-night.webp"
- alt="Night Owl" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Night Owl&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description></item><item><title>Let's Talk About Fonts (Part 1)</title><link>https://valticus.pro/posts/lets-talk-about-fonts/</link><pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/lets-talk-about-fonts/</guid><description>&lt;p&gt;Let&amp;rsquo;s face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I&amp;rsquo;ve tried a few).&lt;/p&gt;
-&lt;p&gt;That is - &lt;a href="https://www.jetbrains.com/lp/mono/"&gt;JetBrains Mono&lt;/a&gt;, a free and open source font from the very same company that brought us tools like &lt;a href="https://www.jetbrains.com/webstorm/"&gt;WebStorm&lt;/a&gt; and &lt;a href="https://www.jetbrains.com/pycharm/"&gt;PyCharm&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ide on Valticus</title>
+    <link>https://valticus.pro/tags/ide/</link>
+    <description>Recent content in Ide on Valticus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://valticus.pro/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Change Your VSCode Theme Depending On The Time Of Day</title>
+      <link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid>
+      <description>&lt;p&gt;Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve already mentioned a few &lt;a href=&#34;https://valticus.pro/tags/theme/&#34;&gt;themes&lt;/a&gt; I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.&lt;/p&gt;&#xA;&lt;p&gt;Take a look at the three screenshots above:&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/theme-afternoon.webp&#34;&#xA;    alt=&#34;Cobalt2&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Cobalt2&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/theme-morning.webp&#34;&#xA;    alt=&#34;Night Owl Light&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Night Owl Light&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/theme-night.webp&#34;&#xA;    alt=&#34;Night Owl&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Night Owl&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Let&#39;s Talk About Fonts (Part 1)</title>
+      <link>https://valticus.pro/posts/lets-talk-about-fonts/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/lets-talk-about-fonts/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I&amp;rsquo;ve tried a few).&lt;/p&gt;&#xA;&lt;p&gt;That is - &lt;a href=&#34;https://www.jetbrains.com/lp/mono/&#34;&gt;JetBrains Mono&lt;/a&gt;, a free and open source font from the very same company that brought us tools like &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34;&gt;WebStorm&lt;/a&gt; and &lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;PyCharm&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

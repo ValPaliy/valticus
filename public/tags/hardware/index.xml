@@ -1,13 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hardware on Valticus</title><link>https://valticus.pro/tags/hardware/</link><description>Recent content in Hardware on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>Mechanical vs. Membrane Keyboards</title><link>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</guid><description>&lt;p&gt;I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.&lt;/p&gt;
-&lt;p&gt;Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.&lt;/p&gt;</description></item><item><title>Plans For The Nearest Future Of This Blog</title><link>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</link><pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</guid><description>&lt;p&gt;Quick post on my plans for this blog.&lt;/p&gt;
-&lt;p&gt;Basically, I am planning to recommend you, the reader, what I use myself - be it a computer keyboard I use, a book I&amp;rsquo;ve read or a coffee brand I like.&lt;/p&gt;
-&lt;p&gt;What will be covered (the list is subject to change with time):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Programming&lt;/li&gt;
-&lt;li&gt;Coding&lt;/li&gt;
-&lt;li&gt;Books&lt;/li&gt;
-&lt;li&gt;Hardware&lt;/li&gt;
-&lt;li&gt;Software&lt;/li&gt;
-&lt;li&gt;Merchandise&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hope you will find my recommendations useful, or at the very least - entertaining.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Valticus</title>
+    <link>https://valticus.pro/tags/hardware/</link>
+    <description>Recent content in Hardware on Valticus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://valticus.pro/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechanical vs. Membrane Keyboards</title>
+      <link>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</guid>
+      <description>&lt;p&gt;I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.&lt;/p&gt;&#xA;&lt;p&gt;Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plans For The Nearest Future Of This Blog</title>
+      <link>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</guid>
+      <description>&lt;p&gt;Quick post on my plans for this blog.&lt;/p&gt;&#xA;&lt;p&gt;Basically, I am planning to recommend you, the reader, what I use myself - be it a computer keyboard I use, a book I&amp;rsquo;ve read or a coffee brand I like.&lt;/p&gt;&#xA;&lt;p&gt;What will be covered (the list is subject to change with time):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Coding&lt;/li&gt;&#xA;&lt;li&gt;Books&lt;/li&gt;&#xA;&lt;li&gt;Hardware&lt;/li&gt;&#xA;&lt;li&gt;Software&lt;/li&gt;&#xA;&lt;li&gt;Merchandise&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hope you will find my recommendations useful, or at the very least - entertaining.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

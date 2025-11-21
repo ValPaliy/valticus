@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Valticus</title><link>https://valticus.pro/categories/</link><description>Recent content in Categories on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Accessories</title><link>https://valticus.pro/categories/accessories/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/accessories/</guid><description/></item><item><title>Lighters</title><link>https://valticus.pro/categories/lighters/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/lighters/</guid><description/></item><item><title>Pipe-Smoking</title><link>https://valticus.pro/categories/pipe-smoking/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/pipe-smoking/</guid><description/></item><item><title>Tobacco</title><link>https://valticus.pro/categories/tobacco/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/tobacco/</guid><description/></item><item><title>Hardware</title><link>https://valticus.pro/categories/hardware/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/hardware/</guid><description/></item><item><title>Keyboards</title><link>https://valticus.pro/categories/keyboards/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/keyboards/</guid><description/></item><item><title>Peripherals</title><link>https://valticus.pro/categories/peripherals/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://valticus.pro/categories/peripherals/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Valticus</title>
+    <link>https://valticus.pro/categories/</link>
+    <description>Recent content in Categories on Valticus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://valticus.pro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessories</title>
+      <link>https://valticus.pro/categories/accessories/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/accessories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lighters</title>
+      <link>https://valticus.pro/categories/lighters/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/lighters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipe-Smoking</title>
+      <link>https://valticus.pro/categories/pipe-smoking/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/pipe-smoking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tobacco</title>
+      <link>https://valticus.pro/categories/tobacco/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/tobacco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://valticus.pro/categories/hardware/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyboards</title>
+      <link>https://valticus.pro/categories/keyboards/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/keyboards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peripherals</title>
+      <link>https://valticus.pro/categories/peripherals/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/categories/peripherals/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

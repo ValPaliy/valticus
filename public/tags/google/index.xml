@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Google on Valticus</title><link>https://valticus.pro/tags/google/</link><description>Recent content in Google on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/google/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Delete Unused Google Profile Pictures</title><link>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</link><pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</guid><description>&lt;p&gt;Ever since &lt;a href="https://google.com/"&gt;Google&lt;/a&gt; discontinued &lt;a href="https://en.wikipedia.org/wiki/Google%2B"&gt;Google+&lt;/a&gt; (its social network) there&amp;rsquo;s no obvious way to delete unused profile pictures from your account.&lt;/p&gt;
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/google-profile-pictures.webp"
- alt="Google Profile Images" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Google Profile Images&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.&lt;/p&gt;
-&lt;p&gt;To delete your unused profile pictures (or any photos you might want to delete from your &lt;a href="https://google.com/"&gt;Google&lt;/a&gt; account), you have to be signed in to your google account. After you are signed in, follow this simple steps:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Open &lt;a href="http://www.google.com/appserve/mkt/p/AFIPhzX_AokWwcTXiiIJmD0oj_Jgx_FUDDQzRxEKLowaKN9A2d8WeMA9wlCq7-TKYd9aAg3ZkFaZZ8jQJcu8-y9TKaaCF0vxSw"&gt;get.google.com/albumarchive&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Find folder called &lt;strong&gt;Profile Photos&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Valticus</title>
+    <link>https://valticus.pro/tags/google/</link>
+    <description>Recent content in Google on Valticus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://valticus.pro/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Delete Unused Google Profile Pictures</title>
+      <link>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</guid>
+      <description>&lt;p&gt;Ever since &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt; discontinued &lt;a href=&#34;https://en.wikipedia.org/wiki/Google%2B&#34;&gt;Google+&lt;/a&gt; (its social network) there&amp;rsquo;s no obvious way to delete unused profile pictures from your account.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/google-profile-pictures.webp&#34;&#xA;    alt=&#34;Google Profile Images&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Google Profile Images&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;However, there&amp;rsquo;s a workaround I&amp;rsquo;ve tested personally.&lt;/p&gt;&#xA;&lt;p&gt;To delete your unused profile pictures (or any photos you might want to delete from your &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt; account), you have to be signed in to your google account. After you are signed in, follow this simple steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Open &lt;a href=&#34;http://www.google.com/appserve/mkt/p/AFIPhzX_AokWwcTXiiIJmD0oj_Jgx_FUDDQzRxEKLowaKN9A2d8WeMA9wlCq7-TKYd9aAg3ZkFaZZ8jQJcu8-y9TKaaCF0vxSw&#34;&gt;get.google.com/albumarchive&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Find folder called &lt;strong&gt;Profile Photos&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

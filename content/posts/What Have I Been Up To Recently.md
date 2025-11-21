@@ -24,7 +24,7 @@ If you've been following my blog you might have noticed that I haven't written a
 
 Well, long story short - lots of things have happened March through May, 2021. Most of them unpleasant to say the least and personal, so I'd rather not disclose the details. However, I've also done a few things related to Information Technologies.
 
-1. I've switched to [Windows](https://valticus.pro/tags/windows) entirely. That's right - no more dual-booting and Linux for me. While I still like [Linux](111) and support the Free and Open Source ideology, I've also come to realize that I don't have the time to maintain two different operating systems.
+1. I've switched to [Windows](https://valticus.pro/tags/windows) entirely. That's right - no more dual-booting and Linux for me. While I still like [Linux](https://www.linux.org/) and support the Free and Open Source ideology, I've also come to realize that I don't have the time to maintain two different operating systems.
 
 2. I am continuing to learn C# and .Net, of course. I love it all, to be honest. .Net was another reason I gave up on Linux - while .Net is fully supported in that operating system, it all came to the point where I found myself spending more time in Windows because it has my favorite IDE, [Microsoft Visual Studio](https://valticus.pro/tags/visual-studio-2019).
 

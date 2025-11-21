@@ -14,7 +14,7 @@ tags:
 
 {{< figure src="/images/favorite-theme-vscode.webp" title="Visual Studio Code" alt="Visual Studio Code" width="75%" height="75%" >}}
 
-[Visual Studio Code](https://code.visualstudio.com/) (or simply _vscode_, or even _code_) is an editor developed by [Microsoft](https://valticus81.medium.com/microsoft.com). The editor was released back in 2015 and by now is considered one of the best if not the best code editors out there. I admit, I used Vim for a bit, but switched back to vscode+vim plugin, since I work with .Net nowadays. I am going to tell you about my favorite set of plugins in one of my next posts.
+[Visual Studio Code](https://code.visualstudio.com/) (or simply _vscode_, or even _code_) is an editor developed by [Microsoft](https://microsoft.com). The editor was released back in 2015 and by now is considered one of the best if not the best code editors out there. I admit, I used Vim for a bit, but switched back to vscode+vim plugin, since I work with .Net nowadays. I am going to tell you about my favorite set of plugins in one of my next posts.
 
 To be honest with you, as a long time [Linux](https://linux.org/) user, at first I was hesitant to use a free code editor developed by a company that makes proprietary software. But I gave it a try when a Linux version of it was released, and I have no regrets now.
 

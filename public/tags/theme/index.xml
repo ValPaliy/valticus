@@ -1,41 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme on Valticus</title><link>https://valticus.pro/tags/theme/</link><description>Recent content in Theme on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valticus.pro/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Change Your VSCode Theme Depending On The Time Of Day</title><link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link><pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid><description>&lt;p&gt;Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve already mentioned a few &lt;a href="https://valticus.pro/tags/theme/"&gt;themes&lt;/a&gt; I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.&lt;/p&gt;
-&lt;p&gt;Take a look at the three screenshots above:
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-afternoon.webp"
- alt="Cobalt2" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Cobalt2&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-morning.webp"
- alt="Night Owl Light" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Night Owl Light&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/theme-night.webp"
- alt="Night Owl" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;Night Owl&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description></item><item><title>How To Change Your GitHub Theme</title><link>https://valticus.pro/posts/how-to-change-your-github-theme/</link><pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate><guid>https://valticus.pro/posts/how-to-change-your-github-theme/</guid><description>&lt;p&gt;So, as you may or may not know, &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; is testing themes for its website, and the feature is now in beta according to &lt;a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings"&gt;GitHub Docs&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To change how your &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; looks, you need to log in to your &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; account, click your profile pictures, choose &lt;em&gt;Settings&lt;/em&gt; &amp;gt; &lt;em&gt;Appearance&lt;/em&gt; and on the section that opens, choose one of the three themes that are currently available.&lt;/p&gt;
-&lt;p&gt;Below are the screen shots, courtesy of &lt;a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings"&gt;GitHub Docs&lt;/a&gt;:
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/github-theme-userbar-account-settings.webp"
- alt="GitHub Account Settings" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;GitHub Account Settings&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/github-theme-appearance-tab.webp"
- alt="GitHub Appearance" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;GitHub Appearance&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://valticus.pro/images/github-theme-theme-settings-radio-buttons.webp"
- alt="GitHub Themes" width="75%" height="75%"&gt;&lt;figcaption&gt;
- &lt;h4&gt;GitHub Themes&lt;/h4&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on Valticus</title>
+    <link>https://valticus.pro/tags/theme/</link>
+    <description>Recent content in Theme on Valticus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://valticus.pro/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Change Your VSCode Theme Depending On The Time Of Day</title>
+      <link>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</guid>
+      <description>&lt;p&gt;Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve already mentioned a few &lt;a href=&#34;https://valticus.pro/tags/theme/&#34;&gt;themes&lt;/a&gt; I like, and today I am going to teach you how to set your editor up in such away that the theme changes automatically depending on what time of day it is.&lt;/p&gt;&#xA;&lt;p&gt;Take a look at the three screenshots above:&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/theme-afternoon.webp&#34;&#xA;    alt=&#34;Cobalt2&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Cobalt2&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/theme-morning.webp&#34;&#xA;    alt=&#34;Night Owl Light&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Night Owl Light&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/theme-night.webp&#34;&#xA;    alt=&#34;Night Owl&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Night Owl&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Change Your GitHub Theme</title>
+      <link>https://valticus.pro/posts/how-to-change-your-github-theme/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://valticus.pro/posts/how-to-change-your-github-theme/</guid>
+      <description>&lt;p&gt;So, as you may or may not know, &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; is testing themes for its website, and the feature is now in beta according to &lt;a href=&#34;https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings&#34;&gt;GitHub Docs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To change how your &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; looks, you need to log in to your &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; account, click your profile pictures, choose &lt;em&gt;Settings&lt;/em&gt; &amp;gt; &lt;em&gt;Appearance&lt;/em&gt; and on the section that opens, choose one of the three themes that are currently available.&lt;/p&gt;&#xA;&lt;p&gt;Below are the screen shots, courtesy of &lt;a href=&#34;https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings&#34;&gt;GitHub Docs&lt;/a&gt;:&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/github-theme-userbar-account-settings.webp&#34;&#xA;    alt=&#34;GitHub Account Settings&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;GitHub Account Settings&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/github-theme-appearance-tab.webp&#34;&#xA;    alt=&#34;GitHub Appearance&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;GitHub Appearance&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/github-theme-theme-settings-radio-buttons.webp&#34;&#xA;    alt=&#34;GitHub Themes&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;GitHub Themes&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
