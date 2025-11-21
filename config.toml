@@ -103,3 +103,13 @@ theme = "valticus"
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
+
+# Performance Optimization: Minification
+[minify]
+  minifyOutput = true
+  [minify.tdewolff.html]
+    keepWhitespace = false
+  [minify.tdewolff.css]
+    keepCSS2 = false
+  [minify.tdewolff.js]
+    keepVarNames = false

@@ -9,6 +9,12 @@
 	<meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ else }}{{ with .Params.Keywords }}{{ delimit . "," }}{{ else }}{{ .Site.Params.keywords }}{{ end }}{{ end }}">
 	<meta name="robots" content="index, follow">
 	<link rel="canonical" href="{{ .Permalink }}">
+
+	{{- /* Resource hints for performance */ -}}
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//www.googletagmanager.com">
+
 	{{- if .Site.Params.opengraph }}
 		{{ template "_internal/opengraph.html" . }}
 	{{- end }}
@@ -27,19 +33,19 @@
 	})(window,document,'script','dataLayer','GTM-MS4MSNDT');</script>
 	<!-- End Google Tag Manager -->
 
+	{{- /* Optimized Google Fonts loading with font-display swap */ -}}
 	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
 	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="stylesheet" {{ printf `href="%s"` $googleFontsLink | safeHTMLAttr }}>
+	<link rel="preload" as="style" href="{{ $googleFontsLink }}&display=swap">
+	<link rel="stylesheet" href="{{ $googleFontsLink }}&display=swap" media="print" onload="this.media='all'">
+	<noscript><link rel="stylesheet" href="{{ $googleFontsLink }}&display=swap"></noscript>
 	{{- end }}
 
+	{{- /* Bundle and minify CSS with fingerprinting for cache busting */ -}}
 	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-	{{ range .Site.Params.customCSS -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
-	{{- end }}
+	{{ $custom := resources.Get "css/custom.css" -}}
+	{{ $css := slice $style $custom | resources.Concat "css/bundle.css" | resources.Minify | resources.Fingerprint -}}
+	<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
@@ -71,9 +77,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
 	</div>
-<script async defer src="{{ "js/menu.js" | relURL }}"></script>
+{{- /* Bundle and minify JavaScript with defer for non-blocking load */ -}}
+{{ $menuJS := resources.Get "js/menu.js" | resources.Minify | resources.Fingerprint -}}
+<script defer src="{{ $menuJS.RelPermalink }}" integrity="{{ $menuJS.Data.Integrity }}"></script>
 {{ range .Site.Params.customJS -}}
-<script src="{{ . | relURL }}"></script>
+<script defer src="{{ . | relURL }}"></script>
 {{- end }}
 {{- partial "mathjax.html" . -}}
 </body>

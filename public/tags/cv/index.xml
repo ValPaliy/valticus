@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CV on Valticus</title>
-    <link>https://valticus.pro/tags/cv/</link>
-    <description>Recent content in CV on Valticus</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://valticus.pro/tags/cv/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About me</title>
-      <link>https://valticus.pro/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://valticus.pro/about/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://valticus.pro/images/ValPaliy.webp&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;This is me.&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;val-paliy&#34;&gt;Val Paliy&lt;/h1&gt;&#xA;&lt;p&gt;Here are my &lt;a href=&#34;https://valticus.pro/portfolio/&#34;&gt;portfolio&lt;/a&gt; and &lt;a href=&#34;https://valticus.pro/ide-settings/&#34;&gt;IDE settings&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Held a position of a web master/library computer class assistant&#xA;in Biddeford High School, Biddeford, ME, USA. Acted as an aid to&#xA;the school&amp;rsquo;s main office staff. Helped a number of teachers repair&#xA;problems with hardware/software.&lt;/p&gt;&#xA;&lt;p&gt;Took part in various program presentations as an alum of both&#xA;Freedom Support Act/Future Leaders Exchange (ACTR/ACCELS)&#xA;and Undergraduate Exchange (IREX) exchange programs, which&#xA;were held for applicants, as well as in various seminars for alumni in&#xA;both Ukraine and Washington DC.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CV on Valticus</title><link>http://localhost:1313/tags/cv/</link><description>Recent content in CV on Valticus</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/tags/cv/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;figure&gt;&lt;img src="http://localhost:1313/images/ValPaliy.webp"&gt;&lt;figcaption&gt;
+ &lt;h4&gt;This is me.&lt;/h4&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id="val-paliy"&gt;Val Paliy&lt;/h1&gt;
+&lt;p&gt;Here are my &lt;a href="https://valticus.pro/portfolio/"&gt;portfolio&lt;/a&gt; and &lt;a href="https://valticus.pro/ide-settings/"&gt;IDE settings&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Held a position of a web master/library computer class assistant
+in Biddeford High School, Biddeford, ME, USA. Acted as an aid to
+the school&amp;rsquo;s main office staff. Helped a number of teachers repair
+problems with hardware/software.&lt;/p&gt;
+&lt;p&gt;Took part in various program presentations as an alum of both
+Freedom Support Act/Future Leaders Exchange (ACTR/ACCELS)
+and Undergraduate Exchange (IREX) exchange programs, which
+were held for applicants, as well as in various seminars for alumni in
+both Ukraine and Washington DC.&lt;/p&gt;</description></item></channel></rss>

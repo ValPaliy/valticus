@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Os on Valticus</title>
-    <link>https://valticus.pro/tags/os/</link>
-    <description>Recent content in Os on Valticus</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://valticus.pro/tags/os/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What Have I Been Up To Recently?</title>
-      <link>https://valticus.pro/posts/what-have-i-been-up-to-recently/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://valticus.pro/posts/what-have-i-been-up-to-recently/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;ve been following my blog you might have noticed that I haven&amp;rsquo;t written anything in quite some time. &amp;ldquo;So, what&amp;rsquo;s up?&amp;rdquo;, you might ask.&lt;/p&gt;&#xA;&lt;p&gt;Well, long story short - lots of things have happened March through May, 2021. Most of them unpleasant to say the least and personal, so I&amp;rsquo;d rather not disclose the details. However, I&amp;rsquo;ve also done a few things related to Information Technologies.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve switched to &lt;a href=&#34;https://valticus.pro/tags/windows&#34;&gt;Windows&lt;/a&gt; entirely. That&amp;rsquo;s right - no more dual-booting and Linux for me. While I still like &lt;a href=&#34;https://www.linux.org/&#34;&gt;Linux&lt;/a&gt; and support the Free and Open Source ideology, I&amp;rsquo;ve also come to realize that I don&amp;rsquo;t have the time to maintain two different operating systems.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Os on Valticus</title><link>http://localhost:1313/tags/os/</link><description>Recent content in Os on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/os/index.xml" rel="self" type="application/rss+xml"/><item><title>What Have I Been Up To Recently?</title><link>http://localhost:1313/posts/what-have-i-been-up-to-recently/</link><pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/what-have-i-been-up-to-recently/</guid><description>&lt;p&gt;If you&amp;rsquo;ve been following my blog you might have noticed that I haven&amp;rsquo;t written anything in quite some time. &amp;ldquo;So, what&amp;rsquo;s up?&amp;rdquo;, you might ask.&lt;/p&gt;
+&lt;p&gt;Well, long story short - lots of things have happened March through May, 2021. Most of them unpleasant to say the least and personal, so I&amp;rsquo;d rather not disclose the details. However, I&amp;rsquo;ve also done a few things related to Information Technologies.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;ve switched to &lt;a href="https://valticus.pro/tags/windows"&gt;Windows&lt;/a&gt; entirely. That&amp;rsquo;s right - no more dual-booting and Linux for me. While I still like &lt;a href="https://www.linux.org/"&gt;Linux&lt;/a&gt; and support the Free and Open Source ideology, I&amp;rsquo;ve also come to realize that I don&amp;rsquo;t have the time to maintain two different operating systems.&lt;/p&gt;</description></item></channel></rss>

@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lighters on Valticus</title>
-    <link>https://valticus.pro/categories/lighters/</link>
-    <description>Recent content in Lighters on Valticus</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://valticus.pro/categories/lighters/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pipe Lighters - A Short Narrative</title>
-      <link>https://valticus.pro/posts/pipe-lighters---a-short-narrative/</link>
-      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://valticus.pro/posts/pipe-lighters---a-short-narrative/</guid>
-      <description>&lt;p&gt;A pipe lighter is a lighter designed specifically for lighting tobacco pipes. It differs from a cigarette lighter in that it produces a flame that is drawn downwards into the bowl of the pipe, rather than upwards. This is achieved through a combination of the angle of the flame and the way the lighter is held.&lt;/p&gt;&#xA;&lt;p&gt;There are two main types of pipe lighters: those that use butane fuel and those that use liquid fuel.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lighters on Valticus</title><link>http://localhost:1313/categories/lighters/</link><description>Recent content in Lighters on Valticus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/lighters/index.xml" rel="self" type="application/rss+xml"/><item><title>Pipe Lighters - A Short Narrative</title><link>http://localhost:1313/posts/pipe-lighters---a-short-narrative/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/pipe-lighters---a-short-narrative/</guid><description>&lt;p&gt;A pipe lighter is a lighter designed specifically for lighting tobacco pipes. It differs from a cigarette lighter in that it produces a flame that is drawn downwards into the bowl of the pipe, rather than upwards. This is achieved through a combination of the angle of the flame and the way the lighter is held.&lt;/p&gt;
+&lt;p&gt;There are two main types of pipe lighters: those that use butane fuel and those that use liquid fuel.&lt;/p&gt;</description></item></channel></rss>
