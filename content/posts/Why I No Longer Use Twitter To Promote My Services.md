@@ -1,5 +1,5 @@
 ---
-title: Why I No Longer Use Twitter To Promote My Services
+title: Why I No Longer Use Twitter For My Services
 description: As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. Here is why I don't like it...
 published: 2023-04-09
 author:

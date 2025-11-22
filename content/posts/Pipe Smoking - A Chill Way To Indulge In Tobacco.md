@@ -1,5 +1,5 @@
 ---
-title: Pipe Smoking - A Chill Way To Indulge In Tobacco
+title: Pipe Smoking - A Chill Way To Enjoy Tobacco
 description: What is pipe smoking? What's the history behind it? How to chose tobacco and pack your smoking pipe? Why and how do so many people indulge in smoking a pipe?
 published: 2024-12-20
 author:

@@ -1,5 +1,5 @@
 ---
-title: How To Fix DOM Storage (DOM Surrogate) Problems on Windows
+title: How To Fix DOM Storage Problems on Windows
 description: If you ever run into a "DOM Surrogate has stopped working" problem, like I did recently, here is a solution that worked (for me).
 published: 2022-11-21
 author:

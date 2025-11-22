@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resume on Valticus</title><link>http://localhost:1313/tags/resume/</link><description>Recent content in Resume on Valticus</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;figure&gt;&lt;img src="http://localhost:1313/images/ValPaliy.webp"&gt;&lt;figcaption&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resume on Valticus</title><link>https://valticus.pro/tags/resume/</link><description>Recent content in Resume on Valticus</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://valticus.pro/tags/resume/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://valticus.pro/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://valticus.pro/about/</guid><description>&lt;figure&gt;&lt;img src="https://valticus.pro/images/ValPaliy.webp"&gt;&lt;figcaption&gt;
  &lt;h4&gt;This is me.&lt;/h4&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;h1 id="val-paliy"&gt;Val Paliy&lt;/h1&gt;
+&lt;h2 id="val-paliy"&gt;Val Paliy&lt;/h2&gt;
 &lt;p&gt;Here are my &lt;a href="https://valticus.pro/portfolio/"&gt;portfolio&lt;/a&gt; and &lt;a href="https://valticus.pro/ide-settings/"&gt;IDE settings&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Held a position of a web master/library computer class assistant

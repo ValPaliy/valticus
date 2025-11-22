@@ -1,5 +1,5 @@
 ---
-title: The Twitter Exodus - A Shift in the Social Media Landscape
+title: The Twitter Exodus - A Shift in Social Media
 description: What is Twitter Exodus? Why are people leaving a once popular social media platform? I blaame Elon Musk, and I am not alone.
 published: 2024-11-18
 author:

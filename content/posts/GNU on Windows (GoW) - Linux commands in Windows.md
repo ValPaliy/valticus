@@ -1,5 +1,5 @@
 ---
-title: GNU on Windows (GoW) - Linux commands in Windows
+title: GNU on Windows (GoW) - Linux Commands on Windows
 description: Did you know there's a way to execute Linux commands in Windows? Read on to find out how.
 published: 2021-04-19
 author:

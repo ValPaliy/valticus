@@ -11,7 +11,7 @@ tags:
 
 {{< figure src="/images/ValPaliy.webp" title="This is me." >}}
 
-# Val Paliy
+## Val Paliy
 
 Here are my [portfolio](https://valticus.pro/portfolio/) and [IDE settings](https://valticus.pro/ide-settings/).
 
