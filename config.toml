@@ -113,3 +113,4 @@ theme = "valticus"
     keepCSS2 = false
   [minify.tdewolff.js]
     keepVarNames = false
+cleanDestinationDir = true
