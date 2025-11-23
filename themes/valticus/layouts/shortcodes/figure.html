@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default (.Get "title") | default "" -}}
+{{- $title := .Get "title" | default "" -}}
+{{- $width := .Get "width" | default "" -}}
+{{- $height := .Get "height" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  <img src="{{ $src }}"
+       {{- with $alt }} alt="{{ . }}"{{ end }}
+       {{- with $width }} width="{{ . }}"{{ end }}
+       {{- with $height }} height="{{ . }}"{{ end }}>
+  {{- if $title }}
+  <figcaption><h4>{{ $title }}</h4></figcaption>
+  {{- end }}
+</figure>
