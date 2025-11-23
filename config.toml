@@ -114,4 +114,5 @@ theme = "valticus"
   [minify.tdewolff.js]
     keepVarNames = false
 
+ignoreLogs = ['warning-goldmark-raw-html']
 cleanDestinationDir = true
