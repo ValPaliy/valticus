@@ -664,18 +664,20 @@ textarea:focus {
    ======================================================================== */
 
 @media screen and (max-width: 767px) {
-  :root {
-    --space-xl: 1.5rem;
-    --space-2xl: 2rem;
-    --space-3xl: 2.5rem;
-  }
-
+  /* Responsive spacing adjustments without overriding :root */
   .list__item {
     padding: var(--space-lg);
   }
 
   .widget {
     padding: var(--space-md);
+  }
+
+  /* Apply reduced spacing where needed on mobile */
+  .container--outer,
+  .header,
+  .footer {
+    padding: 1.5rem; /* Equivalent to reduced --space-xl */
   }
 }
 
