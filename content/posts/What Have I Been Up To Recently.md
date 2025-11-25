@@ -26,7 +26,7 @@ Well, long story short - lots of things have happened March through May, 2021. M
 
 1. I've switched to [Windows](https://valticus.pro/tags/windows) entirely. That's right - no more dual-booting and Linux for me. While I still like [Linux](https://www.linux.org/) and support the Free and Open Source ideology, I've also come to realize that I don't have the time to maintain two different operating systems.
 
-2. I am continuing to learn C# and .Net, of course. I love it all, to be honest. .Net was another reason I gave up on Linux - while .Net is fully supported in that operating system, it all came to the point where I found myself spending more time in Windows because it has my favorite IDE, [Microsoft Visual Studio](https://valticus.pro/tags/visual-studio-2019).
+2. I am continuing to learn C# and .Net, of course. I love it all, to be honest. .Net was another reason I gave up on Linux - while .Net is fully supported in that operating system, it all came to the point where I found myself spending more time in Windows because it has my favorite IDE, [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
 
 3. I've gotten rid of valticus.pro (and another .ml domain I had) because I realized some antiviruses flag .cf and .ml sites as not safe because people use the domains for harmful things such as scamming. So, Valticus is going to shine in all its glory on the original domain provided by [Netlify](https://valticus.pro/tags/netlify) until I decide on a fitting domain name.
 
