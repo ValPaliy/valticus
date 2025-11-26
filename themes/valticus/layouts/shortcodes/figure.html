@@ -5,12 +5,46 @@
 {{- $height := .Get "height" | default "" -}}
 {{- $class := .Get "class" | default "" -}}
 
+{{- /* Try to find an image resource in the page bundle by filename (best-effort). If found, build responsive srcset and webp variants. Fallback to the provided src when not available. */ -}}
+{{- $isExternal := or (hasPrefix $src "http://") (hasPrefix $src "https://") -}}
+{{- $basename := path.Base $src -}}
+{{- $res := (.Page.Resources.GetMatch $basename) -}}
+
 <figure{{ with $class }} class="{{ . }}"{{ end }}>
-  <img src="{{ $src }}"
-       {{- with $alt }} alt="{{ . }}"{{ end }}
-       {{- with $width }} width="{{ . }}"{{ end }}
-       {{- with $height }} height="{{ . }}"{{ end }}>
+  {{- if and (not $isExternal) $res }}
+    {{- $sizes := (slice 480 800 1200 1600) -}}
+    {{- $orig := $res -}}
+    {{- $fmt := $orig.MediaType.SubType -}}
+    {{- $srcset := slice -}}
+    {{- $webpsrcset := slice -}}
+    {{- range $i, $w := $sizes -}}
+      {{- $img := $orig.Fit (printf "%dx" $w) -}}
+      {{- $img = $img | resources.Minify | resources.Fingerprint -}}
+      {{- $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $w) -}}
+      {{- $webp := $orig.Fit (printf "%dx" $w) | resources.Format "webp" | resources.Minify | resources.Fingerprint -}}
+      {{- $webpsrcset = $webpsrcset | append (printf "%s %dw" $webp.RelPermalink $w) -}}
+    {{- end -}}
+    {{- $srcsetStr := delimit $srcset ", " -}}
+    {{- $webpsrcsetStr := delimit $webpsrcset ", " -}}
+    {{- $fallback := ($orig.Fit "800x") | resources.Minify | resources.Fingerprint -}}
+    <picture>
+      <source type="image/webp" srcset="{{ $webpsrcsetStr }}" sizes="100vw">
+      <source srcset="{{ $srcsetStr }}" sizes="100vw">
+      <img src="{{ $fallback.RelPermalink }}"
+           {{- with $alt }} alt="{{ . }}"{{ end }}
+           loading="lazy" decoding="async"
+           {{- if $fallback.Width }} width="{{ $fallback.Width }}"{{ end }}
+           {{- if $fallback.Height }} height="{{ $fallback.Height }}"{{ end }}>
+    </picture>
+  {{- else }}
+    <img src="{{ $src }}"
+         {{- with $alt }} alt="{{ . }}"{{ end }}
+         loading="lazy" decoding="async"
+         {{- with $width }} width="{{ . }}"{{ end }}
+         {{- with $height }} height="{{ . }}"{{ end }}>
+  {{- end }}
+
   {{- if $title }}
-  <figcaption><h4>{{ $title }}</h4></figcaption>
+    <figcaption><h4>{{ $title }}</h4></figcaption>
   {{- end }}
 </figure>

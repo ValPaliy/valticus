@@ -1,0 +1,14 @@
+{
+  "name": "valticus-site",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "postcss": "^8.4.0",
+    "postcss-cli": "^9.1.0",
+    "autoprefixer": "^10.4.0",
+    "@fullhuman/postcss-purgecss": "^4.2.3"
+  },
+  "scripts": {
+    "postinstall": "echo 'Node deps installed'"
+  }
+}

@@ -1,88 +1,127 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
-	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
-	<meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{ else }}{{ with .Params.Keywords }}{{ delimit . "," }}{{ else }}{{ .Site.Params.keywords }}{{ end }}{{ end }}">
-	<meta name="robots" content="index, follow">
-	<link rel="canonical" href="{{ .Permalink }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+      {{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{
+      .Site.Title }}{{ end }}
+    </title>
+    <script>
+      (function (d, e) {
+        d[e] = d[e].replace("no-js", "js");
+      })(document.documentElement, "className");
+    </script>
+    <meta
+      name="description"
+      content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}"
+    />
+    <meta name="keywords" content="{{ if .IsHome }}{{ .Site.Params.keywords }}{{
+    else }}{{ with .Params.Keywords }}{{ delimit . "," }}{{ else }}{{
+    .Site.Params.keywords }}{{ end }}{{ end }}">
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="{{ .Permalink }}" />
 
-	{{- /* Resource hints for performance */ -}}
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="dns-prefetch" href="//www.googletagmanager.com">
+    {{- /* Resource hints for performance */ -}}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
 
-	{{- if .Site.Params.opengraph }}
-		{{ template "_internal/opengraph.html" . }}
-	{{- end }}
-	{{- if .Site.Params.schema }}
-		{{ template "_internal/schema.html" . }}
-	{{- end }}
-	{{- if .Site.Params.twitter_cards }}
-		{{ template "_internal/twitter_cards.html" . }}
-	{{- end }}
+    {{- if .Site.Params.opengraph }} {{ template "_internal/opengraph.html" . }}
+    {{- end }} {{- if .Site.Params.schema }} {{ template "_internal/schema.html"
+    . }} {{- end }} {{- if .Site.Params.twitter_cards }} {{ template
+    "_internal/twitter_cards.html" . }} {{- end }}
 
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-MS4MSNDT');</script>
-	<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MS4MSNDT");
+    </script>
+    <!-- End Google Tag Manager -->
 
-	{{- /* Optimized Google Fonts loading with font-display swap */ -}}
-	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
-	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
-	<link rel="preload" as="style" href="{{ $googleFontsLink }}&display=swap">
-	<link rel="stylesheet" href="{{ $googleFontsLink }}&display=swap" media="print" onload="this.media='all'">
-	<noscript><link rel="stylesheet" href="{{ $googleFontsLink }}&display=swap"></noscript>
-	{{- end }}
+    {{- /* Optimized Google Fonts loading with font-display swap */ -}} {{-
+    $googleFontsLink := .Site.Params.googleFontsLink | default
+    "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }} {{- if
+    hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
+    <link rel="preload" as="style" href="{{ $googleFontsLink }}&display=swap" />
+    <link
+      rel="stylesheet"
+      href="{{ $googleFontsLink }}&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript
+      ><link rel="stylesheet" href="{{ $googleFontsLink }}&display=swap"
+    /></noscript>
+    {{- end }} {{- /* Bundle and minify CSS with fingerprinting for cache
+    busting */ -}} {{ $style := resources.Get "css/style.css" |
+    resources.ExecuteAsTemplate "css/style.css" . -}} {{ $custom :=
+    resources.Get "css/custom.min.css" -}} {{ if not $custom }} {{ $custom =
+    resources.Get "css/custom.css" -}} {{ end }} {{ $css := slice $style $custom
+    | resources.Concat "css/bundle.css" | resources.PostCSS | resources.Minify |
+    resources.Fingerprint -}}
+    <link
+      rel="preload"
+      as="style"
+      href="{{ $css.RelPermalink }}"
+      integrity="{{ $css.Data.Integrity }}"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="{{ $css.RelPermalink }}"
+        integrity="{{ $css.Data.Integrity }}"
+    /></noscript>
 
-	{{- /* Bundle and minify CSS with fingerprinting for cache busting */ -}}
-	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-	{{ $custom := resources.Get "css/custom.css" -}}
-	{{ $css := slice $style $custom | resources.Concat "css/bundle.css" | resources.Minify | resources.Fingerprint -}}
-	<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
-
-	{{- with .OutputFormats.Get "rss" }}
-	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
-	{{- end }}
-
-	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not hugo.IsServer }}
-		{{ template "_internal/google_analytics.html" . }}
-	{{- end }}
-</head>
-<body class="body">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS4MSNDT"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-	<div class="container container--outer">
-		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-		<div class="wrapper flex">
-			<div class="primary">
-			{{ block "main" . }}
-				{{ with .Content }}
-				<div class="content main__content clearfix">
-					{{ . }}
-				</div>
-				{{ end }}
-			{{ end }}
-			</div>
-			{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
-		</div>
-		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
-	</div>
-{{- /* Bundle and minify JavaScript with defer for non-blocking load */ -}}
-{{ $menuJS := resources.Get "js/menu.js" | resources.Minify | resources.Fingerprint -}}
-<script defer src="{{ $menuJS.RelPermalink }}" integrity="{{ $menuJS.Data.Integrity }}"></script>
-{{ range .Site.Params.customJS -}}
-<script defer src="{{ . | relURL }}"></script>
-{{- end }}
-{{- partial "mathjax.html" . -}}
-</body>
+    {{- with .OutputFormats.Get "rss" }} {{ printf `
+    <link rel="%s" type="%s" href="%s" title="%s" />
+    ` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }} {{- end }}
+    <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}"> {{- if not
+    hugo.IsServer }} {{ template "_internal/google_analytics.html" . }} {{- end
+    }}
+  </head>
+  <body class="body">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MS4MSNDT"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="container container--outer">
+      {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+      <div class="wrapper flex">
+        <div class="primary">
+          {{ block "main" . }} {{ with .Content }}
+          <div class="content main__content clearfix">{{ . }}</div>
+          {{ end }} {{ end }}
+        </div>
+        {{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
+      </div>
+      {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+    </div>
+    {{- /* Bundle and minify JavaScript with defer for non-blocking load */ -}}
+    {{ $menuJS := resources.Get "js/menu.js" | resources.Minify |
+    resources.Fingerprint -}}
+    <script
+      defer
+      src="{{ $menuJS.RelPermalink }}"
+      integrity="{{ $menuJS.Data.Integrity }}"
+    ></script>
+    {{ range .Site.Params.customJS -}}
+    <script defer src="{{ . | relURL }}"></script>
+    {{- end }} {{- partial "mathjax.html" . -}}
+  </body>
 </html>

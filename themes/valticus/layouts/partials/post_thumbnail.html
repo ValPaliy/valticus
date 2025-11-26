@@ -1,19 +1,68 @@
-{{- if $thumbnail := .page.Params.thumbnail }}
-	{{- $class := .class }}
-	{{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
-
-	{{- $valueType := printf "%T" $thumbnail -}}
-	{{- $isMap := in $valueType "map" -}}
-	{{- if $isMap }}
-		{{ $visibility = default (slice "list" "post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
-		{{ $thumbnail = $thumbnail.src }}
-	{{- end }}
-
-	{{- if in $visibility $class }}
-	<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
-		{{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
-		<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
-		{{ if eq $class "list" }}</a>{{ end }}
-	</figure>
-	{{- end }}
-{{- end }}
+{{- if $thumbnail := .page.Params.thumbnail }} {{- $class := .class }} {{-
+$visibility := .page.Site.Params.thumbnail.visibility | default (slice "list"
+"post") }} {{- $valueType := printf "%T" $thumbnail -}} {{- $isMap := in
+$valueType "map" -}} {{- if $isMap }} {{ $visibility = default (slice "list"
+"post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility)
+}} {{ $thumbnail = $thumbnail.src }} {{- end }} {{- if in $visibility $class }}
+<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
+  {{ if eq $class "list" }}<a
+    class="thumbnail__link"
+    href="{{ .page.RelPermalink }}"
+    >{{ end }} {{- $thumbSrc := $thumbnail -}} {{- $basename := path.Base
+    $thumbSrc -}} {{- $res := .page.Resources.GetMatch $basename -}} {{- if $res
+    }} {{- $sizes := (slice 320 640 960) -}} {{- $srcset := slice -}} {{-
+    $webpsrcset := slice -}} {{- range $i, $w := $sizes -}} {{- $img := $res.Fit
+    (printf "%dx" $w) | resources.Minify | resources.Fingerprint -}} {{- $srcset
+    = $srcset | append (printf "%s %dw" $img.RelPermalink $w) -}} {{- $webp :=
+    $res.Fit (printf "%dx" $w) | resources.Format "webp" | resources.Minify |
+    resources.Fingerprint -}} {{- $webpsrcset = $webpsrcset | append (printf "%s
+    %dw" $webp.RelPermalink $w) -}} {{- end -}} {{- $srcsetStr := delimit
+    $srcset ", " -}} {{- $webpsrcsetStr := delimit $webpsrcset ", " -}} {{-
+    $fallback := ($res.Fit "640x") | resources.Minify | resources.Fingerprint
+    -}}
+    <picture>
+      <source
+        type="image/webp"
+        srcset="{{ $webpsrcsetStr }}"
+        sizes="(max-width: 640px) 100vw, 640px"
+      />
+      <source
+        srcset="{{ $srcsetStr }}"
+        sizes="(max-width: 640px) 100vw, 640px"
+      />
+      <img
+        class="thumbnail__image"
+        src="{{ $fallback.RelPermalink }}"
+        alt="{{ .page.Title }}"
+        loading="lazy"
+        decoding="async"
+        {{-
+        if
+        $fallback.Width
+        }}
+        width="{{ $fallback.Width }}"
+        {{
+        end
+        -}}
+        {{-
+        if
+        $fallback.Height
+        }}
+        height="{{ $fallback.Height }}"
+        {{
+        end
+        -}}
+      />
+    </picture>
+    {{- else }}
+    <img
+      class="thumbnail__image"
+      src="{{ $thumbnail | relURL }}"
+      alt="{{ .page.Title }}"
+      loading="lazy"
+      decoding="async"
+    />
+    {{- end }} {{ if eq $class "list" }}</a
+  >{{ end }}
+</figure>
+{{- end }} {{- end }}
