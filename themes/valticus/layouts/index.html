@@ -1,5 +1,6 @@
 {{ define "main" }}
 <main class="main list" role="main">
+	<h1 class="sr-only">{{ .Site.Title }}</h1>
 	{{- with .Content }}
 	<div class="content main__content clearfix">
 		{{ . }}
