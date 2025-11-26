@@ -12,3 +12,8 @@
     "postinstall": "echo 'Node deps installed'"
   }
 }
+{
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^4.1.3"
+  }
+}
