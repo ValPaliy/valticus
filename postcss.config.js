@@ -20,6 +20,11 @@ module.exports = {
         "menu--open",
         /^lang-/, // keep language classes
         /^toc-/, // keep toc classes
+        "header--scrolled",
+        "fade-in",
+        "ripple",
+        "reading-progress",
+        "reading-progress__bar",
       ],
     }),
     require("autoprefixer"),

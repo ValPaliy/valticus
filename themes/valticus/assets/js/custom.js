@@ -309,7 +309,28 @@
   }
 
   /* ========================================================================
-     Console Message - DISABLED
+     Console Suppression - Disable All Console Output
      ======================================================================== */
-  // Console logging disabled
+  // Suppress all console output in production
+  if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+    console.log = function() {};
+    console.warn = function() {};
+    console.error = function() {};
+    console.info = function() {};
+    console.debug = function() {};
+  }
+
+  // Suppress global error events
+  window.addEventListener('error', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    return false;
+  }, true);
+
+  // Suppress unhandled promise rejections
+  window.addEventListener('unhandledrejection', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    return false;
+  }, true);
 })();

@@ -121,7 +121,8 @@
       integrity="{{ $menuJS.Data.Integrity }}"
     ></script>
     {{ range .Site.Params.customJS -}}
-    <script defer src="{{ . | relURL }}"></script>
+    {{ $js := resources.Get . | resources.Minify | resources.Fingerprint }}
+    <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     {{- end }} {{- partial "mathjax.html" . -}}
   </body>
 </html>
