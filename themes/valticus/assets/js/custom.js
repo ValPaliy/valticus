@@ -1,13 +1,13 @@
-'use strict';
+"use strict";
 
 /* ========================================================================
    Modern Interactive Features for Enhanced UX
    ======================================================================== */
 
-(function() {
+(function () {
   // Wait for DOM to be fully loaded
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
   } else {
     init();
   }
@@ -25,12 +25,12 @@
      Smooth Scroll for Anchor Links
      ======================================================================== */
   function initSmoothScroll() {
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
-        const href = this.getAttribute('href');
+    document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+      anchor.addEventListener("click", function (e) {
+        const href = this.getAttribute("href");
 
         // Ignore empty hash or hash-only links
-        if (href === '#' || href === '#!') {
+        if (href === "#" || href === "#!") {
           return;
         }
 
@@ -40,11 +40,12 @@
 
           const headerOffset = 80;
           const elementPosition = target.getBoundingClientRect().top;
-          const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+          const offsetPosition =
+            elementPosition + window.pageYOffset - headerOffset;
 
           window.scrollTo({
             top: offsetPosition,
-            behavior: 'smooth'
+            behavior: "smooth",
           });
         }
       });
@@ -56,19 +57,19 @@
      ======================================================================== */
   function initScrollAnimations() {
     // Check if Intersection Observer is supported
-    if (!('IntersectionObserver' in window)) {
+    if (!("IntersectionObserver" in window)) {
       return;
     }
 
     const observerOptions = {
       threshold: 0.1,
-      rootMargin: '0px 0px -50px 0px'
+      rootMargin: "0px 0px -50px 0px",
     };
 
     const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
+      entries.forEach((entry) => {
         if (entry.isIntersecting) {
-          entry.target.classList.add('fade-in');
+          entry.target.classList.add("fade-in");
           // Optionally unobserve after animation
           observer.unobserve(entry.target);
         }
@@ -76,9 +77,11 @@
     }, observerOptions);
 
     // Observe elements that should animate on scroll
-    const animatedElements = document.querySelectorAll('.list__item, .widget, .post__content > *, .authorbox');
-    animatedElements.forEach(el => {
-      el.style.opacity = '0';
+    const animatedElements = document.querySelectorAll(
+      ".list__item, .widget, .post__content > *, .authorbox"
+    );
+    animatedElements.forEach((el) => {
+      el.style.opacity = "0";
       observer.observe(el);
     });
   }
@@ -88,19 +91,19 @@
      ======================================================================== */
   function initReadingProgressBar() {
     // Only show on single post pages
-    const postContent = document.querySelector('.post__content');
+    const postContent = document.querySelector(".post__content");
     if (!postContent) {
       return;
     }
 
     // Create progress bar element
-    const progressBar = document.createElement('div');
-    progressBar.className = 'reading-progress';
+    const progressBar = document.createElement("div");
+    progressBar.className = "reading-progress";
     progressBar.innerHTML = '<div class="reading-progress__bar"></div>';
     document.body.appendChild(progressBar);
 
     // Add styles
-    const style = document.createElement('style');
+    const style = document.createElement("style");
     style.textContent = `
       .reading-progress {
         position: fixed;
@@ -123,18 +126,21 @@
     document.head.appendChild(style);
 
     // Update progress on scroll
-    const progressBarInner = progressBar.querySelector('.reading-progress__bar');
+    const progressBarInner = progressBar.querySelector(
+      ".reading-progress__bar"
+    );
 
     function updateProgress() {
       const windowHeight = window.innerHeight;
-      const documentHeight = document.documentElement.scrollHeight - windowHeight;
+      const documentHeight =
+        document.documentElement.scrollHeight - windowHeight;
       const scrolled = window.pageYOffset;
       const progress = (scrolled / documentHeight) * 100;
 
-      progressBarInner.style.width = Math.min(progress, 100) + '%';
+      progressBarInner.style.width = Math.min(progress, 100) + "%";
     }
 
-    window.addEventListener('scroll', updateProgress, { passive: true });
+    window.addEventListener("scroll", updateProgress, { passive: true });
     updateProgress();
   }
 
@@ -142,7 +148,7 @@
      Enhanced Navigation with Scroll Effect
      ======================================================================== */
   function initEnhancedNavigation() {
-    const header = document.querySelector('.header');
+    const header = document.querySelector(".header");
     if (!header) {
       return;
     }
@@ -154,16 +160,16 @@
       const currentScroll = window.pageYOffset;
 
       if (currentScroll > scrollThreshold) {
-        header.classList.add('header--scrolled');
+        header.classList.add("header--scrolled");
       } else {
-        header.classList.remove('header--scrolled');
+        header.classList.remove("header--scrolled");
       }
 
       lastScroll = currentScroll;
     }
 
     // Add styles for scrolled header
-    const style = document.createElement('style');
+    const style = document.createElement("style");
     style.textContent = `
       .header {
         transition: all 0.3s ease;
@@ -178,7 +184,7 @@
     `;
     document.head.appendChild(style);
 
-    window.addEventListener('scroll', handleScroll, { passive: true });
+    window.addEventListener("scroll", handleScroll, { passive: true });
     handleScroll();
   }
 
@@ -190,29 +196,29 @@
     const images = document.querySelectorAll('img[loading="lazy"]');
 
     // For browsers that don't support native lazy loading
-    if ('loading' in HTMLImageElement.prototype) {
+    if ("loading" in HTMLImageElement.prototype) {
       return;
     }
 
     // Fallback using Intersection Observer
-    if (!('IntersectionObserver' in window)) {
+    if (!("IntersectionObserver" in window)) {
       return;
     }
 
     const imageObserver = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
+      entries.forEach((entry) => {
         if (entry.isIntersecting) {
           const img = entry.target;
           if (img.dataset.src) {
             img.src = img.dataset.src;
-            img.removeAttribute('data-src');
+            img.removeAttribute("data-src");
           }
           imageObserver.unobserve(img);
         }
       });
     });
 
-    images.forEach(img => imageObserver.observe(img));
+    images.forEach((img) => imageObserver.observe(img));
   }
 
   /* ========================================================================
@@ -220,37 +226,39 @@
      ======================================================================== */
   function initAnimatedElements() {
     // Add staggered animation to list items
-    const listItems = document.querySelectorAll('.list__item');
+    const listItems = document.querySelectorAll(".list__item");
     listItems.forEach((item, index) => {
       item.style.animationDelay = `${index * 0.1}s`;
     });
 
     // Add hover effect enhancements
-    const cards = document.querySelectorAll('.list__item, .widget');
-    cards.forEach(card => {
-      card.addEventListener('mouseenter', function() {
-        this.style.transform = 'translateY(-4px)';
+    const cards = document.querySelectorAll(".list__item, .widget");
+    cards.forEach((card) => {
+      card.addEventListener("mouseenter", function () {
+        this.style.transform = "translateY(-4px)";
       });
 
-      card.addEventListener('mouseleave', function() {
-        this.style.transform = 'translateY(0)';
+      card.addEventListener("mouseleave", function () {
+        this.style.transform = "translateY(0)";
       });
     });
 
     // Add ripple effect to buttons
-    const buttons = document.querySelectorAll('.btn, .pagination__item, .tags__item');
-    buttons.forEach(button => {
-      button.addEventListener('click', function(e) {
-        const ripple = document.createElement('span');
+    const buttons = document.querySelectorAll(
+      ".btn, .pagination__item, .tags__item"
+    );
+    buttons.forEach((button) => {
+      button.addEventListener("click", function (e) {
+        const ripple = document.createElement("span");
         const rect = this.getBoundingClientRect();
         const size = Math.max(rect.width, rect.height);
         const x = e.clientX - rect.left - size / 2;
         const y = e.clientY - rect.top - size / 2;
 
-        ripple.style.width = ripple.style.height = size + 'px';
-        ripple.style.left = x + 'px';
-        ripple.style.top = y + 'px';
-        ripple.classList.add('ripple');
+        ripple.style.width = ripple.style.height = size + "px";
+        ripple.style.left = x + "px";
+        ripple.style.top = y + "px";
+        ripple.classList.add("ripple");
 
         this.appendChild(ripple);
 
@@ -261,7 +269,7 @@
     });
 
     // Add ripple styles
-    const style = document.createElement('style');
+    const style = document.createElement("style");
     style.textContent = `
       .btn, .pagination__item, .tags__item {
         position: relative;
@@ -301,15 +309,7 @@
   }
 
   /* ========================================================================
-     Console Message
+     Console Message - DISABLED
      ======================================================================== */
-  console.log(
-    '%c✨ Valticus Enhanced ✨',
-    'color: #0066FF; font-size: 20px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);'
-  );
-  console.log(
-    '%cModern design system loaded successfully!',
-    'color: #7C3AED; font-size: 14px;'
-  );
-
+  // Console logging disabled
 })();
