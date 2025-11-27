@@ -196,13 +196,18 @@ def main():
     if os.path.exists("config.toml"):
         try:
             with open("config.toml", "r") as f:
-                for line in f:
-                    if line.startswith("baseurl"):
-                        # Parse: baseurl = "https://valticus.pro/"
-                        base_url = line.split("=", 1)[1].strip().strip('"')
-                        break
+                content = f.read()
+                # Parse baseurl with better regex to handle quotes
+                match = re.search(r'baseurl\s*=\s*["\']([^"\']+)["\']', content)
+                if match:
+                    base_url = match.group(1).rstrip("/")
+                    print(f"✓ Read base_url from config.toml: {base_url}")
         except Exception as e:
             print(f"Warning: Could not read config.toml: {e}")
+    else:
+        print(f"Warning: config.toml not found, using default: {base_url}")
+
+    print(f"Using base_url: {base_url}")
 
     generator = SitemapGenerator(base_url=base_url)
     generator.save_sitemap()
