@@ -2,10 +2,10 @@
 set -e
 
 echo "=== Building Valticus ==="
-echo "Step 1: Generating sitemap..."
-python3 generate_sitemap.py
-
-echo "Step 2: Building with Hugo..."
+echo "Step 1: Building with Hugo..."
 hugo
+
+echo "Step 2: Generating sitemap (overwrite)..."
+python3 generate_sitemap.py
 
 echo "=== Build complete ==="
