@@ -27,6 +27,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="dns-prefetch" href="//www.googletagmanager.com" />
 
+    <!-- PWA manifest and theme color for mobile browsers -->
+    <link rel="manifest" href="{{ "manifest.json" | relURL }}" />
+    <meta name="theme-color" content="#0066FF" />
+
     {{- if .Site.Params.opengraph }} {{ template "_internal/opengraph.html" . }}
     {{- end }} {{- if .Site.Params.schema }} {{ template "_internal/schema.html"
     . }} {{- end }} {{- if .Site.Params.twitter_cards }} {{ template
@@ -120,9 +124,13 @@
       src="{{ $menuJS.RelPermalink }}"
       integrity="{{ $menuJS.Data.Integrity }}"
     ></script>
-    {{ range .Site.Params.customJS -}}
-    {{ $js := resources.Get . | resources.Minify | resources.Fingerprint }}
-    <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+    {{ range .Site.Params.customJS -}} {{ $js := resources.Get . |
+    resources.Minify | resources.Fingerprint }}
+    <script
+      defer
+      src="{{ $js.RelPermalink }}"
+      integrity="{{ $js.Data.Integrity }}"
+    ></script>
     {{- end }} {{- partial "mathjax.html" . -}}
   </body>
 </html>

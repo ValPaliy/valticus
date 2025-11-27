@@ -1,0 +1,62 @@
+name: Lighthouse Audit
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build site with Hugo
+        run: hugo --minify
+
+      - name: Serve generated site
+        # serve `public/` in background and allow a short startup wait
+        run: npx http-server public -p 8080 -s & sleep 5
+
+      - name: Run Lighthouse (desktop + mobile)
+        # produce JSON and HTML report files
+        run: |
+          npx -y lighthouse http://127.0.0.1:8080 \
+            --output=json --output-path=./lh-report-desktop.json \
+            --output=html --output-path=./lh-report-desktop.html \
+            --chrome-flags="--no-sandbox --headless --disable-gpu" \
+            --emulated-form-factor=desktop || true
+
+      - name: Run Lighthouse (mobile)
+        run: |
+          npx -y lighthouse http://127.0.0.1:8080 \
+            --output=json --output-path=./lh-report-mobile.json \
+            --output=html --output-path=./lh-report-mobile.html \
+            --chrome-flags="--no-sandbox --headless --disable-gpu" \
+            --emulated-form-factor=mobile || true
+
+      - name: Upload Lighthouse reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: lighthouse-reports
+          path: |
+            lh-report-desktop.json
+            lh-report-desktop.html
+            lh-report-mobile.json
+            lh-report-mobile.html
