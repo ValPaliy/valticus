@@ -185,7 +185,21 @@ class SitemapGenerator:
 
 def main():
     """Main entry point."""
-    generator = SitemapGenerator()
+    # Read base URL from config.toml
+    base_url = "https://valticus.pro/"  # Default fallback
+
+    if os.path.exists("config.toml"):
+        try:
+            with open("config.toml", "r") as f:
+                for line in f:
+                    if line.startswith("baseurl"):
+                        # Parse: baseurl = "https://valticus.pro/"
+                        base_url = line.split("=", 1)[1].strip().strip('"')
+                        break
+        except Exception as e:
+            print(f"Warning: Could not read config.toml: {e}")
+
+    generator = SitemapGenerator(base_url=base_url)
     generator.save_sitemap()
     print("✓ Sitemap generation complete!")
 
