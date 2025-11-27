@@ -1,612 +1,568 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://valticus.pro/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/pipe-lighters---a-short-narrative/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/pipe-smoking/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/tobacco/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/accessories/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/lighters/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/pipe-smoking---a-chill-way-to-indulge-in-tobacco/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/the-twitter-exodus---a-shift-in-the-social-media-landscape/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/hardware/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/keyboards/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/categories/peripherals/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/on-digital-minimalism/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/queens-gambit-the-series/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/theme/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/page/2/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/accessibility/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/ai/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/anya-taylor-joy/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/better/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/blog-updates/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/books/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/browser/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/change/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/chess/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/cmd/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/cms/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/command-line/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/compare/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/csharp/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/customization/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/cv/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/deployment/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/development/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/digital-minimalism/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/dotnet/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/drivers/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/editor/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/elon-musk/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/fonts/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/github/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/gnu/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/google/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/google-chrome/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/gow/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/hardware/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/history/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/howto/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/icons/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/ide/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/ide-setting/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/keyboards/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/keycaps/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/lighters/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/limited-series/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/linux/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/macos/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/mechanical/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/mechanical-versus-membrane/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/membrane/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/microsoft-edge/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/mobile/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/netflix/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/netlify/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/os/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/pictures/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/pipe-smoking/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/pipes/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/portfolio/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/productivity/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/profile/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/programming/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/resume/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/social-media/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/software/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/statiq/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/switches/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/the-queens-gambit/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/themes/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/tobacco/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/tools/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/troubleshooting/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/tutorial/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/twitter/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/ux/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/visual-studio-code/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/visual-studio/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/vscode/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/walter-tavis/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/web/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/web-standards/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/windows/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/about/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/portfolio/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/ide-settings/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-change-your-github-theme/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-get-macos-font-rendering-in-windows/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/windows</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/lets-talk-about-fonts/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/what-have-i-been-up-to-recently/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/gnu-on-windows-gow---linux-commands-in-windows/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/my-new-favorite-theme-for-editors/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/my-favorite-visual-studio-code-theme</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/my-favorite-visual-studio-code-theme/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/page/3/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/mobile-friendly-website-and-why-it-matters/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-deploy-on-netlify/</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/lets-talk-about-fonts</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/tags/netlify</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/how-to-deploy-on-netlify</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet</loc>
-  <lastmod>2025-11-27T07:24:27+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://valticus.pro/</loc>
+    <lastmod>2025-11-27T09:56:51.456598+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/about/</loc>
+    <lastmod>2025-11-25T12:30:59.735998+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/</loc>
+    <lastmod>2025-11-24T03:19:05.383721+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/accessories/</loc>
+    <lastmod>2025-11-24T03:19:05.372450+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/hardware/</loc>
+    <lastmod>2025-11-24T03:19:05.379194+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/keyboards/</loc>
+    <lastmod>2025-11-24T03:19:05.389243+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/lighters/</loc>
+    <lastmod>2025-11-24T03:19:05.398114+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/peripherals/</loc>
+    <lastmod>2025-11-24T03:19:05.403778+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/pipe-smoking/</loc>
+    <lastmod>2025-11-24T03:19:05.420453+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/categories/tobacco/</loc>
+    <lastmod>2025-11-24T03:19:05.425891+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/ide-settings/</loc>
+    <lastmod>2025-11-24T03:19:05.288943+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/portfolio/</loc>
+    <lastmod>2025-11-24T03:19:05.292189+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/gnu-on-windows-gow---linux-commands-in-windows/</loc>
+    <lastmod>2025-11-24T03:19:05.294146+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/how-to-change-your-github-theme/</loc>
+    <lastmod>2025-11-24T03:19:05.295341+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/how-to-change-your-vscode-theme-depending-on-the-time-of-day/</loc>
+    <lastmod>2025-11-24T03:19:05.307831+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/how-to-delete-unused-google-profile-pictures/</loc>
+    <lastmod>2025-11-24T03:19:05.309833+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/how-to-deploy-on-netlify/</loc>
+    <lastmod>2025-11-24T03:19:05.311942+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/how-to-fix-dom-storage-dom-surrogate-problems-on-windows/</loc>
+    <lastmod>2025-11-24T03:19:05.313181+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/how-to-get-macos-font-rendering-in-windows/</loc>
+    <lastmod>2025-11-24T03:19:05.315503+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/it-is-time-to-ditch-google-chrome/</loc>
+    <lastmod>2025-11-24T03:19:05.318511+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/lets-talk-about-fonts/</loc>
+    <lastmod>2025-11-24T03:19:05.320390+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/mechanical-vs-membrane-keyboards/</loc>
+    <lastmod>2025-11-24T03:19:05.323542+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/mobile-friendly-website-and-why-it-matters/</loc>
+    <lastmod>2025-11-24T03:19:05.326685+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/my-favorite-visual-studio-code-theme/</loc>
+    <lastmod>2025-11-24T03:19:05.328269+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/my-new-favorite-theme-for-editors/</loc>
+    <lastmod>2025-11-24T03:19:05.330928+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/on-coding-and-artificial-intelligence/</loc>
+    <lastmod>2025-11-24T03:19:05.332764+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/on-digital-minimalism/</loc>
+    <lastmod>2025-11-24T03:19:05.334308+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/pipe-lighters---a-short-narrative/</loc>
+    <lastmod>2025-11-24T03:19:05.335959+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/pipe-smoking---a-chill-way-to-indulge-in-tobacco/</loc>
+    <lastmod>2025-11-24T03:19:05.337700+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/plans-for-the-nearest-future-of-this-blog/</loc>
+    <lastmod>2025-11-24T03:19:05.340990+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/queens-gambit-the-series/</loc>
+    <lastmod>2025-11-24T03:19:05.343199+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/the-twitter-exodus---a-shift-in-the-social-media-landscape/</loc>
+    <lastmod>2025-11-24T03:19:05.346156+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/what-have-i-been-up-to-recently/</loc>
+    <lastmod>2025-11-25T12:34:21.956829+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/why-i-dont-use-netlify-cms-yet/</loc>
+    <lastmod>2025-11-24T03:19:05.351156+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/posts/why-i-no-longer-use-twitter-to-promote-my-services/</loc>
+    <lastmod>2025-11-24T03:19:05.352788+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/</loc>
+    <lastmod>2025-11-24T03:19:05.950664+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/accessibility/</loc>
+    <lastmod>2025-11-24T03:19:05.723785+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/ai/</loc>
+    <lastmod>2025-11-24T03:19:05.729307+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/anya-taylor-joy/</loc>
+    <lastmod>2025-11-24T03:19:05.736641+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/better/</loc>
+    <lastmod>2025-11-24T03:19:05.746266+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/blog-updates/</loc>
+    <lastmod>2025-11-24T03:19:05.755977+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/books/</loc>
+    <lastmod>2025-11-24T03:19:05.763315+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/browser/</loc>
+    <lastmod>2025-11-24T03:19:05.769057+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/change/</loc>
+    <lastmod>2025-11-24T03:19:05.774962+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/chess/</loc>
+    <lastmod>2025-11-24T03:19:05.784658+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/cmd/</loc>
+    <lastmod>2025-11-24T03:19:05.793267+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/cms/</loc>
+    <lastmod>2025-11-24T03:19:05.800018+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/command-line/</loc>
+    <lastmod>2025-11-24T03:19:05.805356+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/compare/</loc>
+    <lastmod>2025-11-24T03:19:05.813460+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/csharp/</loc>
+    <lastmod>2025-11-24T03:19:05.818731+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/customization/</loc>
+    <lastmod>2025-11-24T03:19:05.824511+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/cv/</loc>
+    <lastmod>2025-11-24T03:19:05.829042+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/deployment/</loc>
+    <lastmod>2025-11-24T03:19:05.834697+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/development/</loc>
+    <lastmod>2025-11-24T03:19:05.842039+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/digital-minimalism/</loc>
+    <lastmod>2025-11-24T03:19:05.848703+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/dotnet/</loc>
+    <lastmod>2025-11-24T03:19:05.855196+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/drivers/</loc>
+    <lastmod>2025-11-24T03:19:05.863633+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/editor/</loc>
+    <lastmod>2025-11-24T03:19:05.872591+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/elon-musk/</loc>
+    <lastmod>2025-11-24T03:19:05.878404+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/fonts/</loc>
+    <lastmod>2025-11-24T03:19:05.884710+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/github/</loc>
+    <lastmod>2025-11-24T03:19:05.888266+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/gnu/</loc>
+    <lastmod>2025-11-24T03:19:05.892219+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/google-chrome/</loc>
+    <lastmod>2025-11-24T03:19:05.895629+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/google/</loc>
+    <lastmod>2025-11-24T03:19:05.902151+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/gow/</loc>
+    <lastmod>2025-11-24T03:19:05.906210+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/hardware/</loc>
+    <lastmod>2025-11-24T03:19:05.914920+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/history/</loc>
+    <lastmod>2025-11-24T03:19:05.922158+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/howto/</loc>
+    <lastmod>2025-11-24T03:19:05.927972+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/icons/</loc>
+    <lastmod>2025-11-24T03:19:05.934056+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/ide-setting/</loc>
+    <lastmod>2025-11-24T03:19:05.938120+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/ide/</loc>
+    <lastmod>2025-11-24T03:19:05.945161+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/keyboards/</loc>
+    <lastmod>2025-11-24T03:19:05.957483+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/keycaps/</loc>
+    <lastmod>2025-11-24T03:19:05.962941+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/lighters/</loc>
+    <lastmod>2025-11-24T03:19:05.968641+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/limited-series/</loc>
+    <lastmod>2025-11-24T03:19:05.972733+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/linux/</loc>
+    <lastmod>2025-11-24T03:19:05.978137+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/macos/</loc>
+    <lastmod>2025-11-24T03:19:05.986138+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/mechanical-versus-membrane/</loc>
+    <lastmod>2025-11-24T03:19:05.991727+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/mechanical/</loc>
+    <lastmod>2025-11-24T03:19:05.999701+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/membrane/</loc>
+    <lastmod>2025-11-24T03:19:06.006277+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/microsoft-edge/</loc>
+    <lastmod>2025-11-24T03:19:06.012079+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/mobile/</loc>
+    <lastmod>2025-11-24T03:19:06.021779+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/netflix/</loc>
+    <lastmod>2025-11-24T03:19:06.029120+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/netlify/</loc>
+    <lastmod>2025-11-24T03:19:06.034594+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/os/</loc>
+    <lastmod>2025-11-24T03:19:06.042054+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/pictures/</loc>
+    <lastmod>2025-11-24T03:19:06.072246+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/pipe-smoking/</loc>
+    <lastmod>2025-11-24T03:19:06.077471+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/pipes/</loc>
+    <lastmod>2025-11-24T03:19:06.083307+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/portfolio/</loc>
+    <lastmod>2025-11-24T03:19:06.089556+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/productivity/</loc>
+    <lastmod>2025-11-24T03:19:06.096304+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/profile/</loc>
+    <lastmod>2025-11-24T03:19:06.101607+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/programming/</loc>
+    <lastmod>2025-11-24T03:19:06.106104+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/resume/</loc>
+    <lastmod>2025-11-24T03:19:06.111493+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/social-media/</loc>
+    <lastmod>2025-11-24T03:19:06.117919+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/software/</loc>
+    <lastmod>2025-11-24T03:19:06.122132+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/statiq/</loc>
+    <lastmod>2025-11-24T03:19:06.126172+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/switches/</loc>
+    <lastmod>2025-11-24T03:19:06.131839+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/the-queens-gambit/</loc>
+    <lastmod>2025-11-24T03:19:06.138689+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/theme/</loc>
+    <lastmod>2025-11-24T03:19:06.144548+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/themes/</loc>
+    <lastmod>2025-11-24T03:19:06.148769+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/tobacco/</loc>
+    <lastmod>2025-11-24T03:19:06.155525+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/tools/</loc>
+    <lastmod>2025-11-24T03:19:06.161447+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/troubleshooting/</loc>
+    <lastmod>2025-11-24T03:19:06.167344+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/tutorial/</loc>
+    <lastmod>2025-11-24T03:19:06.173302+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/twitter/</loc>
+    <lastmod>2025-11-24T03:19:06.178924+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/ux/</loc>
+    <lastmod>2025-11-24T03:19:06.183188+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/visual-studio-code/</loc>
+    <lastmod>2025-11-24T03:19:06.187070+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/visual-studio/</loc>
+    <lastmod>2025-11-24T03:19:06.192056+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/vscode/</loc>
+    <lastmod>2025-11-24T03:19:06.197772+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/walter-tavis/</loc>
+    <lastmod>2025-11-24T03:19:06.203071+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/web-standards/</loc>
+    <lastmod>2025-11-24T03:19:06.209165+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/web/</loc>
+    <lastmod>2025-11-24T03:19:06.215083+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://valticus.pro/tags/windows/</loc>
+    <lastmod>2025-11-24T03:19:06.225262+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
 </urlset>

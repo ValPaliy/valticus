@@ -114,3 +114,7 @@ theme = "valticus"
   [minify.tdewolff.js]
     keepVarNames = false
 cleanDestinationDir = true
+
+# Disable Hugo's automatic sitemap generation
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

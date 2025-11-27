@@ -165,8 +165,11 @@ class SitemapGenerator:
         dom = minidom.parseString(xml_str)
         return dom.toprettyxml(indent="  ")
 
-    def save_sitemap(self, output_path: str = "static/sitemap.xml"):
-        """Generate and save sitemap to file."""
+    def save_sitemap(self, output_paths: List[str] = None):
+        """Generate and save sitemap to multiple files."""
+        if output_paths is None:
+            output_paths = ["static/sitemap.xml", "public/sitemap.xml"]
+
         self.scan_content()
         xml_content = self.generate_xml()
 
@@ -175,11 +178,13 @@ class SitemapGenerator:
         lines = [line for line in lines if line.strip()]  # Remove empty lines
         xml_content = '<?xml version="1.0" encoding="UTF-8"?>\n' + '\n'.join(lines[1:])
 
-        os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(xml_content)
+        # Save to all specified paths
+        for output_path in output_paths:
+            os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
+            with open(output_path, 'w', encoding='utf-8') as f:
+                f.write(xml_content)
+            print(f"✓ Sitemap saved: {output_path}")
 
-        print(f"✓ Sitemap generated: {output_path}")
         print(f"  Total URLs: {len(self.urls)}")
 
 
