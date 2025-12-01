@@ -1,6 +1,7 @@
 # Local Netlify folder
 .netlify
-
+.agent
 public/sitemap.xml
 static/sitemap.xml
 static/_headers.bak
+
