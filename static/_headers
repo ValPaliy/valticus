@@ -1,6 +1,10 @@
 /*
 # Default: short cache for HTML so changes propagate quickly
   Cache-Control: public, max-age=0, must-revalidate
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
 
 /css/*
 # Fingerprinted CSS bundles -> long cache + immutable
