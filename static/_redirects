@@ -1,4 +1,4 @@
-# Redirect users from US to blocked page
+# Redirect users from RU and BY to blocked page
 /*  /301.html  301  Country=ru
 /*  /301.html  301  Country=by
 
@@ -6,5 +6,4 @@ https://valticus.pro/feed.atom https://valticus.pro 301!
 https://valticus.pro/posts/111 https://valticus.pro/posts 301!
 https://valticus.pro/contact https://valticus.pro 301!
 https://valticus.pro/posts/what-have-i-been-up-to-recently/111 https://valticus.pro/posts/what-have-i-been-up-to-recently/ 301!
-https://valticus.pro/contact https://valticus.pro 301!
 https://valticus.pro/ua/* https://valticus.pro 301!
