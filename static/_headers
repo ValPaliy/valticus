@@ -1,28 +1,36 @@
 /*
-# Default: short cache for HTML so changes propagate quickly
+  # Default: short cache for HTML so changes propagate quickly
   Cache-Control: public, max-age=0, must-revalidate
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: geolocation=(), microphone=(), camera=()
+  # Enable compression
+  Content-Encoding: gzip, br
 
 /css/*
-# Fingerprinted CSS bundles -> long cache + immutable
+  # Fingerprinted CSS bundles -> long cache + immutable
   Cache-Control: public, max-age=31536000, immutable
+  Content-Type: text/css; charset=utf-8
 
 /js/*
-# Fingerprinted JS bundles -> long cache + immutable
+  # Fingerprinted JS bundles -> long cache + immutable
   Cache-Control: public, max-age=31536000, immutable
+  Content-Type: application/javascript; charset=utf-8
 
 /img/*
-# Images are versioned by filename in this site; keep long cache
+  # Images are versioned by filename in this site; keep long cache
   Cache-Control: public, max-age=31536000, immutable
 
 /images/*
   Cache-Control: public, max-age=31536000, immutable
+  # Preload critical images
+  Link: </images/logo.png>; rel=preload; as=image
 
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
+  # Preconnect for font loading
+  Link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
 
 /favicon.ico
   Cache-Control: public, max-age=31536000, immutable
@@ -35,5 +43,9 @@
 
 /index.xml
   Cache-Control: public, max-age=3600
+
+# Service Worker for offline support (if implemented)
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
 
 # End of file

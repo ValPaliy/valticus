@@ -118,3 +118,36 @@ cleanDestinationDir = true
 # Disable Hugo's automatic sitemap generation
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+# Image processing configuration for better performance
+[imaging]
+  # Default image quality (0-100)
+  quality = 85
+  # Resample filter for resizing images
+  resampleFilter = "Lanczos"
+  # Anchor for cropping
+  anchor = "Smart"
+  # Background color for transparent images
+  bgColor = "#ffffff"
+  # Image formats
+  [imaging.exif]
+    # Strip EXIF data to reduce file size
+    disableDate = false
+    disableLatLong = true
+    includeFields = ""
+    excludeFields = ""
+
+# Markup configuration for better rendering
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

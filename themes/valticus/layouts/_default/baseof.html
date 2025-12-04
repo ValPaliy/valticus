@@ -24,7 +24,10 @@
     {{- /* Resource hints for performance */ -}}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
     <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
 
     <!-- PWA manifest and theme color for mobile browsers -->
     <link rel="manifest" href="{{ "manifest.json" | relURL }}" />
@@ -33,28 +36,17 @@
     {{- if .Site.Params.opengraph }} {{ template "_internal/opengraph.html" . }}
     {{- end }} {{- if .Site.Params.schema }} {{ template "_internal/schema.html"
     . }} {{- end }} {{- if .Site.Params.twitter_cards }} {{ template
-    "_internal/twitter_cards.html" . }} {{- end }}
-
-    <!-- Google Tag Manager -->
-    <script>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s),
-          dl = l != "dataLayer" ? "&l=" + l : "";
-        j.async = true;
-        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-        f.parentNode.insertBefore(j, f);
-      })(window, document, "script", "dataLayer", "GTM-MS4MSNDT");
-    </script>
-    <!-- End Google Tag Manager -->
-
-    {{- /* Optimized Google Fonts loading with font-display swap */ -}} {{-
-    $googleFontsLink := .Site.Params.googleFontsLink | default
+    "_internal/twitter_cards.html" . }} {{- end }} {{- /* Optimized Google Fonts
+    loading with font-display swap */ -}} {{- $googleFontsLink :=
+    .Site.Params.googleFontsLink | default
     "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }} {{- if
     hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
-    <link rel="preload" as="style" href="{{ $googleFontsLink }}&display=swap" />
+    <link
+      rel="preload"
+      as="style"
+      href="{{ $googleFontsLink }}&display=swap"
+      fetchpriority="high"
+    />
     <link
       rel="stylesheet"
       href="{{ $googleFontsLink }}&display=swap"
@@ -72,18 +64,11 @@
     | resources.Concat "css/bundle.css" | resources.PostCSS | resources.Minify |
     resources.Fingerprint -}}
     <link
-      rel="preload"
-      as="style"
+      rel="stylesheet"
       href="{{ $css.RelPermalink }}"
       integrity="{{ $css.Data.Integrity }}"
-      onload="this.onload=null;this.rel='stylesheet'"
+      fetchpriority="high"
     />
-    <noscript
-      ><link
-        rel="stylesheet"
-        href="{{ $css.RelPermalink }}"
-        integrity="{{ $css.Data.Integrity }}"
-    /></noscript>
 
     {{- with .OutputFormats.Get "rss" }} {{ printf `
     <link rel="%s" type="%s" href="%s" title="%s" />
@@ -91,6 +76,23 @@
     <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}"> {{- if not
     hugo.IsServer }} {{ template "_internal/google_analytics.html" . }} {{- end
     }}
+
+    <!-- Google Tag Manager - Loaded with defer for better performance -->
+    <script defer>
+      window.addEventListener("DOMContentLoaded", function () {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-MS4MSNDT");
+      });
+    </script>
+    <!-- End Google Tag Manager -->
   </head>
   <body class="body">
     <!-- Google Tag Manager (noscript) -->
