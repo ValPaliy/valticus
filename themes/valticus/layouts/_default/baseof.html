@@ -20,8 +20,7 @@
     else }}{{ with .Params.Keywords }}{{ delimit . "," }}{{ else }}{{
     .Site.Params.keywords }}{{ end }}{{ end }}">
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="{{ .Permalink }}" />
-
+    <link rel="canonical" href="{{ .Permalink | strings.TrimSuffix "/" }}/" />
     {{- /* Resource hints for performance */ -}}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
