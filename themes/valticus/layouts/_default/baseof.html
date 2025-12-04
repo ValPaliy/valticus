@@ -67,21 +67,6 @@
       rel="stylesheet"
       href="{{ $css.RelPermalink }}"
       integrity="{{ $css.Data.Integrity }}"
-      fetchpriority="high"
-    />
-
-    {{- with .OutputFormats.Get "rss" }} {{ printf `
-    <link rel="%s" type="%s" href="%s" title="%s" />
-    ` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }} {{- end }}
-    <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}"> {{- if not
-    hugo.IsServer }} {{ template "_internal/google_analytics.html" . }} {{- end
-    }}
-
-    <!-- Google Tag Manager - Loaded with defer for better performance -->
-    <script defer>
-      window.addEventListener("DOMContentLoaded", function () {
-        (function (w, d, s, l, i) {
-          w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
           var f = d.getElementsByTagName(s)[0],
             j = d.createElement(s),
