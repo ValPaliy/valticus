@@ -34,7 +34,17 @@ $valueType "map" -}} {{- if $isMap }} {{ $visibility = default (slice "list"
         class="thumbnail__image"
         src="{{ $fallback.RelPermalink }}"
         alt="{{ .page.Title }}"
-        loading="lazy"
+        {{
+        if
+        .lcp
+        }}loading="eager"
+        fetchpriority="high"
+        {{
+        else
+        }}loading="lazy"
+        {{
+        end
+        }}
         decoding="async"
         {{-
         if
@@ -59,7 +69,17 @@ $valueType "map" -}} {{- if $isMap }} {{ $visibility = default (slice "list"
       class="thumbnail__image"
       src="{{ $thumbnail | relURL }}"
       alt="{{ .page.Title }}"
-      loading="lazy"
+      {{
+      if
+      .lcp
+      }}loading="eager"
+      fetchpriority="high"
+      {{
+      else
+      }}loading="lazy"
+      {{
+      end
+      }}
       decoding="async"
     />
     {{- end }} {{ if eq $class "list" }}</a
