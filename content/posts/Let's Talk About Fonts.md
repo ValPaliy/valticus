@@ -7,7 +7,7 @@ author:
 keywords: ["windows", "fonts", "development", "ide"]
 tags: ["windows", "fonts", "development", "ide"]
 key_takeaways:
-  - "JetBrains Mono" is a top-tier free coding font.
+  - '"JetBrains Mono" is a top-tier free coding font.'
   - Optimized for reading code and supports ligatures.
   - Comparison with "Fira Code" (another ligature font).
   - Can be used system-wide for better readability.
