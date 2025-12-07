@@ -14,11 +14,6 @@ tags:
   - visual-studio
   - themes
   - icons
-key_takeaways:
-  - Unity across dev tools (VS Code & VS 2019).
-  - Switched to default Visual Studio 2019 Dark Theme on all platforms.
-  - Uses Material Icon Theme (VS Code) and File Icons (VS 2019).
-  - Consistent look enhances workflow.
 ---
 
 For a long time I have been a big fan of [Sarah Drasner's theme](https://valticus.pro/posts/my-favorite-visual-studio-code-theme) for Visual Studio Code, and even used [a port of it](https://marketplace.visualstudio.com/items?itemName=kaos.nightowl) in [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/).

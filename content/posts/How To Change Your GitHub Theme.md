@@ -14,10 +14,6 @@ tags:
   - change
   - github
   - theme
-key_takeaways:
-  - GitHub now supports themes (feature in beta).
-  - Change appearance via Settings > Appearance.
-  - Choose from available themes (Light, Dark, Dimmed).
 ---
 
 So, as you may or may not know, [GitHub](https://github.com/) is testing themes for its website, and the feature is now in beta according to [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings).

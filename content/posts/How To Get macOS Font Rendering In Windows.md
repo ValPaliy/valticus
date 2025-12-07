@@ -14,11 +14,6 @@ tags:
   - macos
   - fonts
   - customization
-key_takeaways:
-  - Improve Windows font rendering to look like macOS.
-  - Install MacType (font renderer) and configure profile.
-  - Install GDIPP for further enhancement.
-  - Revert by uninstalling both programs.
 ---
 
 Tell me something - are you happy with how ClearType, the default font renderer in [Windows](https://valticus.pro/tags/windows) does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.

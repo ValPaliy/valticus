@@ -14,11 +14,6 @@ tags:
   - statiq
   - deployment
   - tutorial
-key_takeaways:
-  - Deploy static sites easily with Netlify.
-  - Link GitHub repo and authorize Netlify.
-  - Configure build settings and deploy.
-  - Includes steps for bootstrapping a Statiq .NET Core site.
 ---
 
 The official guide on how to deploy your website to [Netlify](https://www.netlify.com/), which can be found [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/), explains the required steps:

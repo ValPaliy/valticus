@@ -14,10 +14,6 @@ tags:
   - profile
   - pictures
   - tutorial
-key_takeaways:
-  - No direct way to delete old profile pics in main Google settings.
-  - Workaround: Use `get.google.com/albumarchive`.
-  - Navigate to "Profile Photos" folder to find and delete images.
 ---
 
 Ever since [Google](https://google.com/) discontinued [Google+](https://en.wikipedia.org/wiki/Google%2B) (its social network) there's no obvious way to delete unused profile pictures from your account.

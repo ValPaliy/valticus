@@ -6,11 +6,6 @@ author:
   - Val Paliy
 keywords: ["windows", "linux", "os", "programming", "csharp", "dotnet"]
 tags: ["windows", "linux", "os", "programming", "csharp", "dotnet"]
-key_takeaways:
-  - Switched entirely to Windows from Linux/dual-boot.
-  - Deepening focus on C# and .NET ecosystem.
-  - Migrated site to `valticus` domain to avoid security flags.
-  - Future content: Books and cat-related posts.
 ---
 
 If you've been following my blog you might have noticed that I haven't written anything in quite some time. "So, what's up?", you might ask.

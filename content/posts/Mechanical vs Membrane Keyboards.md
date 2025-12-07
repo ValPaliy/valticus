@@ -35,11 +35,6 @@ tags:
     "macOS",
   ]
 categories: ["Hardware", "Keyboards", "Peripherals"]
-key_takeaways:
-  - Mechanical keyboards use switches (Linear, Tactile, Clicky).
-  - Pros: Durability, feedback, customization (keycaps, switches).
-  - Cons: Noise, price, weight.
-  - Membrane keyboards are cheaper/quieter but less durable.
 ---
 
 I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.

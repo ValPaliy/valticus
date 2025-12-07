@@ -18,11 +18,6 @@ tags:
   - cmd
   - GNU
   - GoW
-key_takeaways:
-  - Execute Linux commands in Windows without bulky Cygwin.
-  - GoW (Gnu On Windows) installs >100 native win32 binaries.
-  - Lightweight (~18MB) compared to Cygwin (>100MB).
-  - Easy setup by adding to Windows PATH.
 ---
 
 For a long time the only way to launch [Linux](https://www.linuxfoundation.org/) commands in [Windows](https://www.microsoft.com/en-us/windows) was with [Cygwin](https://www.cygwin.com/). But [Cygwin](https://www.cygwin.com/) is rather bulky and can take a long time to download if you are on a slower Internet connection.

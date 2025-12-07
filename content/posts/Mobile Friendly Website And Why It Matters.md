@@ -14,11 +14,6 @@ tags:
   - accessibility
   - ux
   - web-standards
-key_takeaways:
-  - Web accessibility (WCAG) assists millions with disabilities.
-  - Mobile friendliness is critical for modern UX.
-  - Validated site using W3C and Google Mobile Friendly Test.
-  - Ensuring accessibility benefits everyone.
 ---
 
 I have always tried and followed the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) in every project I worked on. It's not always an easy thing to do, but Web Accessibility (WA) is very important, as we all have difficulties when interacting with a computer or mobile screen, in one way or the other. For example, my eyesight is dropping as I am approaching the age of forty.

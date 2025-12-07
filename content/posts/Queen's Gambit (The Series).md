@@ -22,11 +22,6 @@ tags:
     "anya taylor-joy",
     "walter tavis",
   ]
-key_takeaways:
-  - '"The Queen''s Gambit" is a highly acclaimed Netflix limited series.'
-  - Outstanding performance by Anya Taylor-Joy as Beth Harmon.
-  - Based on the novel by Walter Tavis.
-  - Revitalized public interest in chess.
 ---
 
 I've watched ["The Queen's Gambit"](https://www.netflix.com/ua/title/80234304) on Netflix, and I must admit - I love the show! And I am not alone, of course. According to this article in ["Business Insider"](https://www.businessinsider.com/data-shows-netflix-queens-gambit-a-word-of-mouth-hit-2020-11), and I quote:

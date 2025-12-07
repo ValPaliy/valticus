@@ -16,11 +16,6 @@ tags:
   - Google Chrome
   - web
   - browser
-key_takeaways:
-  - Author switched from Chrome to Microsoft Edge.
-  - Edge supports Chrome extensions and has built-in features (Web Capture).
-  - Edge is faster and more resource-efficient.
-  - Google services (Gmail) still work perfectly.
 ---
 
 While it is true that Google's [Chrome](https://www.google.com/chrome/) holds the largest number of users to date, I have recently switched to Microsoft's [Edge](https://www.microsoft.com/en-us/edge) web browser.

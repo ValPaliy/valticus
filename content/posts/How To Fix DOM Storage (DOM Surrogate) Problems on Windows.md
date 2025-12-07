@@ -12,11 +12,6 @@ tags:
   - windows
   - drivers
   - troubleshooting
-key_takeaways:
-  - Fix "COM Surrogate has stopped working" error on Windows.
-  - Often caused by Intel HD graphics driver issues.
-  - Solution: Uninstall display adapter driver via Device Manager.
-  - Reinstall driver from manufacturer or use driver updater.
 ---
 
 So, today, I ran into a problem. Well, it has been bugging me for the last few days, actually. I started

@@ -6,11 +6,6 @@ author:
   - Val Paliy
 keywords: ["vscode", "themes"]
 tags: ["vscode", "themes"]
-key_takeaways:
-  - Dark editor themes recommended for eye comfort.
-  - '"Night Owl" by Sarah Drasner is the top choice.'
-  - '"Firicico" font suggested for coding.'
-  - Theme includes "No Italics" option.
 ---
 
 {{< figure src="/images/favorite-theme-vscode.webp" title="Visual Studio Code" alt="Visual Studio Code" width="75%" height="75%" >}}

@@ -9,25 +9,8 @@
       <div class="post__meta meta">{{ . }}</div>
       {{- end }}
     </header>
-    {{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }} {{- if
-    .Params.key_takeaways }}
-    <div
-      class="key-takeaways"
-      style="
-        background-color: #f9f9f9;
-        padding: 1em;
-        border-left: 5px solid #007bff;
-        margin-bottom: 1em;
-      "
-    >
-      <strong>Key Takeaways:</strong>
-      <ul>
-        {{ range .Params.key_takeaways }}
-        <li>{{ . }}</li>
-        {{ end }}
-      </ul>
-    </div>
-    {{- end }} {{- partial "post_toc.html" . -}}
+    {{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }} {{-
+    partial "post_toc.html" . -}}
     <div class="content post__content clearfix">{{ .Content }}</div>
     {{- if .Params.tags }}
     <footer class="post__footer">{{ partial "post_tags.html" . }}</footer>

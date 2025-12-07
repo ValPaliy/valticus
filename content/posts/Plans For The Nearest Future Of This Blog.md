@@ -6,10 +6,6 @@ author:
   - Val Paliy
 keywords: ["programming", "books", "hardware", "software", "blog-updates"]
 tags: ["programming", "books", "hardware", "software", "blog-updates"]
-key_takeaways:
-  - Blog pivot to focus on personal recommendations.
-  - Topics: Programming, Books, Hardware, Software.
-  - Goal: Provide useful and entertaining insights.
 ---
 
 Quick post on my plans for this blog.
