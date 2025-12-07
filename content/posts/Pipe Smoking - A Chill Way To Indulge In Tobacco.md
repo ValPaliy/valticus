@@ -4,20 +4,9 @@ description: What is pipe smoking? What's the history behind it? How to chose to
 published: 2024-12-20
 author:
   - Val Paliy
-keywords:
-  - pipe-smoking
-  - tobacco
-  - pipes
-  - history
-tags:
-  - pipe-smoking
-  - tobacco
-  - pipes
-  - history
-categories:
-  - pipe-smoking
-  - tobacco
-  - accessories
+keywords: ["pipe-smoking", "tobacco", "pipes", "history"]
+tags: ["pipe-smoking", "tobacco", "pipes", "history"]
+categories: ["pipe-smoking", "tobacco", "accessories"]
 key_takeaways:
   - Pipe smoking focuses on ritual, aroma, and relaxation.
   - Requires specific gear: Briar pipe, quality tobacco, tamper.

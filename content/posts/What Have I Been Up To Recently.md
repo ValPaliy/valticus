@@ -4,20 +4,8 @@ description: Those who follow this blog may have noticed I didn't write anything
 published: 2021-06-02
 author:
   - Val Paliy
-keywords:
-  - windows
-  - linux
-  - os
-  - programming
-  - csharp
-  - dotnet
-tags:
-  - windows
-  - linux
-  - os
-  - programming
-  - csharp
-  - dotnet
+keywords: ["windows", "linux", "os", "programming", "csharp", "dotnet"]
+tags: ["windows", "linux", "os", "programming", "csharp", "dotnet"]
 key_takeaways:
   - Switched entirely to Windows from Linux/dual-boot.
   - Deepening focus on C# and .NET ecosystem.

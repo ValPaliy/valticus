@@ -4,23 +4,9 @@ description: Did you know there exist a special type of lighters specifically fo
 published: 2025-10-12
 author:
   - Val Paliy
-keywords:
-  - pipe-smoking
-  - tobacco
-  - pipes
-  - history
-  - lighters
-tags:
-  - pipe-smoking
-  - tobacco
-  - pipes
-  - history
-  - lighters
-categories:
-  - pipe-smoking
-  - tobacco
-  - accessories
-  - lighters
+keywords: ["pipe-smoking", "tobacco", "pipes", "history", "lighters"]
+tags: ["pipe-smoking", "tobacco", "pipes", "history", "lighters"]
+categories: ["pipe-smoking", "tobacco", "accessories", "lighters"]
 key_takeaways:
   - Pipe lighters differ from cigarette lighters (angled flame).
   - Main types: Butane (clean/easy) vs Liquid Fuel (reliable/windproof).

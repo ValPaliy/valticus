@@ -4,14 +4,8 @@ description: What is Twitter Exodus? Why are people leaving a once popular socia
 published: 2024-11-18
 author:
   - Val Paliy
-keywords:
-  - social-media
-  - twitter
-  - elon-musk
-tags:
-  - social-media
-  - twitter
-  - elon-musk
+keywords: ["social-media", "twitter", "elon-musk"]
+tags: ["social-media", "twitter", "elon-musk"]
 key_takeaways:
   - Twitter usage declined following Elon Musk's acquisition.
   - Key issues: Moderation changes, paid verification, instability.

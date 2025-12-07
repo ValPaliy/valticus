@@ -4,20 +4,8 @@ description: The Queen's Gambit is an amazing TV show and an even more amazing b
 published: 2021-07-12
 author:
   - Val Paliy
-keywords:
-  - chess
-  - netflix
-  - limited series
-  - the queen's gambit
-  - anya taylor-joy
-  - walter tavis
-tags:
-  - chess
-  - netflix
-  - limited series
-  - the queen's gambit
-  - anya taylor-joy
-  - walter tavis
+keywords: ["chess", "netflix", "limited series", "the queen's gambit", "anya taylor-joy", "walter tavis"]
+tags: ["chess", "netflix", "limited series", "the queen's gambit", "anya taylor-joy", "walter tavis"]
 key_takeaways:
   - "The Queen's Gambit" is a highly acclaimed Netflix limited series.
   - Outstanding performance by Anya Taylor-Joy as Beth Harmon.

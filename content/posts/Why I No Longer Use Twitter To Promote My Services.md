@@ -4,14 +4,8 @@ description: As you are probably well aware, Twitter has recently been bought by
 published: 2023-04-09
 author:
   - Val Paliy
-keywords:
-  - social-media
-  - twitter
-  - elon-musk
-tags:
-  - social-media
-  - twitter
-  - elon-musk
+keywords: ["social-media", "twitter", "elon-musk"]
+tags: ["social-media", "twitter", "elon-musk"]
 key_takeaways:
   - Stopped using Twitter (April 2023) due to platform changes.
   - Concerns over professionalism, management, and arbitrary restrictions.

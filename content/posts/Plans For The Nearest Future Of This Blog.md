@@ -4,18 +4,8 @@ description: This blog will hopefully become a valuable source of information so
 published: 2021-06-20
 author:
   - Val Paliy
-keywords:
-  - programming
-  - books
-  - hardware
-  - software
-  - blog-updates
-tags:
-  - programming
-  - books
-  - hardware
-  - software
-  - blog-updates
+keywords: ["programming", "books", "hardware", "software", "blog-updates"]
+tags: ["programming", "books", "hardware", "software", "blog-updates"]
 key_takeaways:
   - Blog pivot to focus on personal recommendations.
   - Topics: Programming, Books, Hardware, Software.

@@ -5,35 +5,36 @@ published: 2022-12-01
 author:
   - Val Paliy
 keywords:
-  - Keyboards
-  - Mechanical
-  - Membrane
-  - keycaps
-  - switches
-  - Compare
-  - Better
-  - Mechanical versus Membrane
-  - Hardware
-  - Windows
-  - Linux
-  - macOS
+  [
+    "Keyboards",
+    "Mechanical",
+    "Membrane",
+    "keycaps",
+    "switches",
+    "Compare",
+    "Better",
+    "Mechanical versus Membrane",
+    "Hardware",
+    "Windows",
+    "Linux",
+    "macOS",
+  ]
 tags:
-  - Keyboards
-  - Mechanical
-  - Membrane
-  - keycaps
-  - switches
-  - Compare
-  - Better
-  - Mechanical versus Membrane
-  - Hardware
-  - Windows
-  - Linux
-  - macOS
-categories:
-  - Hardware
-  - Keyboards
-  - Peripherals
+  [
+    "Keyboards",
+    "Mechanical",
+    "Membrane",
+    "keycaps",
+    "switches",
+    "Compare",
+    "Better",
+    "Mechanical versus Membrane",
+    "Hardware",
+    "Windows",
+    "Linux",
+    "macOS",
+  ]
+categories: ["Hardware", "Keyboards", "Peripherals"]
 key_takeaways:
   - Mechanical keyboards use switches (Linear, Tactile, Clicky).
   - Pros: Durability, feedback, customization (keycaps, switches).
