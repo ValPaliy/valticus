@@ -4,16 +4,8 @@ description: Fonts are what we look at when we use a computer, a phone, a tablet
 published: 2021-06-05
 author:
   - Val Paliy
-keywords:
-  - windows
-  - fonts
-  - development
-  - ide
-tags:
-  - windows
-  - fonts
-  - development
-  - ide
+keywords: ["windows", "fonts", "development", "ide"]
+tags: ["windows", "fonts", "development", "ide"]
 key_takeaways:
   - "JetBrains Mono" is a top-tier free coding font.
   - Optimized for reading code and supports ligatures.
