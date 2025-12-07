@@ -14,6 +14,11 @@ tags:
   - productivity
   - windows
   - linux
+key_takeaways:
+  - Minimize installed apps to improve device performance.
+  - Avoid duplicate functionality (e.g., redundant browsers).
+  - Debloat Windows using tools like Chris Titus Tech's utility.
+  - Reduces battery drain and confusion.
 ---
 
 Oftentimes, when you buy a new PC, it comes preloaded with applications. Some of them are essential, like an anti-virus, and some of them are not. Over the years I've come to realize that the responsiveness of your device (it doesn't necessarily have to be a computer, it can be a mobile phone or a tablet, too) depends on how many applications you have installed. It is especially true for mobile devices, where applications are often started at boot and remain in the memory even if they are not used, draining battery power.

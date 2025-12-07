@@ -1,0 +1,90 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ if .IsHome }}WebSite{{ else if .IsPage }}BlogPosting{{ else }}WebPage{{ end }}",
+    "@id": "{{ .Permalink }}",
+    "url": "{{ .Permalink }}",
+    "name": "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
+    "description": "{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description | default .Summary }}{{ end }}",
+    "inLanguage": "{{ .Site.LanguageCode }}",
+    {{ if .IsPage }}
+    "headline": "{{ .Title }}",
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+    "wordCount": "{{ .WordCount }}",
+    "keywords": [
+      {{ if .Params.keywords }}
+        {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}
+      {{ else if .Params.tags }}
+        {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}
+      {{ end }}
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.Author.name }}",
+      "url": "{{ .Site.BaseURL }}",
+      "image": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}{{ .Site.Params.Author.avatar }}"
+      },
+      "sameAs": [
+          {{ range $i, $e := .Site.Params.widgets.social.custom }}
+          {{ if gt $i 0 }},{{ end }}
+          "{{ $e.url }}"
+          {{ end }}
+      ]
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}{{ .Site.Params.logo.image }}"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "isAccessibleForFree": true
+    {{ end }}
+    {{ if .IsHome }}
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+    {{ end }}
+  }
+</script>
+
+{{ if .IsPage }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ .Site.BaseURL }}"
+      }
+      {{ if .Parent }}
+      ,{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ .Parent.Title }}",
+        "item": "{{ .Parent.Permalink }}"
+      }
+      {{ end }}
+      ,{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+    ]
+  }
+</script>
+{{ end }}

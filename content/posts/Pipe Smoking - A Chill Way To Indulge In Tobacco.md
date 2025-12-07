@@ -18,6 +18,11 @@ categories:
   - pipe-smoking
   - tobacco
   - accessories
+key_takeaways:
+  - Pipe smoking focuses on ritual, aroma, and relaxation.
+  - Requires specific gear: Briar pipe, quality tobacco, tamper.
+  - Art of packing and lighting is crucial for good experience.
+  - Offers a diverse range of tobacco flavors.
 ---
 
 I smoke pipes. I don't encourage you to do so as well, mind you - smoking a pipe is still smoking and is not good for your health. However, if you are interested in history of pipe smoking and tobacco - read on.

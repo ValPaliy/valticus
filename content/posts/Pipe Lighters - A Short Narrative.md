@@ -21,6 +21,11 @@ categories:
   - tobacco
   - accessories
   - lighters
+key_takeaways:
+  - Pipe lighters differ from cigarette lighters (angled flame).
+  - Main types: Butane (clean/easy) vs Liquid Fuel (reliable/windproof).
+  - Considerations: Ignition type, size, and ergonomics.
+  - Essential accessory for pipe smokers.
 ---
 
 A pipe lighter is a lighter designed specifically for lighting tobacco pipes. It differs from a cigarette lighter in that it produces a flame that is drawn downwards into the bowl of the pipe, rather than upwards. This is achieved through a combination of the angle of the flame and the way the lighter is held.

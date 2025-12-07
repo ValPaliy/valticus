@@ -12,6 +12,11 @@ tags:
   - social-media
   - twitter
   - elon-musk
+key_takeaways:
+  - Twitter usage declined following Elon Musk's acquisition.
+  - Key issues: Moderation changes, paid verification, instability.
+  - Users migrating to Threads, Mastodon, and Bluesky.
+  - Social media landscape is fragmenting.
 ---
 
 Since Elon Musk's acquisition of Twitter in late 2022, the platform has undergone significant changes. These changes, ranging from content moderation policies to the platform's very name, have led to a notable exodus of users.

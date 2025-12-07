@@ -14,6 +14,11 @@ tags:
   - fonts
   - development
   - ide
+key_takeaways:
+  - "JetBrains Mono" is a top-tier free coding font.
+  - Optimized for reading code and supports ligatures.
+  - Comparison with "Fira Code" (another ligature font).
+  - Can be used system-wide for better readability.
 ---
 
 Let's face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I've tried a few).

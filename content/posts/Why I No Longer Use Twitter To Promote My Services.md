@@ -12,6 +12,11 @@ tags:
   - social-media
   - twitter
   - elon-musk
+key_takeaways:
+  - Stopped using Twitter (April 2023) due to platform changes.
+  - Concerns over professionalism, management, and arbitrary restrictions.
+  - Critical open letter to Elon Musk included.
+  - Platform felt unstable and unsafe for brand promotion.
 ---
 
 As you are probably well aware, Twitter has recently been bought by none other than Elon Musk himself. I don't know about you, but I am only noticing negative sides of this acquisition. I will try to explain why within following paragraphs.

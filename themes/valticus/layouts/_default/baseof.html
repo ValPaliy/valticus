@@ -34,8 +34,8 @@
     <meta name="theme-color" content="#0066FF" />
 
     {{- if .Site.Params.opengraph }} {{ template "_internal/opengraph.html" . }}
-    {{- end }} {{- if .Site.Params.schema }} {{ template "_internal/schema.html"
-    . }} {{- end }} {{- if .Site.Params.twitter_cards }} {{ template
+    {{- end }} {{- if .Site.Params.schema }} {{ partial "custom_schema.html" .
+    }} {{- end }} {{- if .Site.Params.twitter_cards }} {{ template
     "_internal/twitter_cards.html" . }} {{- end }} {{- /* Optimized Google Fonts
     loading with font-display swap */ -}} {{- $googleFontsLink :=
     .Site.Params.googleFontsLink | default

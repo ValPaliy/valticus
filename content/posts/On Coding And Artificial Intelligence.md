@@ -14,6 +14,11 @@ tags:
   - ai
   - vscode
   - tools
+key_takeaways:
+  - AI tools significantly boost coding productivity.
+  - TabNine recommended for intelligent code completion.
+  - Saves time and reduces keystrokes.
+  - Easy setup for VS Code.
 ---
 
 AI, or [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), is big at the moment, and to no surprise. AI can help humanity in many different areas, such as diagnosing an illness at an early stage, or assisting a driver with direction, or driving you to a desired destination.

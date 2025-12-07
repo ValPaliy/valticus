@@ -16,6 +16,11 @@ tags:
   - editor
   - IDE
   - theme
+key_takeaways:
+  - Automate VSCode theme switching for eye comfort.
+  - Use "Theme Switcher" extensions.
+  - Configure `settings.json` with specific time mappings.
+  - Switch themes manually via keyboard shortcuts if needed.
 ---
 
 Eye comfort is very important, especially to programmers, who spend most of their day looking at code in their favorite editor.
