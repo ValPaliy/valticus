@@ -3,7 +3,7 @@ set -e
 
 echo "=== Building Valticus ==="
 echo "Step 1: Building with Hugo..."
-hugo
+hugo --ignoreCache
 
 echo "Step 2: Generating sitemap (overwrite)..."
 python3 generate_sitemap.py
