@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Edge on </title>
-    <link>/tags/microsoft-edge/</link>
+    <link>//localhost:1313/tags/microsoft-edge/</link>
     <description>Recent content in Microsoft Edge on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/microsoft-edge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/microsoft-edge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It Is Time To Ditch Google Chrome</title>
-      <link>/posts/it-is-time-to-ditch-google-chrome/</link>
+      <link>//localhost:1313/posts/it-is-time-to-ditch-google-chrome/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/it-is-time-to-ditch-google-chrome/</guid>
+      <guid>//localhost:1313/posts/it-is-time-to-ditch-google-chrome/</guid>
       <description>&lt;p&gt;While it is true that Google&amp;rsquo;s &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; holds the largest number of users to date, I have recently switched to Microsoft&amp;rsquo;s &lt;a href=&#34;https://www.microsoft.com/en-us/edge&#34;&gt;Edge&lt;/a&gt; web browser.&lt;/p&gt;&#xA;&lt;p&gt;Edge can now use all the extensions I had in Chrome, and Edge has many great features built in which Chrome doesn&amp;rsquo;t. Like Web Capture, for example. Edge is also faster and loads web pages when Chrome can&amp;rsquo;t (this was recently discovered by yours truly when my network connection speed dropped due to technical issues on my service provider&amp;rsquo;s side).&lt;/p&gt;</description>
     </item>
   </channel>

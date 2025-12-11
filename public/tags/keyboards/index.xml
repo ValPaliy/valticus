@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keyboards on </title>
-    <link>/tags/keyboards/</link>
+    <link>//localhost:1313/tags/keyboards/</link>
     <description>Recent content in Keyboards on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mechanical vs. Membrane Keyboards</title>
-      <link>/posts/mechanical-vs-membrane-keyboards/</link>
+      <link>//localhost:1313/posts/mechanical-vs-membrane-keyboards/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/mechanical-vs-membrane-keyboards/</guid>
+      <guid>//localhost:1313/posts/mechanical-vs-membrane-keyboards/</guid>
       <description>&lt;p&gt;I own a mechanical keyboard for some time now, and I must say - in my opinion it is way better compared to my old membrane keyboard.&lt;/p&gt;&#xA;&lt;p&gt;Mechanical keyboards are gaining popularity as of late. While they were on the expensive side at first, you can buy (and assemble) one for under $100 today. Granted, you might need to get the keys and key caps to suit your needs in addition.&lt;/p&gt;</description>
     </item>
   </channel>

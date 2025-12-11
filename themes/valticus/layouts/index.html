@@ -1,22 +1,22 @@
 {{ define "main" }}
-<main class="main list" role="main">
-  <h1>{{ .Site.Title }}</h1>
+<main class="w3-main" role="main">
+  <header class="w3-container w3-margin-bottom">
+    <h1 class="w3-xxxlarge">{{ .Site.Title }}</h1>
+  </header>
   {{- with .Content }}
-  <div class="content main__content clearfix">{{ . }}</div>
+  <div class="w3-container w3-white w3-padding-large w3-margin-bottom">
+    {{ . }}
+  </div>
   {{- end }} {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in"
   .Site.Params.mainSections) }} {{- range $index, $page := $paginator.Pages }}
   {{ partial "summary-card.html" (dict "page" $page "lcp" (eq $index 0)) }} {{-
   end }} {{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
-  <div class="warning">
-    {{ partial "svg/files.svg" (dict "class" "warning__icon") }}
-    <h3 class="warning__headline">
-      {{ T "noposts_warning_title" | safeHTML }}
-    </h3>
-    <div class="warning__text">
-      <p class="warning__description">
-        {{ T "noposts_warning_description" | safeHTML }}
-      </p>
-      <p class="warning__tip">{{ T "noposts_warning_tip" | safeHTML }}</p>
+  <div class="w3-panel w3-yellow w3-leftbar w3-border-red">
+    {{ partial "svg/files.svg" (dict "class" "w3-margin-right") }}
+    <h3>{{ T "noposts_warning_title" | safeHTML }}</h3>
+    <div>
+      <p>{{ T "noposts_warning_description" | safeHTML }}</p>
+      <p>{{ T "noposts_warning_tip" | safeHTML }}</p>
     </div>
   </div>
   {{ end }}

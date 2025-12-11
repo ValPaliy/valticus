@@ -1,19 +1,21 @@
 {{ define "main" }}
-<main class="main" role="main">
-  <article class="post">
-    <header class="post__header">
-      <h1 class="post__title">{{ .Title }}</h1>
+<main class="w3-main" role="main">
+  <article class="w3-container w3-padding-large">
+    <header class="w3-container w3-margin-bottom">
+      <h1 class="w3-xxxlarge">{{ .Title }}</h1>
       {{- with .Params.lead }}
-      <p class="post__lead">{{ . }}</p>
+      <p class="w3-large">{{ . }}</p>
       {{- end }} {{ with partial "post_meta.html" . -}}
-      <div class="post__meta meta">{{ . }}</div>
+      <div class="w3-text-grey">{{ . }}</div>
       {{- end }}
     </header>
     {{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }} {{-
     partial "post_toc.html" . -}}
-    <div class="content post__content clearfix">{{ .Content }}</div>
+    <div class="w3-container w3-justify">{{ .Content }}</div>
     {{- if .Params.tags }}
-    <footer class="post__footer">{{ partial "post_tags.html" . }}</footer>
+    <footer class="w3-container w3-padding w3-margin-top">
+      {{ partial "post_tags.html" . }}
+    </footer>
     {{- end }}
   </article>
 </main>

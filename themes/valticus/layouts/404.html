@@ -1,8 +1,8 @@
 {{ define "main" }}
-<main class="main" role="main">
-	<div class="warning">
-		<h1 class="warning__headline">{{ T "404_title" }}</h1>
-		<p class="warning__text">{{ T "404_text" }} <a href="{{ "" | relLangURL }}">{{ T "404_linktext" }}</a>.</p>
+<main class="w3-main" role="main">
+	<div class="w3-container w3-red w3-padding-large w3-center w3-margin w3-card-4">
+		<h1>{{ T "404_title" }}</h1>
+		<p>{{ T "404_text" }} <a href="{{ "" | relLangURL }}" class="w3-text-white"><b>{{ T "404_linktext" }}</b></a>.</p>
 	</div>
 </main>
 {{ end }}

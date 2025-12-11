@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on </title>
-    <link>/tags/software/</link>
+    <link>//localhost:1313/tags/software/</link>
     <description>Recent content in Software on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plans For The Nearest Future Of This Blog</title>
-      <link>/posts/plans-for-the-nearest-future-of-this-blog/</link>
+      <link>//localhost:1313/posts/plans-for-the-nearest-future-of-this-blog/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/plans-for-the-nearest-future-of-this-blog/</guid>
+      <guid>//localhost:1313/posts/plans-for-the-nearest-future-of-this-blog/</guid>
       <description>&lt;p&gt;Quick post on my plans for this blog.&lt;/p&gt;&#xA;&lt;p&gt;Basically, I am planning to recommend you, the reader, what I use myself - be it a computer keyboard I use, a book I&amp;rsquo;ve read or a coffee brand I like.&lt;/p&gt;&#xA;&lt;p&gt;What will be covered (the list is subject to change with time):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Coding&lt;/li&gt;&#xA;&lt;li&gt;Books&lt;/li&gt;&#xA;&lt;li&gt;Hardware&lt;/li&gt;&#xA;&lt;li&gt;Software&lt;/li&gt;&#xA;&lt;li&gt;Merchandise&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hope you will find my recommendations useful, or at the very least - entertaining.&lt;/p&gt;</description>
     </item>
   </channel>

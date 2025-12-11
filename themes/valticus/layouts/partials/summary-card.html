@@ -1,24 +1,26 @@
-<article class="list__item post">
+<div class="w3-card-4 w3-margin w3-white">
   {{ partial "post_thumbnail.html" (dict "class" "list" "page" .page "lcp" .lcp)
   }}
-  <header class="list__header">
-    <h2 class="list__title post__title">
-      <a href="{{ .page.RelPermalink }}" rel="bookmark"> {{ .page.Title }} </a>
+  <header class="w3-container">
+    <h2>
+      <a href="{{ .page.RelPermalink }}" style="text-decoration: none">
+        {{ .page.Title }}
+      </a>
     </h2>
     {{- with .page.Params.lead }}
-    <p class="list__lead post__lead">{{ . }}</p>
+    <p class="w3-opacity">{{ . }}</p>
     {{- end }} {{ with partial "post_meta.html" .page -}}
-    <div class="list__meta meta">{{ . }}</div>
+    <div class="w3-text-grey">{{ . }}</div>
     {{- end }}
   </header>
-  <div class="content list__excerpt post__content clearfix">
-    {{ .page.Summary }}
-  </div>
+  <div class="w3-container">{{ .page.Summary }}</div>
   {{- if .page.Site.Params.readmore }} {{- if .page.Truncated }}
-  <div class="list__footer clearfix">
-    <a class="list__footer-readmore btn" href="{{ .page.RelPermalink }}"
+  <div class="w3-container w3-padding">
+    <a
+      class="w3-button w3-black w3-margin-bottom"
+      href="{{ .page.RelPermalink }}"
       >{{ T "read_more" }}</a
     >
   </div>
   {{- end }} {{- end }}
-</article>
+</div>

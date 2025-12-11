@@ -56,18 +56,7 @@
     <noscript
       ><link rel="stylesheet" href="{{ $googleFontsLink }}&display=swap"
     /></noscript>
-    {{- end }} {{- /* Bundle and minify CSS with fingerprinting for cache
-    busting */ -}} {{ $style := resources.Get "css/style.css" |
-    resources.ExecuteAsTemplate "css/style.css" . -}} {{ $custom :=
-    resources.Get "css/custom.min.css" -}} {{ if not $custom }} {{ $custom =
-    resources.Get "css/custom.css" -}} {{ end }} {{ $css := slice $style $custom
-    | resources.Concat "css/bundle.css" | resources.PostCSS | resources.Minify |
-    resources.Fingerprint -}}
-    <link
-      rel="stylesheet"
-      href="{{ $css.RelPermalink }}"
-      integrity="{{ $css.Data.Integrity }}"
-    />
+    <link rel="stylesheet" href="{{ "css/w3.css" | relURL }}" />
     <!-- Google Tag Manager -->
     <script>
       (function (w, d, s, l, i) {
@@ -83,7 +72,7 @@
     </script>
     <!-- End Google Tag Manager -->
   </head>
-  <body class="body">
+  <body class="w3-light-grey">
     <!-- Google Tag Manager (noscript) -->
     <noscript
       ><iframe
@@ -94,12 +83,12 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <div class="container container--outer">
+    <div class="w3-content w3-container" style="max-width: 1100px">
       {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-      <div class="wrapper flex">
-        <div class="primary">
+      <div class="w3-row">
+        <div class="w3-col l8 s12">
           {{ block "main" . }} {{ with .Content }}
-          <div class="content main__content clearfix">{{ . }}</div>
+          <div class="w3-card-4 w3-margin w3-white">{{ . }}</div>
           {{ end }} {{ end }}
         </div>
         {{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}

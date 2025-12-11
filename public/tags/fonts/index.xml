@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fonts on </title>
-    <link>/tags/fonts/</link>
+    <link>//localhost:1313/tags/fonts/</link>
     <description>Recent content in Fonts on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Get macOS Font Rendering In Windows</title>
-      <link>/posts/how-to-get-macos-font-rendering-in-windows/</link>
+      <link>//localhost:1313/posts/how-to-get-macos-font-rendering-in-windows/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/how-to-get-macos-font-rendering-in-windows/</guid>
-      <description>&lt;p&gt;Tell me something - are you happy with how ClearType, the default font renderer in &lt;a href=&#34;https://valticus.pro/tags/windows&#34;&gt;Windows&lt;/a&gt; does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.&lt;/p&gt;&#xA;&lt;p&gt;Let me show you something really quick. This is how the fonts are rendered on my Windows machine:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;/images/mactype-0.webp&#34;&#xA;    alt=&#34;MacType Font Rendering Example&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;MacType Font Rendering Example&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;If you would like to achieve similar results, there are only a couple of steps you have to do, and they don&amp;rsquo;t require any tweaking.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/how-to-get-macos-font-rendering-in-windows/</guid>
+      <description>&lt;p&gt;Tell me something - are you happy with how ClearType, the default font renderer in &lt;a href=&#34;https://valticus.pro/tags/windows&#34;&gt;Windows&lt;/a&gt; does its job? If you are like me and have to look at your computer screen for the most part of your day, you might prefer something better.&lt;/p&gt;&#xA;&lt;p&gt;Let me show you something really quick. This is how the fonts are rendered on my Windows machine:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/mactype-0.webp&#34;&#xA;    alt=&#34;MacType Font Rendering Example&#34; width=&#34;75%&#34; height=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;MacType Font Rendering Example&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;If you would like to achieve similar results, there are only a couple of steps you have to do, and they don&amp;rsquo;t require any tweaking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Let&#39;s Talk About Fonts (Part 1)</title>
-      <link>/posts/lets-talk-about-fonts/</link>
+      <link>//localhost:1313/posts/lets-talk-about-fonts/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/lets-talk-about-fonts/</guid>
+      <guid>//localhost:1313/posts/lets-talk-about-fonts/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s face it - as developers we look at code 90% of our time we spend in front of the monitor. While there tons of fonts available for our favorite text editors, both free and paid, I have found one font in particular to be extremely enjoyable (and believe me - I&amp;rsquo;ve tried a few).&lt;/p&gt;&#xA;&lt;p&gt;That is - &lt;a href=&#34;https://www.jetbrains.com/lp/mono/&#34;&gt;JetBrains Mono&lt;/a&gt;, a free and open source font from the very same company that brought us tools like &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34;&gt;WebStorm&lt;/a&gt; and &lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;PyCharm&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

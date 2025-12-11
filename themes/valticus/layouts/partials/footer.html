@@ -1,12 +1,10 @@
-<footer class="footer">
-  <div class="container footer__container flex">
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+  <div class="w3-center">
     {{ partial "footer_links.html" . }}
-    <div class="footer__copyright">
+    <p>
       &copy; {{ now.Format "2006" }} {{ .Site.Params.copyright | default
       .Site.Title }}.
-      <span class="footer__copyright-credits"
-        >{{ T "footer_credits" | safeHTML }}</span
-      >
-    </div>
+      <span>{{ T "footer_credits" | safeHTML }}</span>
+    </p>
   </div>
 </footer>

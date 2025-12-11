@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cms on </title>
-    <link>/tags/cms/</link>
+    <link>//localhost:1313/tags/cms/</link>
     <description>Recent content in Cms on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/cms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Don&#39;t Use Netlify CMS (Yet)</title>
-      <link>/posts/why-i-dont-use-netlify-cms-yet/</link>
+      <link>//localhost:1313/posts/why-i-dont-use-netlify-cms-yet/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/why-i-dont-use-netlify-cms-yet/</guid>
+      <guid>//localhost:1313/posts/why-i-dont-use-netlify-cms-yet/</guid>
       <description>&lt;p&gt;The answer is simple - &lt;a href=&#34;https://www.netlifycms.org/&#34;&gt;Netlify CMS&lt;/a&gt; doesn&amp;rsquo;t fully support &lt;a href=&#34;https://statiq.dev/web/&#34;&gt;Statiq Web&lt;/a&gt; yet. You can read more on the subject &lt;a href=&#34;https://answers.netlify.com/t/integrating-netlify-cms-into-statiq-website-config-yml-not-found/&#34;&gt;in this thread&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

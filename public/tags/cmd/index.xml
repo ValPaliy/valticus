@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cmd on </title>
-    <link>/tags/cmd/</link>
+    <link>//localhost:1313/tags/cmd/</link>
     <description>Recent content in Cmd on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GNU on Windows (GoW) - Linux Commands on Windows</title>
-      <link>/posts/gnu-on-windows-gow---linux-commands-in-windows/</link>
+      <link>//localhost:1313/posts/gnu-on-windows-gow---linux-commands-in-windows/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/gnu-on-windows-gow---linux-commands-in-windows/</guid>
+      <guid>//localhost:1313/posts/gnu-on-windows-gow---linux-commands-in-windows/</guid>
       <description>&lt;p&gt;For a long time the only way to launch &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;Linux&lt;/a&gt; commands in &lt;a href=&#34;https://www.microsoft.com/en-us/windows&#34;&gt;Windows&lt;/a&gt; was with &lt;a href=&#34;https://www.cygwin.com/&#34;&gt;Cygwin&lt;/a&gt;. But &lt;a href=&#34;https://www.cygwin.com/&#34;&gt;Cygwin&lt;/a&gt; is rather bulky and can take a long time to download if you are on a slower Internet connection.&lt;/p&gt;&#xA;&lt;p&gt;As I&amp;rsquo;ve mentioned &lt;a href=&#34;https://valticus.pro/tags/linux/&#34;&gt;before&lt;/a&gt;, I love &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;Linux&lt;/a&gt; for its stability and reliability. So I was looking for a simpler way to execute Linux commands in &lt;a href=&#34;https://www.microsoft.com/en-us/windows&#34;&gt;Windows&lt;/a&gt;, and found it!&lt;/p&gt;&#xA;&lt;p&gt;I present to you &lt;a href=&#34;https://github.com/bmatzelle/gow/wiki&#34;&gt;GNU on Windows&lt;/a&gt; also known as &lt;a href=&#34;https://github.com/bmatzelle/gow/wiki&#34;&gt;GoW)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To quote GoW&amp;rsquo;s website:&lt;/p&gt;</description>
     </item>
   </channel>
